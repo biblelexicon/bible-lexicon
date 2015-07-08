@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modulesDlgLoadingText">Chargement des modules à partir de la carte mémoire...</string>
+    <string name="modulesDlgLoadingRemeberedTabsText">Ouverture des derniers onglets...</string>
+    <string name="modulesNameLexicon">Lexique</string>
+    <string name="modulesNameLexiconDesc">Étudier la signification originelle du mot en hébreu ou en grec.</string>
+    <string name="modulesNameDictionary">Dictionnaire</string>
+    <string name="modulesNameDictionaryDesc">Dictionnaire utile pour la traduction.</string>
+    <string name="modulesNameBible">Bible</string>
+    <string name="modulesNameBibleDesc">Lire le texte biblique. Tapez sur un mot pour plus d\'information et d\'options.</string>
+    <string name="modulesNameBibleReader">Lecteur</string>
+    <string name="modulesNameBibleReaderDesc">Lire un texte biblique. Le texte peut être mis en parallèle avec un autre texte. Clicker sur un mot vous donne d\'autres options d\'étude.</string>
+    <string name="modulesNameConcordance">Concordance</string>
+    <string name="modulesNameConcordanceDesc">Étudier les occurences d\'un mot ou d\'une phrase.</string>
+    <string name="modulesNameExegeticalStudy">Étude exégétique</string>
+    <string name="modulesNameExegeticalStudyDesc">Outil avancé pour l\'exégèse. Se concentre sur une analyse verset par verset avec le contexte sous la main. Permutation possible avec d\'autres types d\'analyses.</string>
+    <string name="modulesNamePassageTranslation">Traduire le passage</string>
+    <string name="modulesNamePassageTranslationDesc">Traduction mot-à-mot du passage sélectionné depuis le grec ou l\'hébreu. Cliquer pour étiqueter en vue d\'une future recherche.</string>
+    <string name="modulesNameLexiconsSearch">Recherche des lexiques</string>
+    <string name="modulesNameLexiconsSearchDesc">Recherche de tous les lexiques</string>
+    <string name="modulesNameVocabularyCreator">Créateur de vocabulaire</string>
+    <string name="modulesNameVocabularyCreatorDesc">Créez votre propre vocabulaire, imprimez-le et étudiez-le.</string>
+    <string name="modulesNameNotes">Notes</string>
+    <string name="modulesNameNotesDesc">Vos notes d\'étude. Elles peuvent être attachées à un passage particulier.</string>
+    <string name="modulesNameBookmarks">Signets</string>
+    <string name="modulesNameBookmarksDesc">Vos signets</string>
+    <!-- List filter -->
+    <string name="modulelistFilterTextHint">Rechercher par titre, description, langue...</string>
+    <!-- List -->
+    <string name="modulelistModulesTutorial">Tutorial</string>
+    <string name="modulelistModulesNoYoutubeApp">Désolé. Aucune application YouTube.</string>
+    <string name="modulelistModulesUpdates">Mises à jour</string>
+    <string name="modulelistModulesModuleOutdated">Ce module est obsolète</string>
+    <string name="modulelistModulesDownloadUpdate">Mise à jour</string>
+    <string name="modulelistModulesDownloadIndex">Index</string>
+    <string name="modulelistModulesNoDirFound">Le chemin du module `{dir}` est introuvable</string>
+    <string name="modulelistModulesNoFound">Aucun module trouvé</string>
+    <string name="modulelistUpdatesChecking4">Vérifie les mises à jour...</string>
+    <string name="modulelistUpdatesDownloadFound">Des mises à jour sont disponibles. Les télécharger?</string>
+    <string name="modulelistUpdatesNoFound">Aucune mise à jour disponible</string>
+    <string name="modulelistItemOptionsInfo">Afficher les informations du module</string>
+    <string name="modulelistItemOptionsCheck4Updates">Vérifier les mises à jour de module</string>
+    <string name="modulelistItemOptionsCreateIndexes">Crée une indexation de recherche</string>
+    <string name="modulelistItemOptionsDelete">Effacer le module de la carte mémoire</string>
+    <string name="modulelistModuleInformations">Informations du module</string>
+    <string name="modulelistDeleteModule">Souhaitez-vous vraiment supprimer ce module?</string>
+    <string name="modulelistModuleInfo"><![CDATA[
+		<style>
+			.thumb
+			{
+				float: left;
+				width: 80px;
+				padding-right: 5px;
+			}
+		</style><h2>Description du module</h2><div class=\"description\"><div class=\"thumb\">
+				{image}			
+			</div>		
+			{content}
+		</div><div class=\"clear\"></div><p><br /></p><h2>Informations du module</h2><table><tr><th>Titre</th><td>{title}</td></tr><tr><th>Titre court</th><td>{titleshort}</td></tr><tr><th>Identifier</th><td>{identifier}</td></tr><tr><td colspan=\"2\">&nbsp;</td></tr><tr><th>Version</th><td>{version}</td></tr><tr><th>Type</th><td>{type}</td></tr><tr><th>Langage</th><td>{language}</td></tr><tr><th>Entrées</th><td>{entries}</td></tr><tr><td colspan=\"2\">&nbsp;</td></tr><tr><th>A AT</th><td>{hasot}</td></tr><tr><th>A NT</th><td>{hasnt}</td></tr><tr><th>A strongs</th><td>{hasstrongs}</td></tr><tr><th>A la morphologie</th><td>{hasmorphology}</td></tr><tr><th>A notes</th><td>{hasnotes}</td></tr><tr><td colspan=\"2\">&nbsp;</td></tr><tr><th>Copyright</th><td>{copyright}</td></tr></table><h2>Change log</h2><p>
+	    	{changelog}
+	    </p>  
+
+	]]></string>
+    <!-- Downloads -->
+    <string name="moduledownloadDownloadingList">Télécharger la liste de téléchargement..</string>
+    <string-array name="modulesNames">
+        <item>Lexiques</item>
+        <item>Dictionnaires.</item>
+        <item>Bibles</item>
+        <item>Concordances</item>
+        <item>Traduction du passage</item>
+        <item>Lecteur</item>
+        <item>Créateur de vocabulaire</item>
+        <item>Études exégétiques</item>
+        <item>Notes</item>
+    </string-array>
+    <string name="modulesNamesBibles">Bibles</string>
+    <string-array name="modulesDescs">
+        <item>Étudie la signification originale en Hébreu ou en Grec</item>
+        <item>Dictionnaires pratiques pour la traduction</item>
+        <item>Lire le texte biblique. Tapez sur un mot pour d\'autres informations sur le mot ou d\'autres options.</item>
+        <item>Étudie les occurrences de mots ou de phrase.</item>
+        <item>Traduit  mot-à-mot le passage biblique sélectionné du grec ou de l\'hébreu. Tapez afin de marquer pour une future recherche.</item>
+        <item>Lit un texte biblique. Il peut être affiché en parallèle avec d\'autres textes. Taper sur un mot peut donner d\'autres options.</item>
+        <item>Créez votre propre vocabulaire, imprimez-le et étudiez-le.</item>
+        <item>Outil perfectionné pour une recherche exégétique. Travail concentré sur une analyse verset par verset dans son contexte. D\'autres onglets d\'analyse peuvent commuter.</item>
+        <item>Vos notes d\'étude. Les notes peuvent être liées à un passage particulier.</item>
+    </string-array>
+</resources>

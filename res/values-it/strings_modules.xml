@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modulesDlgLoadingText">Sto caricando le pubblicazioni dall\'SDcard...</string>
+    <string name="modulesDlgLoadingRemeberedTabsText">Ultime finestre aperte...</string>
+    <string name="modulesNameLexicon">Lessico</string>
+    <string name="modulesNameLexiconDesc">Studia il significato di una parola nell\'originale Ebraico e Greco.</string>
+    <string name="modulesNameDictionary">Dizionario</string>
+    <string name="modulesNameDictionaryDesc">Dizionari utili per la traduzione.</string>
+    <string name="modulesNameBible">Bibbia</string>
+    <string name="modulesNameBibleDesc">Leggi la Bibbia. Clicca su una parola per info ed approfondimenti.</string>
+    <string name="modulesNameBibleReader">Lettore Biblico</string>
+    <string name="modulesNameBibleReaderDesc">Leggi la Bibbia. Confronta i testi. Clicca su una parola per info ed approfondimenti.</string>
+    <string name="modulesNameConcordance">Concordanza</string>
+    <string name="modulesNameConcordanceDesc">Studia le ricorrenze di una parola o di una frase.</string>
+    <string name="modulesNameExegeticalStudy">Esegesi</string>
+    <string name="modulesNameExegeticalStudyDesc">Strumento avanzato per lo studio esegetico basato sull\'analisi dei versetti nei propri contesti con la possibilità di collegare tra loro ulteriori finestre.</string>
+    <string name="modulesNamePassageTranslation">Traduzione del brano</string>
+    <string name="modulesNamePassageTranslationDesc">Traduci i brani biblici selezionati dall\'Ebraico o dal Greco parola per parola. Clicca sui collegamenti per ampliare la ricerca.</string>
+    <string name="modulesNameLexiconsSearch">Ricerca nei lessici</string>
+    <string name="modulesNameLexiconsSearchDesc">Ricerca in tutti i lessici.</string>
+    <string name="modulesNameVocabularyCreator">Vocabolario personale</string>
+    <string name="modulesNameVocabularyCreatorDesc">Crea il tuo vocabolario personale. Stampalo e studialo.</string>
+    <string name="modulesNameNotes">Note</string>
+    <string name="modulesNameNotesDesc">Le tue note. Le note possono essere agganciate a brani specifici.</string>
+    <string name="modulesNameBookmarks">Segnalibri</string>
+    <string name="modulesNameBookmarksDesc">I tuoi segnalibri.</string>
+    <!-- List filter -->
+    <string name="modulelistFilterTextHint">Cerca per titolo, descrizione o lingua...</string>
+    <!-- List -->
+    <string name="modulelistModulesTutorial">Tutorial</string>
+    <string name="modulelistModulesNoYoutubeApp">Spiacente, non riesco ad aprire Youtube</string>
+    <string name="modulelistModulesUpdates">Aggiornamenti</string>
+    <string name="modulelistModulesModuleOutdated">Questa pubblicazione non è aggiornata</string>
+    <string name="modulelistModulesDownloadUpdate">Aggiornato</string>
+    <string name="modulelistModulesDownloadIndex">Indice</string>
+    <string name="modulelistModulesNoDirFound">Pubblicazione `{dir}` non trovata</string>
+    <string name="modulelistModulesNoFound">Nessuna pubblicazione trovata</string>
+    <string name="modulelistUpdatesChecking4">Controllo per aggiornamenti...</string>
+    <string name="modulelistUpdatesDownloadFound">Aggiornamenti rilevati. Procedo al download?</string>
+    <string name="modulelistUpdatesNoFound">Nessun aggiornamento trovato</string>
+    <string name="modulelistItemOptionsInfo">Informazioni sulle pubblicazioni</string>
+    <string name="modulelistItemOptionsCheck4Updates">Controllo aggiornamento pubblicazioni</string>
+    <string name="modulelistItemOptionsCreateIndexes">Creazione indice delle pubblicazioni</string>
+    <string name="modulelistItemOptionsDelete">Cancellazione pubblicazioni dall\'SDcard</string>
+    <string name="modulelistModuleInformations">Informazioni sulle pubblicazioni</string>
+    <string name="modulelistDeleteModule">Vuoi davvero cancellare questa pubblicazione?</string>
+    <string name="modulelistModuleInfo"><![CDATA[
+		<style>
+			.thumb
+			{
+				float: left;
+				width: 80px;
+				padding-right: 5px;
+			}
+		</style>
+	
+		<h2>Descrizione pubblicazione</h2>
+		<div class="description">
+			<div class=\"thumb\">
+				{image}			
+			</div>		
+			{content}
+		</div>		
+
+		<div class="clear"></div>
+		<p><br /></p>
+		<h2>Informazioni pubblicazione</h2>
+	    <table>
+	    	<tr>
+	    		<th>Titolo</th><td>{title}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Abbreviazione</th><td>{titleshort}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Identificatore</th><td>{identifier}</td>
+	    	</tr>
+			<tr>
+	    		<td colspan="2">&nbsp;</td>
+	    	</tr>	    		    		    
+	    	<tr>
+	    		<th>Versione</th><td>{version}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Tipo</th><td>{type}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Lingua</th><td>{language}</td>
+	    	</tr>	
+	    	<tr>
+	    		<th>Voci</th><td>{entries}</td>
+	    	</tr>
+			<tr>
+	    		<td colspan="2">&nbsp;</td>
+	    	</tr>	
+	    	<tr>
+	    		<th>Ha OT</th><td>{hasot}</td>
+	    	</tr>		    		    	
+	    	<tr>
+	    		<th>Ha NT</th><td>{hasnt}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Ha Strong</th><td>{hasstrongs}</td>
+	    	</tr>	
+	    	<tr>
+	    		<th>Ha morfologia</th><td>{hasmorphology}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Ha note</th><td>{hasnotes}</td>
+	    	</tr>
+			<tr>
+	    		<td colspan="2">&nbsp;</td>
+	    	</tr>	    		    		    
+	    	<tr>
+	    		<th>Copyright</th><td>{copyright}</td>
+	    	</tr>	    	    		    	    		    		    		    		    	
+	    </table> 
+	    
+	    <h2>Change log</h2>
+	    <p>
+	    	{changelog}
+	    </p>  
+	]]></string>
+    <!-- Downloads -->
+    <string name="moduledownloadDownloadingList">Scarico la lista dei download</string>
+    <string-array name="modulesNames">
+        <item>Lessici.</item>
+        <item>Dizionari</item>
+        <item>Bibbie</item>
+        <item>Concordanze</item>
+        <item>Traduzione del brano</item>
+        <item>Lettore biblico</item>
+        <item>Crea un vocabolario personale</item>
+        <item>Esegesi</item>
+        <item>Note</item>
+    </string-array>
+    <string name="modulesNamesBibles">Bibbie</string>
+    <string-array name="modulesDescs">
+        <item>Studia il significato del termine originale in Ebraico o in Greco</item>
+        <item>Dizionari.</item>
+        <item>Leggi un brano biblico. Clicca su una parola per info ed approfondimenti.</item>
+        <item>Studia le ricorrenze di una parola o di una frase.</item>
+        <item>Traduci il brano selezionato dal Greco o dall\'Ebraico parola per parola. Clicca sui tag per espandere la ricerca.</item>
+        <item>Leggi e confronti brani biblici. Clicca sulle parole per espandere il tuo studio.</item>
+        <item>Crea il tuo vocabolario e stampalo per poterlo studiare.</item>
+        <item>Strumento avanzato per lo studio esegetico basato sull\'analisi dei versetti nei propri contesti.</item>
+        <item>Le tue note. Le note possono essere collegate ai brani cui si riferiscono.</item>
+    </string-array>
+</resources>

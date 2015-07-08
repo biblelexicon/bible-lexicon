@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ratingTitle">Hodnocení</string>
+    <string name="ratingText">Nyní bude otevřen Google play…</string>
+    <string name="ratingGooglePlayMissing">Aplikace Google play nebyla nalezena</string>
+</resources>

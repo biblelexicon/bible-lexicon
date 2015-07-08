@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="moduledownloadTitle">Module de téléchargement</string>
+    <string-array name="moduledownloadOptionsType">
+        <item>- Sélectionnez le type -</item>
+        <item>Lexique</item>
+        <item>Bible</item>
+    </string-array>
+    <string name="moduledownloadOptionsNotDownloaded">Non téléchargé</string>
+    <string name="moduledownloadDlgStartDownload">Commencer le téléchargement de ce module?</string>
+    <string name="moduledownloadDlgNoModules">Désolé, pas de module à télécharger. Merci d\'essayer plus tard.</string>
+    <string name="moduledownloadPreparedForDownload">Téléchargement en préparation...</string>
+    <string name="moduledownloadDownloadAlreadyDownloaded">Le `{module}` est à présent téléchargé.</string>
+    <string name="moduledownloadDownloadInProgress">En progression...</string>
+    <string name="moduledownloadDownloadCanceled">Finalisation...</string>
+    <string name="moduledownloadDeleteOldModulesTitle">Efface l\'ancien</string>
+    <string name="moduledownloadDeleteOldModulesText">Voulez-vous effacer les anciens modules de `{module}` ?</string>
+    <!-- List filter -->
+    <string name="moduledownloadFilterTextHint">Chercher par titre, langue...</string>
+    <string name="moduledownloadStatusRefresh">Rafraîchissement</string>
+    <string name="moduledownloadStatusLoading">Modules en téléchargement...</string>
+    <string name="moduledownloadStatusEmpty">Aucun module à télécharger</string>
+    <string name="moduledownloadStatusError">Impossible de se connecter au serveur pour obtenir la liste des modules. Merci d\'essayer plus tard.</string>
+    <string-array name="moduledownloadOptionsLanguages">
+        <item>- Sélectionnez la langue -</item>
+        <item>Arabe</item>
+        <item>Tchèque</item>
+        <item>Anglais</item>
+        <item>Français</item>
+        <item>Allemand</item>
+        <item>Grec</item>
+        <item>Hébreu</item>
+        <item>Chinois</item>
+        <item>Indonésien</item>
+        <item>Italien</item>
+        <item>Japonais</item>
+        <item>Latin</item>
+        <item>Polonais</item>
+        <item>Portuguais</item>
+        <item>Russe</item>
+        <item>Slovaque</item>
+        <item>Espagnol</item>
+        <item>Swahili</item>
+        <item>Turc</item>
+        <item>Vietnamien</item>
+    </string-array>
+</resources>

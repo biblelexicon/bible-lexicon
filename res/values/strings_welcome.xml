@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="welcomeTabTitle">Welcome</string>
+
+	<string name="welcomeTabText">
+	<![CDATA[
+		<p>
+			Welcome to Bible lexicon Bible study application.
+		</p>	
+		<p>
+			Do not hesitate to contact me at <a href="#" onclick="openEmail.onClick(); return false;">{email}</a> if you need help or have some questions.
+		</p>
+	    <p></p>
+	    <h2>Using for a first time</h2>
+	    	    
+	    <p>Follow these steps to start using this app:</p>			    
+	    <ol>
+	    	<li>
+	    		Download some modules (<a href="#" onclick="openTutorial.onClick(); return false;">youtube tutorial</a>)
+	    		<ul>
+	    			<li>Open application\'s menu (click on upper-left app\'s icon)</li>
+	    			<li>Select module downloader</li>
+	    			<li>Now select group of modules you want to download. Please, also use filter to narrow the listing</li>
+	    		</ul>
+	    	</li>
+	    	<li>Now you are ready to use the application. Continue with:
+				<ul>
+	    			<li><em>Module library</em>: library of all downloaded modules (here you can open lexicons and Bibles)</li>
+	    			<li><em>Study tools</em>: this group of tools comes useful if you want to study things more deeply</li>
+	    			<li><em>Tools</em>: tools to enrich your app\'s usage</li>
+	    		</ul>
+	    	</li>
+	    </ol>	
+   		<p>For a further guide, please see <a href="#" onclick="openHelp.onClick(); return false;">help</a>, which addresses things more specifically.</p>
+   
+	    <p></p>
+	    <h2>Become UI translator</h2>   
+	    <p>
+	    	Please, help to translate Bible lexicon´s UI from English to your language.
+	    	You can contact me at <a href="#" onclick="openTranslationEmail.onClick(); return false;">{email}</a>. 
+	    </p>
+	    <p>
+ 
+	    </p>	    
+	]]>    
+	</string>
+	<string name="welcomeTabEmailSubject">Email from Bible lexicon v{version}</string>
+	<string name="welcomeTabTranslationEmailSubject">Help with UI translation</string>
+
+	<string name="welcomeTabHtml">
+	<![CDATA[
+		<html>
+			<head>
+				<style>
+					body
+					{
+						font-size: {fontsize}px;
+						color: {fontcolor};
+						text-align: left;
+					}
+
+					h1{font-size: {fontsizeh1}px; color: #35aad0;margin: 5px 0 0 0;}
+					h2{font-size: {fontsizeh2}px; color: #286e85;margin: 0;padding: 2px 0 0 0;}
+	
+					ol, ul
+					{
+						margin: 0 0 0 15px;
+						padding: 0 0 0 20px;
+					}
+					
+					ol li, ul li
+					{
+						margin: 4px 0 2px ;
+					}
+					
+					.highlight, b, a{color: #079dd0;}					
+					.red{color: #c31010;}					
+					.nopadding{padding-top: 0;}
+					.clear{clear: both;}
+					
+					.fleft{float: left;}
+					.fright{float: right;}
+					
+
+				</style>
+			</head>
+			<body>
+				{content}    
+		    </body>
+	    </html>	       
+	]]>    
+	</string>    
+    	
+</resources>

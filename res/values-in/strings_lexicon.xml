@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lexiconTranslate">Terjemahkan</string>
+    <string name="lexiconOccurrences">Kemunculan</string>
+    <string name="lexiconStrong">Strong</string>
+    <string name="lexiconTransliteration">Transliterasi</string>
+    <string name="lexiconOrigin">Kata asal</string>
+    <string name="lexiconUsage">Penggunaan</string>
+    <string name="lexiconPronunciation">Pengucapan</string>
+    <string name="lexiconNotes">Catatan</string>
+    <string name="lexiconSelectConcordance">Pilih konkordansi</string>
+    <string name="lexiconSelectLexicon">Pilih kosa kata</string>
+</resources>

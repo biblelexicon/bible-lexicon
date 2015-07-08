@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="debugSendExceptionInfo">Vyskytla se chyba, prosím, ohlašte ji vývojáři, aby ji mohl opravit.</string>
+    <string name="debugExceptionInfoChooserTitle">Vyberte mailera…</string>
+</resources>

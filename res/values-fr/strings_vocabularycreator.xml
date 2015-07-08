@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vocabularyCreatorNoLexiconsTitle">Aucun lexique trouvé</string>
+    <string name="vocabularyCreatorNoLexiconsText">Pour pouvoir utiliser le \"créateur de vocabulaire\" vous devez avoir téléchargé un lexique (grec ou hébreu)
+        \n\n
+        Voulez-vous le télécharger maintenant?</string>
+    <string name="vocabularyCreatorNoBiblesTitle">Aucune bible trouvée.</string>
+    <string name="vocabularyCreatorNoBiblesText">Merci de télécharger une bible en grec (p. ex. TR pour NT) et en hébreu (comme WLC pour AT) pour utiliser le \"créateur de vocabulaire\"
+	    \n\n
+	    Voulez-vous télécharger maintenant?</string>
+    <string name="vocabularyCreatorOptionLexicon">Lexique</string>
+    <string name="vocabularyCreatorOptionMaxOccurrence">Occurence maximale du mot</string>
+    <string name="vocabularyCreatorOptionMinOccurrence">Occurence minimale du mot</string>
+    <string name="vocabularyCreatorOptionShowOccurrences">Afficher les occurrences</string>
+    <string name="vocabularyCreatorOptionShowStrong">Afficher les numéros Strong</string>
+    <string name="vocabularyCreatorOptionShowLearned">Montrer ce qui est étudié</string>
+    <string name="vocabularyCreatorOptionOrderByOccurrence">Ranger par occurence</string>
+    <string name="vocabularyCreatorOptionOrderByWord">Ranger par mot</string>
+    <string name="vocabularyCreatorOptionWithAccents">Avec les accents</string>
+    <string name="vocabularyCreatorOptionFontsize">Taille de caractère</string>
+    <string name="vocabularyCreatorGeneratedVocabulary">Vocabulaire</string>
+    <string name="vocabularyCreatorDetailItemActionLearned">Marque comme connu</string>
+    <string name="vocabularyCreatorDetailItemActionDelete">Retirer le mot du vocabulaire</string>
+    <string name="vocabularyCreatorLearnedListItemActionDelete">Enlever de la liste</string>
+    <string name="vocabularyCreatorMoreExportEmail">Exporter</string>
+    <string name="vocabularyCreatorMoreShowLearnedList">Mes mots appris</string>
+    <string name="vocabularyCreatorExportPreview">Prévisualisation exportation</string>
+</resources>

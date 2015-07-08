@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="DialogBoxesCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:padding">0dp</item>
+    </style>
+    
+    <style name="DialogBoxesCustomText" parent="@style/DialogBoxesCustom">
+        <item name="android:padding">5dp</item>
+
+    </style>
+    
+ 
+</resources>

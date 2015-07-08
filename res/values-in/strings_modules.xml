@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modulesDlgLoadingText">Mengambil modul dari SD Card</string>
+    <string name="modulesDlgLoadingRemeberedTabsText">Membuka bagian akhir</string>
+    <string-array name="modulesNames">
+        <item>Leksikon</item>
+        <item>Kamus</item>
+        <item>Alkitab</item>
+        <item>Konkordansi</item>
+        <item>"Terjemahan "</item>
+        <item>Bacaan Kitab</item>
+        <item>Pembuat Kosakata</item>
+        <item>Studi Eksegesa</item>
+        <item>Catatan</item>
+    </string-array>
+    <string name="modulesNamesBibles">Alkitab</string>
+    <string-array name="modulesDescs">
+        <item>Mempelajari arti asli dalam bahasa Ibrani atau Yunani</item>
+        <item>Kamus pembantu untuk menterjemahkan</item>
+        <item>Baca teks kitab. Tekan pada kata untuk pilihan informasi dan pilihan tambahan</item>
+        <item>Pelajari kemunculan suatu kata atau frasa</item>
+        <item>Terjemahkan bacaan pilihan secara kata demi kata dari bahasa Yunani atau Ibrani. Tekan pada tanda-tanda untuk pencarian lebih lanjut.</item>
+        <item>Baca teks kitab. Teks bisa disejajarkan dengan teks lain. Tekan pada suatu kata untuk pilihan pembelajaran lainnya.</item>
+        <item>Ciptakan kosakata Anda sendiri, cetak dan pelajari.</item>
+        <item>Alat lanjutan untuk Studi Eksegesa. Studi dipusatkan pada analisa ayat kata demi kata pada konteks-nya. Pilihan analisa lain bisa ditampilkan.</item>
+        <item>Catatan belajar Anda. Catatan bisa ditempelkan pada bacaan tertentu.</item>
+    </string-array>
+    <!-- List -->
+    <string name="modulelistModulesTutorial">Petunjuk</string>
+    <string name="modulelistModulesNoYoutubeApp">Maaf, tidak ada aplikasi Youtube</string>
+    <string name="modulelistModulesUpdates">Pembaharuan</string>
+    <string name="modulelistModulesModuleOutdated">Modul ini sudah tidak up-to-date</string>
+    <string name="modulelistModulesDownloadUpdate">Pembaruan Pengunduhan</string>
+    <string name="modulelistModulesNoDirFound">Direktori Modul `{dir}` tidak ditemukan</string>
+    <string name="modulelistModulesNoFound">Modul tidak tersedia</string>
+    <string name="modulelistUpdatesChecking4">Memeriksa pembaruan...</string>
+    <string name="modulelistUpdatesDownloadFound">Pembaruan ditemukan. Apakah Anda akan melanjutkan penguduhan?</string>
+    <string name="modulelistUpdatesNoFound">Pembaruan tidak ditemukan.</string>
+    <string name="modulelistItemOptionsInfo">Tampilkan informasi modul.</string>
+    <string name="modulelistItemOptionsCheck4Updates">Memeriksa pembaruan modul</string>
+    <string name="modulelistItemOptionsDelete">Menghapus modul pada SD Card</string>
+    <string name="modulelistModuleInformations">Informasi modul</string>
+    <string name="modulelistDeleteModule">apakah Anda ingin menghapus modul ini?</string>
+    <string name="modulelistModuleInfo"><![CDATA[
+		<h2>Deskripsi Modul</h2><div class="description">
+			{content}
+		</div><p><br /></p><h2>Informasi Modul</h2><table><tr><th>Judul</th><td>{title}</td></tr><tr><th>Judul pendek</th><td>{titleshort}</td></tr><tr><th>Penanda</th><td>{identifier}</td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><th>Versi</th><td>{version}</td></tr><tr><th>Tipe</th><td>{type}</td></tr><tr><th>Bahasa</th><td>{language}</td></tr><tr><th>Judul</th><td>{entries}</td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><th>Ada PL</th><td>{hasot}</td></tr><tr><th>Ada PB</th><td>{hasnt}</td></tr><tr><th>Ada Strongs</th><td>{hasstrongs}</td></tr><tr><th>Ada Morfologi</th><td>{hasmorphology}</td></tr><tr><th>Ada Catatan</th><td>{hasnotes}</td></tr></table><h2>Ubah log</h2><p>
+	    	{changelog}
+	    </p>  
+	]]></string>
+    <!-- Downloads -->
+    <string name="moduledownloadDownloadingList">Mengunduh daftar Unduhan</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exegeticalstudyBrowserSearchTextHint">Cerca in `{book}`…</string>
+    <string name="exegeticalstudyTextTab">Testo studiato</string>
+    <string name="exegeticalstudyTextContextTab">Contesto</string>
+    <string name="exegeticalstudyContextAnalysisTab">Analisi del contesto</string>
+    <string name="exegeticalstudyTranslationTab">Traduzione</string>
+    <string name="exegeticalstudyWordsTab">Parole</string>
+    <string name="exegeticalstudyNotesTab">Note</string>
+    <string name="exegeticalstudyWikiTab">Wikipedia</string>
+    <string name="exegeticalstudyLexiconsTab">Lessici biblici</string>
+    <string name="exegeticalstudyMoreFullscreen">A tutto schermo</string>
+    <string name="exegeticalstudyMoreContextTab">Mostra il contesto</string>
+    <string name="exegeticalstudyMoreContextAnalysisTab">Mostra l\'analisi del contesto</string>
+    <string name="exegeticalstudyMoreTranslationTab">Mostra la traduzione del versetto</string>
+    <string name="exegeticalstudyMoreWordsTab">Mostra le ricorrenze delle parole</string>
+    <string name="exegeticalstudyMoreLexiconsTab">Mostra le parole nei lessici biblici</string>
+    <string name="exegeticalstudyMoreContextTabDesc">Mostra tutto il capitolo del versetto attualmente in esame</string>
+    <string name="exegeticalstudyMoreContextAnalysisTabDesc">Cerca le parole esatte del versetto in esame in un passo specifico</string>
+    <string name="exegeticalstudyMoreTranslationTabDesc">Traduzione parola per parola del versetto in esame</string>
+    <string name="exegeticalstudyMoreWordsTabDesc">Elenca e conta le parole che formano il brano specificato nella Bibbia scelta</string>
+    <string name="exegeticalstudyMoreLexiconsTabDesc">Elenca lista di parole per il passo specificato in tutti i lessici biblici disponibili</string>
+    <string name="exegeticalstudyTextTabSelectBooks">Libri...</string>
+    <string name="exegeticalstudyTextTabSelectPassage">Seleziona un versetto...</string>
+    <string name="exegeticalstudyWordsTabSelectPassage">Seleziona un brano...</string>
+    <string name="exegeticalstudyContextAnalysisTabSelectPassage">Seleziona un brano...</string>
+    <string name="exegeticalstudyNotesSearchHint">Filtra un brano...</string>
+    <string name="exegeticalstudyNotesNewPassage">Inserisci un brano...</string>
+    <string name="exegeticalstudyNotesNewPassagePS">Seleziona...</string>
+    <string name="exegeticalstudyNotesNewTitle">Inserisci un titolo...</string>
+    <string name="exegeticalstudyNotesNewNotes">Inserisci una nota...</string>
+    <string name="exegeticalstudyTranslationTabSelectLexicons">Lessici biblici...</string>
+    <string name="exegeticalstudyWordOptionsAddToSearch">Aggiungi alla ricerca</string>
+</resources>

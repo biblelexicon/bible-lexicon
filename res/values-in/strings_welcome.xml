@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcomeTabTitle">Selamat datang</string>
+    <string name="welcomeTabAnotation"><![CDATA[
+          Hubungi saya pada <a href="#" onclick="openEmail.onClick(); return false;">{email}</a> jika Anda membutuhkan bantuan atau memiliki pertanyaan.
+]]></string>
+    <string name="welcomeTabText"><![CDATA[
+	    <p></p><h2>Penggunaan pertama kali</h2><p>Lihat<a href="#" onclick="openTutorial.onClick(); return false;">bantuan youtube</a> untuk langkah awal (hanya membutuhkan <strong>25 dtk</strong>).</p><p>Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini:</p><ol><li>Mengunduh modul (Pengunduh Modul)</li><li>Membuka pustaka modul (ikon kartu biru)</li><li>Membuka modul yang akan anda pakai</li><li>Memeriksa pengaturan untuk penggunaan pemakai lebih baik</li></ol>	
+	]]></string>
+    <string name="welcomeTabEmailSubject">Email dari Bible lexicon v{version}</string>
+    <string name="welcomeTabTranslationEmailSubject">Bantuan dengan terjemahan tampilan</string>
+    <string name="welcomeTabHelpTitle">Cara Pemakaian</string>
+    <string name="welcomeTabHelpText">Untuk cara penggunaan aplikasi, tekan disini untuk melihat bantuan</string>
+    <string name="welcomeTabModulesTitle">Membuka Pustaka modul</string>
+    <string name="welcomeTabModulesText">Tekan disini untuk membuka Kitab, Kosakata, konkordansi dan modul lain</string>
+</resources>

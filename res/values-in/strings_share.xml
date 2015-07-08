@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shareEmail">Email</string>
+    <string name="shareGooglePlus">Google+</string>
+    <string name="shareFacebook">Facebook</string>
+    <string name="shareTwitter">Twitter</string>
+    <string name="shareAnother">Lainnya...</string>
+    <string name="shareScreenOn">Bagikan tampilan melalui....</string>
+    <string name="shareTextOn">Bagikan teks melalui...</string>
+    <string name="shareAppNotFound">{name} aplikasi tidak ditemukan.</string>
+    <string name="shareTitle">Bagikan Bible Lexicon</string>
+    <string name="shareTitleHint">Masukkan judul...</string>
+    <string name="shareDesc">Tampilan dibagikan dari Aplikasi belajar kitab Bible Lexicon</string>
+    <string name="shareDescHint">Masukkan deskripsi...</string>
+    <string name="shareButton">Bagikan</string>
+    <string name="shareEmailSendEmail">Kirim email...</string>
+</resources>

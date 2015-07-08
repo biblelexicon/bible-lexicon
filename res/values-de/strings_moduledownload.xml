@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="moduledownloadTitle">Module herunterladende Anwendung</string>
+    <string-array name="moduledownloadOptionsType">
+        <item>- Typ auswählen -</item>
+        <item>Lexikon</item>
+        <item>Bibel</item>
+    </string-array>
+    <string name="moduledownloadOptionsNotDownloaded">Nicht heruntergeladen</string>
+    <string name="moduledownloadDlgStartDownload">Herunterladen dieses Moduls beginnen?</string>
+    <string name="moduledownloadDlgNoModules">Leider gibt es keine Module zum Herunterladen. Bitte versuchen Sie es später.</string>
+    <string name="moduledownloadPreparedForDownload">Vorbereitet zum Herunterladen...</string>
+    <string name="moduledownloadDownloadAlreadyDownloaded">\'{module}\' ist schon heruntergeladen.</string>
+    <string name="moduledownloadDownloadInProgress">im Gang...</string>
+    <string name="moduledownloadDownloadCanceled">Abgebrochen...</string>
+    <string name="moduledownloadDeleteOldModulesTitle">Ältere entfernen</string>
+    <string name="moduledownloadDeleteOldModulesText">Möchten Sie ältere Versionen von \'{module}\' entfernen?</string>
+    <!-- List filter -->
+    <string name="moduledownloadStatusRefresh">Erneut laden...</string>
+    <string name="moduledownloadStatusLoading">Modulliste wird geladen...</string>
+    <string name="moduledownloadStatusEmpty">Keine Module zum Download</string>
+    <string name="moduledownloadStatusError">Keine Verbindung zum Server um Modulliste zu laden, bitte versuchen Sie es später.</string>
+    <string-array name="moduledownloadOptionsLanguages">
+        <item>- Sprache wählen -</item>
+        <item>Arabisch</item>
+        <item>Tschechisch</item>
+        <item>Englisch</item>
+        <item>Französisch</item>
+        <item>Deutsch</item>
+        <item>Griechisch</item>
+        <item>Hebräisch</item>
+        <item>Chinesisch</item>
+        <item>Indonesisch</item>
+        <item>Italienisch</item>
+        <item>Japanisch</item>
+        <item>Latein</item>
+        <item>Polnisch</item>
+        <item>Portugiesisch</item>
+        <item>Russisch</item>
+        <item>Slowakisch</item>
+        <item>Spanisch</item>
+        <item>Suahili</item>
+        <item>Türkisch</item>
+        <item>Vietnamesisch</item>
+    </string-array>
+</resources>

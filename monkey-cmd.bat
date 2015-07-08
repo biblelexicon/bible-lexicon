@@ -1,0 +1,1 @@
+E:\SDKs\android\platform-tools\adb.exe shell monkey -p bible.lexicon -v 5000

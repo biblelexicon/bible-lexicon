@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="searchModule">Vybrat knihu…</string>
+    <string name="searchPassage">Vybrat pasáž…</string>
+    <string name="searchSelectModuleTitle">Vybrat knihu</string>
+    <string name="searchDialogTitle">Hledat frázi</string>
+    <string name="searchDialogSearch">Hledat</string>
+    <string name="searchRequiredPhrase">Prosím, zadejte frázi</string>
+    <string name="searchRequiredModule">Prosím, vyberte modul</string>
+    <string name="searchPhrase">Hledat…</string>
+    <string name="searchSelectPassage">Vybrat…</string>
+</resources>

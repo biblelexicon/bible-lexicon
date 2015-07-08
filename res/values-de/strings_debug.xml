@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="debugSendExceptionInfo">Es ist ein Fehler aufgetreten, bitte informieren Sie den Entwickler, damit ihn beheben kann.</string>
+    <string name="debugExceptionInfoChooserTitle">Mailprogramm auswählen</string>
+</resources>

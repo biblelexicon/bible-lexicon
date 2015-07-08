@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="searchModule">Seleziona un libro...</string>
+    <string name="searchPassage">Seleziona un brano...</string>
+    <string name="searchSelectModuleTitle">Seleziona un libro</string>
+    <string name="searchDialogTitle">Cerca una frase</string>
+    <string name="searchDialogSearch">Cerca</string>
+    <string name="searchRequiredPhrase">Inserisci una frase</string>
+    <string name="searchRequiredModule">Seleziona una pubblicazione</string>
+    <string name="searchPhrase">Frase</string>
+    <string name="searchSelectPassage">Seleziona...</string>
+</resources>

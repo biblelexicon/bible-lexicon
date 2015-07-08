@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vocabularyCreatorNoLexiconsTitle">No lexicons found</string>
+    <string name="vocabularyCreatorNoLexiconsText">
+        In order to use `Vocabulary creator` you must download some lexicons (for Hebrew and Greek).
+        \n\n
+        Would you like to download them now?
+	</string>    
+    
+    <string name="vocabularyCreatorNoBiblesTitle">No Bibles found</string>
+	<string name="vocabularyCreatorNoBiblesText">
+	    Please download Greek Bible (like TR for NT) and Hebrew Bible (like WLC for OT) in order to use `Vocabulary creator`.
+	    \n\n
+	    Would you like to download them now?
+	</string> 
+	
+	
+    <string name="vocabularyCreatorOptionLexicon">Lexicon</string>    
+    <string name="vocabularyCreatorOptionMaxOccurrence">Max word occurrence</string>
+    <string name="vocabularyCreatorOptionMinOccurrence">Min word occurrence</string>    
+    <string name="vocabularyCreatorOptionShowOccurrences">Show occurrences</string>
+    <string name="vocabularyCreatorOptionShowStrong">Show strong numbers</string>
+    <string name="vocabularyCreatorOptionShowLearned">Show learned</string>  
+    <string name="vocabularyCreatorOptionOrderByOccurrence">Order by occurrence</string>
+    <string name="vocabularyCreatorOptionOrderByWord">Order by word</string>    
+    <string name="vocabularyCreatorOptionWithAccents">With accents</string>    
+    <string name="vocabularyCreatorOptionFontsize">Font size</string>
+    
+    <string name="vocabularyCreatorGeneratedVocabulary">Vocabulary</string>
+        
+    <string name="vocabularyCreatorDetailItemActionLearned">Mark as learned</string>
+    <string name="vocabularyCreatorDetailItemActionDelete">Remove word from the vocabulary</string>
+    
+    <string name="vocabularyCreatorLearnedListItemActionDelete">Remove from the list</string>    
+    
+    <string name="vocabularyCreatorMoreExportEmail">Export</string>
+    <string name="vocabularyCreatorMoreShowLearnedList">My learned words</string>
+    
+    <string name="vocabularyCreatorExportPreview">Export preview</string>
+</resources>

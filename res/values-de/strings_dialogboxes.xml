@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialogBoxesSubmit">Abschicken</string>
+    <string name="dialogBoxesOk">OK</string>
+    <string name="dialogBoxesCancel">Abbrechen</string>
+    <string name="dialogBoxesClose">Schließen</string>
+    <string name="dialogBoxesYes">Ja</string>
+    <string name="dialogBoxesNo">Nein</string>
+    <string name="dialogBoxesSave">Speichern</string>
+    <string name="dialogDownloadQuestionText">Sie müssen einige Module herunterladen. Möchten Sie das jetzt tun?</string>
+    <string name="dialogAlertNoConnectionTitle">Keine Verbindung</string>
+    <string name="dialogAlertNoConnectionText">keine Verbindung zum Internet möglich</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_open">Apri</string>
+    <string name="drawer_close">Chiudi</string>
+    <!-- NDL Window -->
+    <string name="ndlBrowserSearchBarSearchtextFrameTextHint">Cerca...</string>
+    <string name="ndlBrowserSearchBarSearchtextFrameTextNoInput">Inserisci un testo da cercare</string>
+    <string name="ndlBrowserSearchBarDisplayingResults">Sto visualizzando {count} risultati</string>
+    <string name="ndlBrowserSearchBarNoMatches">Nessuna ricorrenza trovata</string>
+    <string name="ndlBrowserSearchBarWait">Attendi..</string>
+    <string name="ndlBrowserSearchBarResize">Ridimensiona</string>
+    <string name="ndlBrowserSearchBarCanceled">Cancellato...</string>
+    <string name="ndlContentNoMoreItems">Nessuna opzione disponibile</string>
+    <string name="ndlBrowserAdvancedOptionsPassageTitle">Brano</string>
+    <string name="ndlBrowserAdvancedOptionsPassageHint">Tutto...</string>
+    <string name="ndlBrowserAdvancedOptionsPassageSelect">Seleziona</string>
+    <string name="ndlBrowserAdvancedOptionsConcordancesTitle">Bibbia</string>
+    <string name="ndlBrowserAdvancedOptionsLexiconsTitle">Lessico</string>
+    <!-- Other, non categorized -->
+    <string name="dlgOldBLOneModulesVersionsTitle">Pubblicazioni di Bible Lexicon 1.x</string>
+    <string name="dlgOldBLOneModulesVersionsText">Ci sono vecchie pubblicazioni incompatibili con la versione 2.x di Bible Lexicon. Questa pubblicazioni verranno eliminate. Per favore, scarica quelle aggiornate.</string>
+    <string name="tabviewTabManagerTitle">Seleziona o chiudi la finestra</string>
+    <string name="loading">Sto cercando...</string>
+    <string name="select">Seleziona...</string>
+    <string name="search">Cerca...</string>
+    <string name="export">Esporta</string>
+    <string name="fullscreen">Schermo pieno</string>
+    <string name="thisTranslationLangName">Italiano</string>
+    <string name="menuMainModules">Libreria pubblicazioni</string>
+    <string name="menuMainModuleDownload">Downloader pubblicazioni</string>
+    <string name="menuMainSettings">Impostazioni</string>
+    <string name="menuMainLogSend">Manda un log del debug</string>
+    <string name="menuMainHelp">Aiuto</string>
+    <string name="menuMainRequestFeature">Richiesta nuova caratteristica</string>
+    <string name="menuMainAbout">Circa</string>
+    <string name="menuMainExit">Uscita</string>
+    <string name="menuModulesCheckupdates">Controlla aggiornamenti</string>
+</resources>

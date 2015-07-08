@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSearchInLexiconForm">Cari bentuk `{word}` pada kosakata</string>
+    <string name="wordinfoSearchInConcordanceForm">Cari bentuk `{word}` pada konkordansi</string>
+    <string name="wordinfoSearchInLexiconStrong">Cari Strong `{word}` pada kosakata</string>
+    <string name="wordinfoSearchInConcordanceStrong">Cari Strong `{word}` pada konkordansi</string>
+    <string name="wordinfoSearchInLexiconWordbase">Cari kata dasar `{word}` pada kosakata</string>
+    <string name="wordinfoSearchInConcordanceWordbase">Cari kata dasar `{word}` pada konkordansi</string>
+    <string name="wordinfoSearchInLexiconTransliteration">Cari alih bahasa `{word}` pada kosakata</string>
+    <string name="wordinfoSearchInConcordanceTransliteration">Cari aliha bahasa `{word}` pada konkordansi</string>
+    <string name="wordinfoSearchInLexicon">Cari `{word}` pada kosakata</string>
+    <string name="wordinfoSearchInConcordance">Cari `{word}` pada konkordansi</string>
+    <string name="wordinfoDisplayMorphology">Tampilkan morfologi kata</string>
+    <string name="wordinfoDisplayInfo">Tampilkan informasi kata</string>
+    <string name="wordinfoDisplayPassageTranslator">Terjemahkan ayat `{word}`</string>
+    <string name="wordinfoDisplayInBibleReader">Tampilkan `{word}` pada Pembaca Kitab</string>
+    <string name="wordinfoSelectLexiconTitle">Pilih kosakata</string>
+    <string name="wordinfoSelectConcordanceTitle">Pilih konkordansi</string>
+    <string name="wordinfoMorphologyTitle">Morfologi untuk `{word}`</string>
+    <string name="wordinfoInfoTitle">Informasi tentang `{word}`</string>
+    <string name="wordinfoInfoWord">Kata</string>
+    <string name="wordinfoInfoWordbase">Kata dasar</string>
+    <string name="wordinfoInfoStrong">Strong</string>
+    <string name="wordinfoInfoOccurrences">Kemunculan</string>
+    <string name="wordinfoInfoTransliteration">Transliterasi</string>
+    <string name="wordinfoInfoMorphology">Morfologi</string>
+</resources>

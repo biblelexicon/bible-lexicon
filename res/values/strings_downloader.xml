@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="downloaderTypesLexicons">Lexicons</string>
+    <string name="downloaderTypesDictionaries">Dictionaries</string>
+    <string name="downloaderTypesBibles">Bibles</string>
+    
+    <string name="downloaderNotificationItemTitle">item</string>
+    
+    <string name="downloaderNotificationTitle">Downloading `{item}`</string>
+    <string name="downloaderNotificationPercent">Download in progress… {percent}%</string>
+    <string name="downloaderNotificationCompleted">Download completed</string>  
+    
+    <string name="downloaderItemFinished">File `{item}` downloaded</string>
+    <string name="downloaderItemFailed">File `{item}` download failed</string>
+    <string name="downloaderItemCancelled">File `{item}` download cancelled</string>
+    
+    <string name="downloaderErrorTitle">Download error</string>
+    <string name="downloaderErrorFilewrite">Could not write to new file `{file}`. Check storage free space.</string>
+    <string name="downloaderErrorTimedout">Connection timed out. Please, try later.</string>
+    <string name="downloaderErrorUnknownHost">Could not resolve host `{host}`. Please, try later.</string>
+    <string name="downloaderErrorFilesize">File `{file}` was not entirely downloaded. Please, try again.</string>
+    <string name="downloaderErrorStreamsize">Content from `{url}` was not entirely downloaded. Please, try again.</string>
+    <string name="downloaderErrorIOError">Input/Output error. Please, try again.</string>
+    <string name="downloaderErrorResultCodeError">Connection error `{code}`. Please, try again later.</string>
+    <string name="downloaderErrorReset">Connection reset by server. Please, try later.</string>
+     
+    
+    
+    
+</resources>

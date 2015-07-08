@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passageselectorTitle">Vyberte pasáž</string>
+    <string name="passageselectorFrom">Od…</string>
+    <string name="passageselectorTo">Do…</string>
+    <string name="passageselectorBook">Kniha</string>
+    <string name="passageselectorChapter">Kapitola</string>
+    <string name="passageselectorVerse">Verš</string>
+    <string name="passageselectorInvalidPassageFormat">Neplatný formát pasáže</string>
+    <string name="passageselectorOnlyForBookModules">Passage selector nemůže být používán jinými moduly než Biblemi</string>
+</resources>

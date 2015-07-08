@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="aboutText">
+	<![CDATA[
+		<h2>Translations</h2>
+		<p>
+			Special thanks to these translators for their contribution on application translation:<br/>
+			<ul>
+				<li><em>Indonesian</em>: Hery Surono</li>
+				<li><em>German</em>: Oliver Heinrich</li>
+				<li><em>Spanish</em>: Gabriel Arocha</li>
+				<li><em>Czech</em>: Michal Schejbal</li>
+				<li><em>French</em>: Alain Grau</li>
+				<li><em>Italian</em>: Fabio Guarraci</li>				
+			</ul>
+		</p>
+		
+		<h2>Contributions</h2>
+		<p>
+			Special thanks to these users:<br/>
+			<ul>
+				<li><em>Shawn Dickerson</em>: for helping create BYZ module source file</li>
+			</ul>
+		</p>		
+		
+		<h2>Icons</h2>
+		<p>
+			Icons attributtions goes to:<br />
+			<ul>
+				<li>http://romannurik.github.io/AndroidAssetStudio/</li>
+				<li>http://www.icons4android.com/</li>
+				<li>Book designed by <a href="http://www.thenounproject.com/diegonaive">Diego Naive</a> from the <a href="http://www.thenounproject.com">Noun Project</a></li>
+				<li>Book designed by <a href="http://www.thenounproject.com/dannysturgess">Danny Sturgess</a> from the <a href="http://www.thenounproject.com">Noun Project</a></li>
+				<li>Split-Vertical designed by <a href="http://www.thenounproject.com/imicons">iconsmind.com</a> from the <a href="http://www.thenounproject.com">Noun Project</a></li>	
+				<li>One Window designed by <a href="http://www.thenounproject.com/imicons">iconsmind.com</a> from the <a href="http://www.thenounproject.com">Noun Project</a></li>	
+			</ul>
+		</p>		
+		
+
+		<h2>Current version</h2>
+		<p>{version}.</p>  
+		
+		<p><br /><br /></p>		 
+		<p>For further info about this application see <a href="{web}">{web}</a>.</p> 
+	]]>    
+	</string>     	
+</resources>

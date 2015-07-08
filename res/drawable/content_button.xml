@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle" >
+            <corners android:radius="3dp" />
+            <solid android:color="@color/biblereader_book_button_bg" />
+            <stroke android:width="1px" android:color="#bebfc1"/>
+        </shape>
+    </item>   
+</layer-list>

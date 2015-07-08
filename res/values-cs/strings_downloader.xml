@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloaderTypesLexicons">Lexicony</string>
+    <string name="downloaderTypesDictionaries">Slovníky</string>
+    <string name="downloaderTypesBibles">Bible</string>
+    <string name="downloaderNotificationItemTitle">položka</string>
+    <string name="downloaderNotificationTitle">Stahování `{item}`</string>
+    <string name="downloaderNotificationPercent">Probíhá stahování… {percent}%</string>
+    <string name="downloaderNotificationCompleted">Stahování dokončeno</string>
+    <string name="downloaderItemFinished">Soubor `{item}` stažen</string>
+    <string name="downloaderItemFailed">Stahování souboru `{item}` selhalo</string>
+    <string name="downloaderItemCancelled">Stahování souboru `{item}` zastaveno</string>
+    <string name="downloaderErrorTitle">Chyba stahování</string>
+    <string name="downloaderErrorFilewrite">Nelze zapistovat do nového souboru `{file}`. Zkontrolujte dostatek volného místa na uložišti.</string>
+    <string name="downloaderErrorTimedout">Spojení vypršelo. Prosím, zkuste to později.</string>
+    <string name="downloaderErrorUnknownHost">Nelze resolvovat hostitele `{host}`. Prosím, zkuste to později.</string>
+    <string name="downloaderErrorFilesize">Soubor `{file}` nebyl cele stažen. Prosím, zkuste to znovu.</string>
+    <string name="downloaderErrorStreamsize">Obsah z `{url}` nebyl cele stažen. Prosím, zkuste to znovu.</string>
+    <string name="downloaderErrorIOError">Input/Output chyba. Prosím, zkuste to znovu.</string>
+    <string name="downloaderErrorResultCodeError">Chyba spojení `{code}`. Prosím, zkuste to později.</string>
+    <string name="downloaderErrorReset">Spojení ukončeno serverem. Prosím, zkuste to později.</string>
+</resources>

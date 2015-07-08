@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="moduledownloadTitle">Stahovač modulů</string>
+    <string-array name="moduledownloadOptionsType">
+        <item>- Vyberte typ -</item>
+        <item>Lexicon</item>
+        <item>Bible</item>
+    </string-array>
+    <string name="moduledownloadOptionsNotDownloaded">Nestažené</string>
+    <string name="moduledownloadDlgStartDownload">Začít stahovat tento modul?</string>
+    <string name="moduledownloadDlgNoModules">Je nám líto, nejsou k dispozici žádné moduly ke stažení. Prosím, zkuste to později.</string>
+    <string name="moduledownloadPreparedForDownload">Přepraven ke stažení…</string>
+    <string name="moduledownloadDownloadAlreadyDownloaded">`{module}` je již stáhnutý.</string>
+    <string name="moduledownloadDownloadInProgress">Probíhá…</string>
+    <string name="moduledownloadDownloadCanceled">Zastaven…</string>
+    <string name="moduledownloadDeleteOldModulesTitle">Odstranit starší</string>
+    <string name="moduledownloadDeleteOldModulesText">Chcete aby starší verze `{module}` byly vymazány?</string>
+    <!-- List filter -->
+    <string name="moduledownloadFilterTextHint">Hledat podle názvu, jazyka…</string>
+    <string name="moduledownloadStatusRefresh">Obnovit…</string>
+    <string name="moduledownloadStatusLoading">Stahování seznamu modulů…</string>
+    <string name="moduledownloadStatusEmpty">Žádné moduly ke stažení</string>
+    <string name="moduledownloadStatusError">Nelze se připojit k serveru pro získání seznamu modulů, prosím, zkuste to pozdeji.</string>
+</resources>

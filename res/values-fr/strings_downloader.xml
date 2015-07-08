@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloaderTypesLexicons">Lexiques</string>
+    <string name="downloaderTypesDictionaries">Dictionnaires</string>
+    <string name="downloaderTypesBibles">Bibles</string>
+    <string name="downloaderNotificationItemTitle">Élément</string>
+    <string name="downloaderNotificationTitle">Télécharger `{item}</string>
+    <string name="downloaderNotificationPercent">Téléchargement en cours… {percent}%</string>
+    <string name="downloaderNotificationCompleted">Téléchargement terminé</string>
+    <string name="downloaderItemFinished">Fichier `{item}` téléchargé</string>
+    <string name="downloaderItemFailed">Téléchargement du fichier `{item}` manqué</string>
+    <string name="downloaderItemCancelled">Téléchargement du ficher `{item}` terminé</string>
+    <string name="downloaderErrorTitle">Erreur de téléchargement</string>
+    <string name="downloaderErrorFilewrite">Impossible d\'écrire le nouveau fichier `{file}`. Vérifiez l\'espace de stockage libre.</string>
+    <string name="downloaderErrorTimedout">Temps de connection expiré. Recommencez ultérieurement.</string>
+    <string name="downloaderErrorUnknownHost">Connection au serveur `{host}` impossible. Essayez plus tard.</string>
+    <string name="downloaderErrorFilesize">Le fichier `{file}` n\'a pas été complètement téléchargé. Essayez à nouveau.</string>
+    <string name="downloaderErrorStreamsize">Le contenu à partir de `{url}` n\'est pas complètement téléchargé. Essayez à nouveau.</string>
+    <string name="downloaderErrorIOError">Erreur Entrée/Sortie. Essayez à nouveau.</string>
+    <string name="downloaderErrorResultCodeError">Erreur de connection `{code}`. Essayer plus tard.</string>
+    <string name="downloaderErrorReset">Réinitialisation de la conection au serveur. Recommencez ultérieurement.</string>
+</resources>

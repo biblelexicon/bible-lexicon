@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passagetranslationBrowserWordsCount">Wörter</string>
+    <string name="passagetranslationBrowserAdvancedWordsCount">Zeige Worthäufigkeit</string>
+    <string name="passagetranslationNoConcordancesDlgBoxTitle">Keine Bibel gefunden</string>
+    <string name="passagetranslationNoLexiconsDlgBoxTitle">Keine Lexika gefunden</string>
+    <string name="passagetranslationNoConcordancesDlgBoxText">Um \'Textpassage übersetzen\' zu nutzen, müssen Sie die benötigten Bibelmodule herunterladen.
+ \n\n
+Möchten Sie sie jetzt herunterladen?</string>
+    <string name="passagetranslationDetailTableWord">Wort</string>
+    <string name="passagetranslationDetailTableTranslation">Übersetzung</string>
+    <string name="passagetranslationDetailTableBase">Grundform</string>
+    <string name="passagetranslationDetailTableStrongs">Strongs</string>
+    <string name="passagetranslationDetailTableTransliteration">Übertragung</string>
+    <string name="passagetranslationDetailTableOccurrences">Auftreten</string>
+    <string name="passagetranslationDetailTableMorphology">Morphologie</string>
+    <string name="passagetranslationNoLexiconsDlgBoxText">Um \'Textpassage übersetzen\' zu nutzen, müssen Sie einige Lexikonmodule herunterladen.\n\nMöchten Sie sie jetzt herunterladen?</string>
+</resources>

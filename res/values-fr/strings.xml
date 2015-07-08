@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_open">Ouvrir</string>
+    <string name="drawer_close">Fermer</string>
+    <!-- NDL Window -->
+    <string name="ndlBrowserSearchBarSearchtextFrameTextHint">Chercher...</string>
+    <string name="ndlBrowserSearchBarSearchtextFrameTextNoInput">Merci d\'entrer un texte pour la recherche</string>
+    <string name="ndlBrowserSearchBarDisplayingResults">Afficher les résultats {count}</string>
+    <string name="ndlBrowserSearchBarNoMatches">Rien n\'est trouvé!</string>
+    <string name="ndlBrowserSearchBarWait">Merci de patienter...</string>
+    <string name="ndlBrowserSearchBarResize">Redimentionner la barre du navigateur</string>
+    <string name="ndlBrowserSearchBarCanceled">Fermer...</string>
+    <string name="ndlContentNoMoreItems">Aucune option disponible</string>
+    <string name="ndlBrowserAdvancedOptionsPassageTitle">Passage</string>
+    <string name="ndlBrowserAdvancedOptionsPassageHint">Tout...</string>
+    <string name="ndlBrowserAdvancedOptionsPassageSelect">Selectionnez</string>
+    <string name="ndlBrowserAdvancedOptionsConcordancesTitle">Bible</string>
+    <string name="ndlBrowserAdvancedOptionsLexiconsTitle">Lexique</string>
+    <!-- Other, non categorized -->
+    <string name="dlgOldBLOneModulesVersionsTitle">Modules de BL 1.x</string>
+    <string name="dlgOldBLOneModulesVersionsText">Vous avez d\'anciennes versions de modules désormais incompatibles avec le lexique biblique 2.x. Ces modules ont été détruits. Merci de télécharger les nouveaux.</string>
+    <string name="tabviewTabManagerTitle">Sélectionnez ou effacer la tabulation</string>
+    <string name="loading">Chargement...</string>
+    <string name="select">Sélectionner</string>
+    <string name="search">Chercher...</string>
+    <string name="export">Exportation</string>
+    <string name="fullscreen">Plein écran</string>
+    <string name="thisTranslationLangName">Français</string>
+    <string name="menuMainModules">Librairie des modules</string>
+    <string name="menuMainModuleDownload">Pour télécharger des modules</string>
+    <string name="menuMainSettings">Réglages</string>
+    <string name="menuMainLogSend">Envoi du log de debuggage</string>
+    <string name="menuMainHelp">Aide</string>
+    <string name="menuMainRequestFeature">Développement souhaité</string>
+    <string name="menuMainAbout">Au sujet de</string>
+    <string name="menuMainExit">Quitter</string>
+    <string name="menuModulesCheckupdates">Vérifier les mise à jour</string>
+</resources>

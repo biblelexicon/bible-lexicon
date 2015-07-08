@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passagetranslationBrowserWordsCount">Kata-kata</string>
+    <string name="passagetranslationBrowserAdvancedWordsCount">Tampilkan jumlah kata</string>
+    <string name="passagetranslationNoConcordancesDlgBoxTitle">Kitab tidak ditemukan</string>
+    <string name="passagetranslationNoLexiconsDlgBoxTitle">Kosa kata tidak ditemukan</string>
+    <string name="passagetranslationDetailTableWord">Kata</string>
+    <string name="passagetranslationDetailTableTranslation">Terjemahan</string>
+    <string name="passagetranslationDetailTableBase">Berasal dari</string>
+    <string name="passagetranslationDetailTableStrongs">Strong</string>
+    <string name="passagetranslationDetailTableTransliteration">Transliterasi</string>
+    <string name="passagetranslationDetailTableOccurrences">Kemunculan</string>
+    <string name="passagetranslationDetailTableMorphology">Morfologi</string>
+</resources>

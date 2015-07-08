@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="debugSendExceptionInfo">An error occurred, please, report this to developer so he may fix it.</string>
+    <string name="debugExceptionInfoChooserTitle">Select mailer…</string> 
+     
+    	
+</resources>

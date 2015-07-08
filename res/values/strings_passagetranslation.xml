@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="passagetranslationBrowserWordsCount">words</string>
+    
+    <string name="passagetranslationBrowserAdvancedWordsCount">Show words count</string>    
+    
+    <string name="passagetranslationNoConcordancesDlgBoxTitle">No Bibles found</string>
+    <string name="passagetranslationNoLexiconsDlgBoxTitle">No lexicons found</string>
+    <string name="passagetranslationNoConcordancesDlgBoxText">
+       	In order to use `Passage translation` you have to download required modules.
+       	\n\n
+       	Would you like to download them now?
+    </string>    
+        
+       
+    <string name="passagetranslationDetailTableWord">Word</string>
+    <string name="passagetranslationDetailTableTranslation">Translation</string>
+    <string name="passagetranslationDetailTableBase">Base form</string>
+    <string name="passagetranslationDetailTableStrongs">Strong\'s</string>
+    <string name="passagetranslationDetailTableTransliteration">Transliteration</string>
+    <string name="passagetranslationDetailTableOccurrences">Occurrences</string>
+    <string name="passagetranslationDetailTableMorphology">Morphology</string>     
+</resources>

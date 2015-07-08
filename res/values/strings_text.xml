@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+
+	<string name="textTabText">
+	<![CDATA[
+		<html>
+			<head>
+				<style>
+					body
+					{
+						font-size: {fontsize}px;
+						color: {fontcolor};
+						text-align: left;
+					}
+
+					h1{font-size: {fontsizeh1}px; color: #35aad0;margin: 5px 0 0 0;}
+					h2{font-size: {fontsizeh2}px; color: #286e85;margin: 0;padding: 2px 0 0 0;}
+	
+					ol, ul
+					{
+						margin: 0 0 0 15px;
+						padding: 0 0 0 20px;
+					}
+					
+					ol li, ul li
+					{
+						margin: 4px 0 2px ;
+					}				
+					
+					.highlight, b, a{color: #079dd0;}		
+					.green{color: #63c359;}			
+					.red{color: #c31010;}					
+					.nopadding{padding-top: 0;}
+					.clear{clear: both;}
+					
+					.fleft{float: left;}
+					.fright{float: right;}
+					
+					th
+					{
+						text-align: left;
+						padding-right: 15px;
+					}
+					table
+					{
+						font-size: {fontsize}px;
+					}
+
+				</style>
+			</head>
+			<body>
+				{content}	    
+		    </body>
+	    </html>	       
+	]]>    
+	</string>    
+    	
+</resources>

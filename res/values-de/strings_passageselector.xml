@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passageselectorFrom">Von...</string>
+    <string name="passageselectorTo">Nach...</string>
+    <string name="passageselectorBook">Buch</string>
+    <string name="passageselectorChapter">Kapitel</string>
+    <string name="passageselectorVerse">Vers</string>
+    <string name="passageselectorInvalidPassageFormat">ungültige Textpassage</string>
+</resources>

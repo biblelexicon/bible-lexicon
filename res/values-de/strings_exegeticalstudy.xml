@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exegeticalstudyBrowserSearchTextHint">Suche in \'{book}\'</string>
+    <string name="exegeticalstudyTextTab">untersuchter Text</string>
+    <string name="exegeticalstudyTextContextTab">Kontext</string>
+    <string name="exegeticalstudyContextAnalysisTab">Kontextanalyse</string>
+    <string name="exegeticalstudyTranslationTab">Übersetzung</string>
+    <string name="exegeticalstudyWordsTab">Wörter</string>
+    <string name="exegeticalstudyNotesTab">Notizen</string>
+    <string name="exegeticalstudyMoreFullscreen">Vollbild</string>
+    <string name="exegeticalstudyMoreContextTab">Zeige Kontext</string>
+    <string name="exegeticalstudyMoreContextAnalysisTab">Zeige Kontextanalyse</string>
+    <string name="exegeticalstudyMoreTranslationTab">Zeige Versübersetzung</string>
+    <string name="exegeticalstudyMoreWordsTab">Zeige Wörter der Textpassage</string>
+    <string name="exegeticalstudyMoreContextTabDesc">Lässt Sie das gesamte Kapitel des gerade untersuchten Verses sehen</string>
+    <string name="exegeticalstudyMoreContextAnalysisTabDesc">Sucht Wörter des gerade untersuchten Verses in der ausgewählten Textpassage</string>
+    <string name="exegeticalstudyMoreTranslationTabDesc">Übersetzt den gerade untersuchten Vers Wort für Wort</string>
+    <string name="exegeticalstudyMoreWordsTabDesc">Erstellt eine Worthäufigkeitsliste für die ausgewählte Textpassage und die ausgewählte Bibel</string>
+    <string name="exegeticalstudyTextTabSelectBooks">Bücher...</string>
+    <string name="exegeticalstudyTextTabSelectPassage">Vers wählen ...</string>
+    <string name="exegeticalstudyWordsTabSelectPassage">Textpassage wählen...</string>
+    <string name="exegeticalstudyContextAnalysisTabSelectPassage">Textpassage wählen...</string>
+    <string name="exegeticalstudyNotesSearchHint">Textpassage filtern</string>
+    <string name="exegeticalstudyNotesNewPassage">Textpassage eingeben...</string>
+    <string name="exegeticalstudyNotesNewPassagePS">Auswählen...</string>
+    <string name="exegeticalstudyNotesNewTitle">Titel eingeben...</string>
+    <string name="exegeticalstudyNotesNewNotes">Notizen eingeben...</string>
+    <string name="exegeticalstudyTranslationTabSelectLexicons">Lexika</string>
+    <string name="exegeticalstudyWordOptionsAddToSearch">Zur Suche hinzufügen</string>
+</resources>

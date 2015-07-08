@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biblereaderSelectBook">Pilih Alkitab</string>
+    <string name="biblereaderSelectPassage">Bilih bacaan</string>
+    <string name="biblereaderAddBook">Tambahkan kitab</string>
+    <string name="biblereaderNotes">Catatan</string>
+    <string name="biblereaderApparatus">Alat</string>
+    <string name="biblereaderSelectAnotherPassage">Bacaan tidak ditemukan, pilih lainnya...</string>
+    <string name="biblereaderPassageNotFound">Bacaan tidak ditemukan</string>
+</resources>

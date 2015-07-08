@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shareEmail">Email</string>
+    <string name="shareGooglePlus">Google+</string>
+    <string name="shareFacebook">Facebook</string>
+    <string name="shareTwitter">Twitter</string>
+    <string name="shareAnother">Altro...</string>
+    <string name="shareScreenOn">Condividi schermata corrente</string>
+    <string name="shareTextOn">Condividi testo su...</string>
+    <string name="shareAppNotFound">{name} applicazione non trovata.</string>
+    <string name="shareTitle">Condividi Bible Lexicon</string>
+    <string name="shareTitleHint">Inserisci un titolo...</string>
+    <string name="shareDesc">L\'immagine è stata condivisa dal Bible Lexicon Scripture.</string>
+    <string name="shareDescHint">Inserisci una descrizione...</string>
+    <string name="shareButton">Condividi</string>
+    <string name="shareEmailSendEmail">Manda una mail...</string>
+</resources>

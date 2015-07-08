@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="actived_button">#50079dd0</color>
+	<color name="hightlighted_text">#079dd0</color>
+	<color name="hightlighted_text_active">#50079dd0</color>
+	
+	<color name="grayed_text">#88666666</color>
+	
+	<color name="biblereader_book_button_bg">#00e1e1e1</color>
+	
+	
+	<color name="search_layout_bg">#f4f4f4</color>	
+	<color name="content_layout_bg">#f9f9f9</color>
+	<color name="content_layout_bg_alpha">#eef9f9f9</color>	
+	<color name="content_layout_bg_white">#ffffff</color>
+	<color name="text_color">#222222</color>
+	
+	<color name="search_layout_bg_night">#3c3c3c</color>	
+	<color name="content_layout_bg_night">#222222</color>
+	<color name="content_layout_bg_night_alpha">#ee222222</color>
+	<color name="text_color_night">#9c9c9c</color>	
+	
+	<color name="exegeticalstudynotes_bg_color">#ddffffff</color>
+	<color name="exegeticalstudynotes_bg_color_night">#dd222222</color>	
+			
+
+	
+	<color name="tabtext_color">#747474</color>
+	<color name="tabtext_color_night">#9c9c9c</color>
+	
+	<color name="listview_border_color">#80acacac</color>
+	<color name="border_color">#90acacac</color>
+
+	
+	<color name="cachecolorhint">#00000000</color>
+</resources>

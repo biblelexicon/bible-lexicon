@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passagetranslationBrowserWordsCount">Mots</string>
+    <string name="passagetranslationBrowserAdvancedWordsCount">Afficher le nombre de mots</string>
+    <string name="passagetranslationNoConcordancesDlgBoxTitle">Aucune bible trouvée</string>
+    <string name="passagetranslationNoLexiconsDlgBoxTitle">Aucun lexique trouvé</string>
+    <string name="passagetranslationNoConcordancesDlgBoxText">Pour pouvoir traduire le passage, vous devez télécharger le module requis.
+\n\n
+Voulez-vous le télécharger maintenant?</string>
+    <string name="passagetranslationDetailTableWord">Mot</string>
+    <string name="passagetranslationDetailTableTranslation">Traduction</string>
+    <string name="passagetranslationDetailTableBase">Racine</string>
+    <string name="passagetranslationDetailTableStrongs">Strong\'s</string>
+    <string name="passagetranslationDetailTableTransliteration">Translitération</string>
+    <string name="passagetranslationDetailTableOccurrences">Occurrences</string>
+    <string name="passagetranslationDetailTableMorphology">Morphologie</string>
+    <string name="passagetranslationNoLexiconsDlgBoxText">Pour pouvoir traduire le passage, vous devez télécharger quelques modules lexicaux\n\nVoulez-vous les télécharger maintenant?</string>
+</resources>

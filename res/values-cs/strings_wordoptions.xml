@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSearchInLexiconForm">Hledat `{word}` v lexikonu</string>
+    <string name="wordinfoSearchInConcordanceForm">Hledat `{word}` v konkordanci</string>
+    <string name="wordinfoSearchInLexiconStrong">Hledat strong `{word}` v lexikonu</string>
+    <string name="wordinfoSearchInConcordanceStrong">Hledat strong `{word}` v konkordanci</string>
+    <string name="wordinfoSearchInLexiconWordbase">Hledat základ slova `{word}` v lexikonu</string>
+    <string name="wordinfoSearchInConcordanceWordbase">Hledat základ slova `{word}` v konkordanci</string>
+    <string name="wordinfoSearchInLexiconTransliteration">Hledat transliteraci `{word}` v lexikonu</string>
+    <string name="wordinfoSearchInConcordanceTransliteration">Hledat transliteraci `{word}` v konkordanci</string>
+    <string name="wordinfoSearchInLexicon">Hledat `{word}` v lexikonu</string>
+    <string name="wordinfoSearchInConcordance">Hledat `{word}` v konkordanci</string>
+    <string name="wordinfoDisplayMorphology">Zobrazit morfologie slova</string>
+    <string name="wordinfoDisplayInfo">Zobrazit informace o slovu</string>
+    <string name="wordinfoDisplayPassageTranslator">Přeložit verš `{word}`</string>
+    <string name="wordinfoDisplayInBibleReader">Zobrazit `{word}` v Bible readeru</string>
+    <string name="wordinfoSelectLexiconTitle">Vybrat lexikon</string>
+    <string name="wordinfoSelectConcordanceTitle">Vybrat konkordanci</string>
+    <string name="wordinfoMorphologyTitle">Morfologie pro `{word}`</string>
+    <string name="wordinfoInfoTitle">Informace pro `{word}`</string>
+    <string name="wordinfoInfoWord">Slovo</string>
+    <string name="wordinfoInfoWordbase">Základ slova</string>
+    <string name="wordinfoInfoStrong">Strong</string>
+    <string name="wordinfoInfoOccurrences">Četnost</string>
+    <string name="wordinfoInfoTransliteration">Transliterace</string>
+    <string name="wordinfoInfoMorphology">Morfologie</string>
+</resources>

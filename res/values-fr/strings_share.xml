@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shareEmail">Courriel</string>
+    <string name="shareGooglePlus">Google+</string>
+    <string name="shareFacebook">Facebook</string>
+    <string name="shareTwitter">Twitter</string>
+    <string name="shareAnother">Autre...</string>
+    <string name="shareScreenOn">Partager l\'écran avec...</string>
+    <string name="shareTextOn">Partager le texte avec...</string>
+    <string name="shareAppNotFound">{name} application introuvable..</string>
+    <string name="shareTitle">Partage du lexique biblique</string>
+    <string name="shareTitleHint">Entrez un titre...</string>
+    <string name="shareDesc">L\'image est partagée à partir de l\'outil d\'étude du lexique des Écritures.</string>
+    <string name="shareDescHint">Entrez une description...</string>
+    <string name="shareButton">Rendez-le partagé</string>
+    <string name="shareEmailSendEmail">Envoyez un courriel..</string>
+</resources>

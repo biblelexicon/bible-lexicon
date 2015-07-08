@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSearchInLexiconForm">Chercher la forme `{word}` dans le lexique</string>
+    <string name="wordinfoSearchInConcordanceForm">Chercher la forme `{word}` dans la concordance</string>
+    <string name="wordinfoSearchInLexiconStrong">Chercher la référence Strong `{word}` dans le lexique</string>
+    <string name="wordinfoSearchInConcordanceStrong">Chercher la référence Strong `{word}` dans la concordance</string>
+    <string name="wordinfoSearchInLexiconWordbase">Chercher la racine du mot `{word}` dans le lexique</string>
+    <string name="wordinfoSearchInConcordanceWordbase">Chercher la racine du mot `{word}` dans la concordance</string>
+    <string name="wordinfoSearchInLexiconTransliteration">Chercher la translitération `{word}` dans le lexique</string>
+    <string name="wordinfoSearchInConcordanceTransliteration">Chercher la translitération `{word}` dans la concordance</string>
+    <string name="wordinfoSearchInLexicon">Chercher `{word}` dans le lexique</string>
+    <string name="wordinfoSearchInConcordance">Chercher `{word}` dans la concordance</string>
+    <string name="wordinfoDisplayMorphology">Afficher la morphologie</string>
+    <string name="wordinfoDisplayInfo">Afficher les informations du mot</string>
+    <string name="wordinfoDisplayPassageTranslator">Traduire le verset `{word}`</string>
+    <string name="wordinfoDisplayInBibleReader">Afficher `{word}` dans le lecteur</string>
+    <string name="wordinfoSelectLexiconTitle">Sélectionnez le lexique</string>
+    <string name="wordinfoSelectConcordanceTitle">Sélectionnez la concordance</string>
+    <string name="wordinfoMorphologyTitle">Morphologie de `{word}`</string>
+    <string name="wordinfoInfoTitle">Info de `{word}`</string>
+    <string name="wordinfoInfoWord">Mot</string>
+    <string name="wordinfoInfoWordbase">Racine du mot</string>
+    <string name="wordinfoInfoStrong">Strong</string>
+    <string name="wordinfoInfoOccurrences">Occurrences</string>
+    <string name="wordinfoInfoTransliteration">Translitération</string>
+    <string name="wordinfoInfoMorphology">Morphologie</string>
+</resources>

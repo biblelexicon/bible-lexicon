@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSearchInLexiconForm">Search form `{word}` in lexicon</string>
+    <string name="wordinfoSearchInConcordanceForm">Search form `{word}` in concordance</string>
+    
+    <string name="wordinfoSearchInLexiconStrong">Search strong `{word}` in lexicon</string>
+    <string name="wordinfoSearchInConcordanceStrong">Search strong `{word}` in concordance</string> 
+     
+    <string name="wordinfoSearchInLexiconWordbase">Search word base `{word}` in lexicon</string>
+    <string name="wordinfoSearchInConcordanceWordbase">Search word base `{word}` in concordance</string>
+    
+    <string name="wordinfoSearchInLexiconTransliteration">Search transliteration `{word}` in lexicon</string>
+    <string name="wordinfoSearchInConcordanceTransliteration">Search transliteration `{word}` in concordance</string>    
+    
+    <string name="wordinfoSearchInLexicon">Search `{word}` in lexicon</string>
+    <string name="wordinfoSearchInConcordance">Search `{word}` in concordance</string>
+    
+    <string name="wordinfoDisplayMorphology">Display word morphology</string>
+    <string name="wordinfoDisplayInfo">Display word info</string>    
+    <string name="wordinfoDisplayPassageTranslator">Translate verse `{word}`</string>   
+	<string name="wordinfoDisplayInBibleReader">Display `{word}` in Bible reader</string>
+
+    <string name="wordinfoSelectLexiconTitle">Select lexicon</string>
+    <string name="wordinfoSelectConcordanceTitle">Select concordance</string>   
+
+    <string name="wordinfoMorphologyTitle">Morphology for `{word}`</string>
+    <string name="wordinfoInfoTitle">Info for `{word}`</string>
+    
+    
+    <string name="wordinfoInfoWord">Word</string>
+    <string name="wordinfoInfoWordbase">Word base</string>
+    <string name="wordinfoInfoStrong">Strong</string>
+    <string name="wordinfoInfoOccurrences">Occurrences</string>
+    <string name="wordinfoInfoTransliteration">Transliteration</string>
+    <string name="wordinfoInfoMorphology">Morphology</string>    
+	
+</resources>

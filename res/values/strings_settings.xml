@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settingsTitle">Settings</string>
+    <string name="settingsTitleInitial">Initial settings</string>
+    <string name="settingsSampleText">Any text example. Any text example. Any text example. Any text example. Any text example. Any text example. Any text example. Any text example. Any text example. Any text example.</string> 
+
+	<string name="settingsCategoryGeneral">General</string>  
+		<string name="settingsLanguage">Language</string>		
+	
+		<string name="settingsHideActionBar">Hide action bar</string>
+		<string name="settingsHideActionBarDesc">This provides you with more vertical space. Action bar is only android 3.0+ feature. Setting is ignored for tablets.</string>	
+	
+		<string name="settingsAppInTaskBar">Display application in task bar</string>
+		<string name="settingsAppInTaskBarDesc">Maintain application shortcut in task bar in order to fast switch to it.</string>		
+		
+		<string name="settingsKeepDisplayOn">Keep display on</string>
+		<string name="settingsKeepDisplayOnDesc">Do not turn off display when reading.</string>		
+		
+		<string name="settingsNightMode">Night mode</string>
+		<string name="settingsNightModeDesc">Dark UI. You must restart the app to apply this.</string>
+		
+		<string name="settingsPreferredLayout">Preferred layout</string>
+					
+		<string name="settAppBasePath">App data storage base</string>
+		<string name="settAppBasePathDesc">Set base path for app data. Path should be something like: "/storage/sdcard0". Left empty for default. Needs restart.</string>				
+								
+		<string name="settingsTranslationLanguage">Translation language</string>
+		
+		
+	<string name="settingsCategoryFonts">Fonts</string>
+		<string name="settingsCategoryFontsDesc">Adjust font sizes how you best see them.</string>
+		 		
+		<string name="settingsFontsizeOffset">UI Font size</string>
+		<string name="settingsFontsizeOffsetDesc">This is offset settings, which means that this value will be added to application default font size.</string>	
+		
+		<string name="settingsConcordanceFontsize">Concordance font size</string>
+		<string name="settingsConcordanceFontsizeDesc">This will adjust text of verses in concordance module.</string>
+		
+		<string name="settingsBiblereaderFontsize">Bible font size</string>
+		<string name="settingsBiblereaderFontsizeDesc">This will adjust text of verses in Bible.</string>							
+
+		<string name="settingsExegeticalstudyFontsize">Exegetical study font size</string>
+		<string name="settingsExegeticalstudyFontsizeDesc">This will adjust text of verses in exegetical study module.</string>
+				
+		
+
+	<string name="settingsCategoryModules">Modules</string> 
+		<string name="settingsModulesCheckUpdates">Auto-check updates</string>
+		<string name="settingsModulesCheckUpdatesDesc">Check automatically for newer module versions.</string>				
+				
+		<string name="settingsModulesShowShortTitles">Short titles for tabs</string>
+		<string name="settingsModulesShowShortTitlesDesc">This influences tab handle width and thus more tabs will be visible.</string>
+				
+		<string name="settingsModulesShowShortTitlesBibles">Short titles for Bible tabs</string>
+		<string name="settingsModulesShowShortTitlesBiblesDesc">Takes effect if previous settings is off.</string>		
+		
+		<string name="settingsModulesShowTutorials">Show tutorials</string>
+		<string name="settingsModulesShowTutorialsDesc">Show tutorial button for a given module.</string>		
+		
+		<string name="settingsModulesOpenOnStart">Open on start</string>
+		<string name="settingsModulesOpenOnStartDesc">This will open module library on app start.</string>		
+		
+		<string name="settingsModulesRememberOpened">Remember tabs</string>
+		<string name="settingsModulesRememberOpenedDesc">This will remember opened tabs and reopen them on app start.</string>		
+		
+				
+	
+	<string name="settingsCategoryConcordance">Concordance</string> 
+		
+						
+		
+	<string name="settingsCategoryBiblereader">Bible reader</string>		
+		<string name="settingsBiblereaderPinchzoomSensitivity">Pinch-zoom sensitivity</string>
+		<string name="settingsBiblereaderPinchzoomSensitivityDesc">Lower value is more sensitive</string>	
+
+		<string name="settingsBiblereaderKeepFontsize">Keep fontsize for each Bible</string>
+		<string name="settingsBiblereaderKeepFontsizeDesc">Each Bible will store its own fontsize (global fontsize setting won\'t affect it)</string>						
+
+		<string name="settingsBiblereaderVerseNotes">Verse notes</string>
+		<string name="settingsBiblereaderVerseNotesDesc">Display notes for the verse.</string>		
+		
+		<string name="settingsBiblereaderVerseNotesInsideText">Verse notes inside text</string>
+		<string name="settingsBiblereaderVerseNotesInsideTextDesc">Display notes inside biblical text otherwise below the text.</string>		
+		
+		
+		<string name="settingsBiblereaderVerseOnNewLine">Verses on new line</string>
+		<string name="settingsBiblereaderVerseOnNewLineDesc">Each verse will be displayed on new line.</string>
+		
+		<string name="settingsBiblereaderHebrewVowels">Hebrew vowels</string>
+		<string name="settingsBiblereaderHebrewVowelsDesc">Display vowels in hebrew text.</string>	
+	
+		<string name="settingsBiblereaderHebrewCantillation">Hebrew cantillation</string>
+		<string name="settingsBiblereaderHebrewCantillationDesc">Display cantillation marks in hebrew text.</string>
+		
+		<string name="settingsBiblereaderHebrewDecorated">Hebrew decorated font</string>
+		<string name="settingsBiblereaderHebrewDecoratedDesc">Display cantillation marks in hebrew text.</string>					
+		
+		
+		<string name="settingsBiblereaderHideVerseNumbers">Hide verse numbers</string>
+		<string name="settingsBiblereaderHideVerseNumbersDesc">Verse numbers wont be displayed.</string>
+		
+		<string name="settingsBiblereaderShowStrongs">Show strong\'s numbers</string>
+		<string name="settingsBiblereaderShowStrongsDesc">Display strong\'s numbers next to linked word.</string>
+
+		<string name="settingsBiblereaderShowMorphology">Show morphology</string>
+		<string name="settingsBiblereaderShowMorphologyDesc">Display morphology tags next to linked word.</string>			
+				
+		<string name="settingsBiblereaderShowTransliteration">Show transliteration</string>
+		<string name="settingsBiblereaderShowTransliterationDesc">Display latin characters for the text.</string>
+							
+				
+		
+	<string name="settingsCategoryExegeticalstudy">Exegetical study</string>
+		<string name="settingsExegeticalstudyWordPopup">Popup options on word click</string>
+		<string name="settingsExegeticalstudyWordPopupDesc">When word is clicked its options will be displayed. Otherwise word will be added to search box.</string>	
+	
+		<string name="settingsExegeticalstudySplitContent">Split content</string>
+		<string name="settingsExegeticalstudySplitContentDesc">Split content to be able to see text and helper tabs together (better on large screens).</string>	
+		
+		<string name="settingsExegeticalstudyBoookicons">Display books icons</string>
+		<string name="settingsExegeticalstudyBoookiconsDesc"></string>	
+				
+		
+	<string name="settingsCategoryPassageselector">Passage selector</string>
+		<string name="settingsPassageselectorVerseSubmit">Submit on verse click</string>
+		<string name="settingsPassageselectorVerseSubmitDesc">Close passage selector when verse is selected. This setting takes no effect with range selection.</string>	
+				
+		
+	
+
+	<string name="settingsCategoryDebug">Debug</string>
+	 	<string name="settingsDebug">Enable debug</string>
+		<string name="settingsDebugDesc">Enable loging to file log.txt.</string>
+		
+	 	<string name="settingsDebugTab">Enable debug tab</string>
+		<string name="settingsDebugTabDesc">Show extra tab with logs and another debug options.</string>	
+			
+	 	<string name="settingsDebugConsole">Enable debug console</string>
+		<string name="settingsDebugConsoleDesc">Show extra console with logs and another debug options.</string>		
+				
+		<string name="settingsDebugExceptionSend">Send exceptions</string>
+		<string name="settingsDebugExceptionSendDesc">When exception is thrown, preset mail with logs will be sent to developer.</string>
+		
+		<string name="settingsDebugScreenSend">Send debug screen</string>
+		<string name="settingsDebugScreenSendDesc">This will add to main menu an item to send email current screen to developer.</string>		
+						
+		
+		
+</resources>

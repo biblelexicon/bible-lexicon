@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialogBoxesSubmit">Invia</string>
+    <string name="dialogBoxesOk">OK</string>
+    <string name="dialogBoxesCancel">Cancella</string>
+    <string name="dialogBoxesClose">Chiudi</string>
+    <string name="dialogBoxesYes">Si</string>
+    <string name="dialogBoxesNo">No</string>
+    <string name="dialogBoxesSave">Salva</string>
+    <string name="dialogBoxesContinue">Continua</string>
+    <string name="dialogDownloadQuestionText">Per continuare devi scaricare la tua biblioteca delle pubblicazioni bibliche. Vuoi farlo adesso?</string>
+    <string name="dialogAlertNoConnectionTitle">Nessuna connessione</string>
+    <string name="dialogAlertNoConnectionText">Spiacente. Non riesco a collegarmi ad internet.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passagetranslationBrowserWordsCount">parole</string>
+    <string name="passagetranslationBrowserAdvancedWordsCount">Mostra il conteggio delle parole</string>
+    <string name="passagetranslationNoConcordancesDlgBoxTitle">Non trovo nessuna Bibbia</string>
+    <string name="passagetranslationNoLexiconsDlgBoxTitle">Non trovo nessun lessico</string>
+    <string name="passagetranslationNoConcordancesDlgBoxText">Per utilizzare \'Traduzione del brano\' devi scaricare le pubblicazioni indicate.
+       	\n\n
+Vuoi scaricarle adesso?</string>
+    <string name="passagetranslationDetailTableWord">Parola</string>
+    <string name="passagetranslationDetailTableTranslation">Traduzione</string>
+    <string name="passagetranslationDetailTableBase">Forma base</string>
+    <string name="passagetranslationDetailTableStrongs">Strong</string>
+    <string name="passagetranslationDetailTableTransliteration">Traslitterazione</string>
+    <string name="passagetranslationDetailTableOccurrences">Ricorrenze</string>
+    <string name="passagetranslationDetailTableMorphology">Morfologia</string>
+    <string name="passagetranslationNoLexiconsDlgBoxText">Per utilizzare \'Traduzione del brano\' devi scaricare almeno un lessico.\n\nVuoi scaricarli adesso?</string>
+</resources>

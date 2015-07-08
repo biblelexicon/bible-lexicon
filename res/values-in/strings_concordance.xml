@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="concordanceHitSearch">Tekan tombol pencarian untuk mencari atau tentukan bacaan</string>
+    <string name="concordanceMenuSelectConcordances">Pilih konkordansi</string>
+    <string name="concordanceMenuExport">Hasil ekspor</string>
+    <string name="concordanceMenuExportExtended">Hasil ekspor dengan konkordansi pilihan</string>
+    <string name="concordanceDetailSearchInLexicon">Cari `{item}` pada leksikon</string>
+    <string name="concordanceDetailSearchInConcordance">Cari `{item}` pada konkordansi</string>
+    <string name="concordanceDetailDisplayInBible">Tampilkan `{item}` pada Kitab `{bible}`</string>
+    <string name="concordanceDetailDisplayInBibleReader">Tampilkan `{item}` pada Bacaan Kitab</string>
+    <string name="concordanceDetailDisplayPassageTranslator">Terjemahkan ayat `{item}`</string>
+    <string name="concordanceDetailSelectLexicon">Pilih leksikon</string>
+    <string name="concordanceDetailSelectConcordance">Pilih konkordansi</string>
+    <string name="concordanceExportSubtitle">Cari `{phrase}` pada `{passage}`</string>
+    <string name="concordanceExportSubtitlePassage">seluruh Alkitab</string>
+    <string name="concordanceBrowserAdvancedExactPhrase">Cari frasa tepat</string>
+    <string name="concordanceBrowserAdvancedVerseText">Tampilkan ayat pada hasil</string>
+</resources>

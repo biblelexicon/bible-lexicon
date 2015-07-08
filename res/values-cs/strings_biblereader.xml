@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biblereaderSelectBook">Vybrat Bibli</string>
+    <string name="biblereaderSelectPassage">Vyberte pasáž…</string>
+    <string name="biblereaderAddBook">Přidat knihu…</string>
+    <string name="biblereaderNotes">Poznámky</string>
+    <string name="biblereaderApparatus">Aparát</string>
+    <string name="biblereaderSelectAnotherPassage">Pasáž nenalezena, vyberte jinou…</string>
+    <string name="biblereaderPassageNotFound">Pasáž nenalezena</string>
+</resources>

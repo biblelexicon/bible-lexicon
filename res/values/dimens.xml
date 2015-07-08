@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimDrawerRowGroupHeight">30dp</dimen>
+    <dimen name="dimDrawerRowHeight">35dp</dimen>
+    
+
+    <dimen name="dimContextMenuHeight">40dp</dimen>
+    
+    <dimen name="dimTabViewTabslayoutHeight">38dp</dimen>
+    <dimen name="dimTabViewTabsIconAddWidth">30dp</dimen>
+    <dimen name="dimTabViewTabsIconCloseWidth">17dp</dimen>
+    <dimen name="dimTabViewTabTitleTextSize">13sp</dimen>
+    <dimen name="dimTabViewTabSubtitleTextSize">9sp</dimen>
+    <dimen name="dimTabViewTabMaxWidth">80dp</dimen>
+    
+    
+    <dimen name="dimNDLWindowBarOuterHeight">36dp</dimen>
+    <dimen name="dimNDLWindowBarInnerHeight">35dp</dimen>    
+  
+    <dimen name="dimNDLWindowBrowserItemVerticalPadding">4sp</dimen>    
+    <dimen name="dimNDLWindowBrowserClearIconWidth">20dp</dimen>
+    <dimen name="dimNDLWindowBrowserClearIconPadding">0dp</dimen>
+    <dimen name="dimNDLWindowBrowserSearchIconWidth">40dp</dimen>
+    <dimen name="dimNDLWindowBrowserProgressIconWidth">35dp</dimen>
+    <dimen name="dimNDLWindowBrowserOptionsSquare">25dp</dimen>
+	<dimen name="dimNDLWindowBrowserSearchFontSize">14sp</dimen>
+	<dimen name="dimNDLWindowBrowserSearchCountFontSize">10sp</dimen>
+    <dimen name="dimNDLWindowBrowserSearchItemVerse">65dp</dimen>
+    <dimen name="dimNDLWindowBrowserSearchRightPadding">47dp</dimen>	
+    <dimen name="dimNDLWindowBrowserResizerSquare">24dp</dimen>
+        
+    
+    <dimen name="dimNDLWindowContentIconWidth">30dp</dimen>
+    
+    
+    <dimen name="dimTabPassageTranslationDetailTableWord">100dp</dimen>
+    
+    
+    <dimen name="dimPassageSelectorBrowserEditsHeight">30dp</dimen>
+    <dimen name="dimPassageSelectorBrowserButtonsHeight">25dp</dimen>
+    <dimen name="dimPassageSelectorSquare">40dp</dimen>
+    <dimen name="dimPassageSelectorFontSize">12sp</dimen>
+
+    <dimen name="dimWordinfoIconWidth">25dp</dimen>
+    
+    <dimen name="dimTabControlsBarHeight">25dp</dimen>
+    
+
+    <dimen name="dimModulesIconWidth">50dp</dimen>
+    <dimen name="dimModulesIconHeight">60dp</dimen> 
+	<dimen name="dimModulesRowHeight">65dp</dimen>  
+	<dimen name="dimModulesRowHeightSmall">40dp</dimen> 
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="dialogBoxesSubmit">Submit</string>      
+    <string name="dialogBoxesOk">OK</string>
+    <string name="dialogBoxesCancel">Cancel</string>    
+    <string name="dialogBoxesClose">Close</string>
+    <string name="dialogBoxesYes">Yes</string>
+    <string name="dialogBoxesNo">No</string>   
+    <string name="dialogBoxesSave">Save</string>
+    <string name="dialogBoxesContinue">Continue</string>
+      
+	<string name="dialogDownloadQuestionText">You must download some modules. Would like to download them now?</string>	
+	<string name="dialogAlertNoConnectionTitle">No connection</string>
+	<string name="dialogAlertNoConnectionText">Can not connect to internet.</string> 	
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">Bible lexicon</string>
+    
+    <!-- Bible lexicon supported languages --> 
+	<string-array name="appLanguages">
+	    <item>English</item>
+	    <item>Čeština</item>
+	    <item>Deutsch</item>	
+	    <item>Español</item>	        
+	    <item>Français</item>	    
+	    <item>Indonesia</item>
+	    <item>Italiano</item>	    	    	    
+	</string-array>
+	<string-array name="appLanguagesIds">
+	    <item>en</item>
+	    <item>cs</item>	    
+	    <item>de</item>
+	    <item>es</item>
+		<item>fr</item>	    	    
+	    <item>in</item>
+	    <item>it</item>		         	    
+	</string-array>
+	
+ 
+	<string-array name="translationLanguages">
+	    <item>System default</item>
+	    <item>Čeština</item>
+	    <item>Français</item>
+	    <item>Deutsch</item>
+	    <item>Korean</item>
+	    <item>Português</item>	       	    	    
+	</string-array>
+	<string-array name="translationLanguagesIds">
+	    <item></item>
+	    <item>cs</item>
+	    <item>fr</item>
+	    <item>de</item>
+	    <item>ko</item>
+	    <item>pt</item>	    	        	    	    
+	</string-array>	
+	
+
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string> 
+
+	
+	
+	<!-- NDL Window -->	
+	<string name="ndlBrowserSearchBarSearchtextFrameTextHint">Search…</string>
+	<string name="ndlBrowserSearchBarSearchtextFrameTextNoInput">Please enter some text to search</string>
+	<string name="ndlBrowserSearchBarDisplayingResults">Displaying {count} results</string>
+	<string name="ndlBrowserSearchBarNoMatches">No match found</string>
+	<string name="ndlBrowserSearchBarWait">Please wait…</string>
+	<string name="ndlBrowserSearchBarResize">Resize browser bar</string>
+	<string name="ndlBrowserSearchBarCanceled">Canceled…</string>
+
+	<string name="ndlContentNoMoreItems">No options are available</string>
+	
+	<string name="ndlBrowserAdvancedOptionsPassageTitle">Passage</string>
+	<string name="ndlBrowserAdvancedOptionsHistoryTitle">History</string>
+	<string name="ndlBrowserAdvancedOptionsHistoryItemDefaultTitle">- Select -</string>
+	<string name="ndlBrowserAdvancedOptionsPassageHint">All…</string>
+	<string name="ndlBrowserAdvancedOptionsPassageSelect">Select</string>
+
+	
+	<string name="ndlBrowserAdvancedOptionsConcordancesTitle">Bible</string>
+	<string name="ndlBrowserAdvancedOptionsLexiconsTitle">Lexicon</string>
+
+
+	<!-- Other, non categorized -->	
+	<string name="dlgOldBLOneModulesVersionsTitle">Modules of BL 1.x</string>
+	<string name="dlgOldBLOneModulesVersionsText">There were found old versions of modules which are now incompatible with Bible lexicon 2.x. These modules were deleted, please download new ones.</string>	
+	
+	
+	<string name="tabviewTabManagerTitle">Select or remove tab</string>
+	
+	<string name="loading">Loading…</string>
+	<string name="select">Select…</string>
+	<string name="search">Search…</string>
+	<string name="export">Export</string>
+	<string name="fullscreen">Fullscreen</string>
+	
+</resources>

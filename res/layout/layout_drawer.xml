@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"    
+>
+    <RelativeLayout
+		android:id="@+id/idDrawerTabslayout"        
+	    android:layout_width="fill_parent"
+	    android:layout_height="@dimen/dimTabViewTabslayoutHeight"
+	    android:background="@color/search_layout_bg_night"     
+	>
+		<ImageView 
+	        android:id="@+id/idDrawerTabsAppIcon"
+	        android:layout_width="@dimen/dimTabViewTabsIconAddWidth"
+	        android:layout_height="fill_parent"
+	        android:layout_marginLeft="2dp"
+		    android:gravity="center"
+		   	android:layout_gravity="center_vertical"
+			android:src="@drawable/ic_launcher"								
+	        android:scaleType="centerInside"
+	        android:adjustViewBounds="true"	
+		/>
+	    <TextView 
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_toRightOf="@+id/idDrawerTabsAppIcon"
+	        android:layout_marginLeft="5dp"
+		   	android:gravity="center_vertical"	
+		   	android:textColor="#fff" 
+		   	android:textSize="18sp"       
+			android:text="@string/appName"      
+	     />		
+	</RelativeLayout>	    	
+
+    <ListView
+        android:id="@+id/idDrawerList"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/idDrawerTabslayout"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+	/>	
+	
+    <TextView 
+		android:id="@+id/idDrawerDropshadow"	
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+		android:layout_below="@+id/idDrawerTabslayout"        
+        android:background="@drawable/dropshadow_night"        
+     />	    
+</RelativeLayout>

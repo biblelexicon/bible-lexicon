@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="searchPhrase">Frasa</string>
+    <string name="searchModule">Modul</string>
+    <string name="searchPassage">Bacaan</string>
+    <string name="searchSelectPassage">Pilih...</string>
+    <string name="searchSelectModuleTitle">Pilih modul</string>
+    <string name="searchDialogTitle">Cari Frasa</string>
+    <string name="searchDialogSearch">Cari</string>
+    <string name="searchRequiredPhrase">Silakan masukkan frasa</string>
+    <string name="searchRequiredModule">Silakan masukkan modul</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialogCloseQuestion">Apakah Anda benar-benar ingin menutup {appname}?</string>
+    <string name="exitRememberTabs">Tandai bagian-bagian terakhir yang dibuka</string>
+</resources>

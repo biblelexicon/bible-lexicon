@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="helpTabTitle">Help</string>    
+	
+	<string name="helpText">
+	<![CDATA[
+		<html>
+			<head>
+				<style>
+					body
+					{
+						font-size: {fontsize}px;
+						color: {fontcolor};
+						text-align: left;
+					}
+
+					h1{font-size: {fontsizeh1}px; color: #35aad0;margin: 5px 0 0 0;}
+					h2{font-size: {fontsizeh2}px; color: #286e85;margin: 0;margin-top: 25px;padding: 2px 0 0 0;}
+	
+					ol, ul
+					{
+						margin: 0 0 0 15px;
+						padding: 0 0 0 20px;
+					}
+					
+					ol li, ul li
+					{
+						margin: 4px 0 2px ;
+					}				
+					
+					.highlight, b, a{color: #079dd0;}		
+					.green{color: #63c359;}			
+					.red{color: #c31010;}					
+					.nopadding{padding-top: 0;}
+					.clear{clear: both;}
+					
+					.fleft{float: left;}
+					.fright{float: right;}
+					
+					th
+					{
+						text-align: left;
+						padding-right: 15px;
+					}
+					table
+					{
+						font-size: {fontsize}px;
+					}					
+				</style>
+			</head>
+			<body>
+
+
+				<h2>Lexicon</h2>
+				
+				<p>Lexicons are useful for searching Greek or Hebrew words meanings and seeing the details about them. Lexicons are also used by other application&#39;s modules and functionalities to provide translations.&nbsp;</p>
+				
+				<p>Any lexicon can be opened through your downloaded library.</p>
+				
+				<h3>Search forms</h3>
+				
+				<p>There is couple of way how to enter your search:</p>
+				
+				<ul>
+					<li>Strongs number: strong number entry (just number no G or H)</li>
+					<li>Greek &amp; Hebrew:</li>
+					<li>Transliteration: you can enter word in Latin alphabet
+					<ul>
+						<li>when searching for Greek word &alpha;&gamma;&alpha;&pi;&eta; enter agape</li>
+						<li>when searching for Greek word&nbsp;</li>
+						<li>you can also use <em><a href="http://biblelexicon.net/documentation#beta-code">Beta&nbsp;code</a>&nbsp;</em>(for Greek)</li>
+					</ul>
+					</li>
+					<li>Meanings: you can enter word meaning</li>
+				</ul>
+				
+				<h3>Advanced search</h3>
+				
+				<ul>
+					<li><em>search exact phrase</em>:&nbsp;when this option is turned off you are able to search parts of word. For example you need to find all words of agape family. You will then enter only agap and listed results will be agapao, agape, agapetos</li>
+				</ul>
+				
+				<h3>Video tutorial</h3>
+				
+				<p>For a video guide for this module see this <a href="https://www.youtube.com/watch?v=FR9lSVViXIQ">link</a>.</p>
+				
+				<h2>Bible</h2>
+				
+				<p>Any Bible can be opened right from your library. Bibles a very easy to use.</p>
+				
+				<ul>
+					<li><strong>passage</strong>: passage can be selected by clicking on button in the upper left corner with current passage</li>
+					<li><strong>fullscreen</strong>: next to options button to the right</li>
+					<li><strong>options</strong>: this button is located in the upper right corner</li>
+					<li><strong>zoom-in/out text</strong> (fontsize): font size can be adjusted by pinch-zoom gesture</li>
+					<li><strong>word detail</strong>: by clicking on any word in displayed text, word detail is displayed at the bottom
+					<ul>
+						<li>Explanation for icons (from left to rights)
+						<ul>
+							<li>search: clicking on this icon will display futher search options for a word</li>
+							<li>lexicons: select lexicon in order to get informations about word&nbsp;</li>
+							<li>bookmarks: bookmark this verse or select another passage range</li>
+							<li>sharing: share this word or verse</li>
+						</ul>
+						</li>
+					</ul>
+					</li>
+				</ul>
+				
+				<h2>Bible reader</h2>
+				
+				<p>Bible reader is, simply put, reader for multiple Bibles. Bibles can be paralleled next to each other.</p>
+				
+				<p>To open Bibles click on &quot;add book&quot; button.</p>
+				
+				<p>To close Bible click on &quot;x&quot; button.</p>
+				
+				<h2>Concordance</h2>
+				
+				<p>Concordance study tool is used for searching for a specific phrase. You best find it useful when looking for a phrase like &quot;from that time&quot;, it will list all occurences of that phrase.</p>
+				
+				<h3>Search forms</h3>
+				
+				<p>There is couple of way how to enter your search:</p>
+				
+				<ul>
+					<li>Strongs number: strong number entry (just number no G or H)</li>
+					<li>Greek &amp; Hebrew: enter phrase in Greek or Hebrew without accents</li>
+					<li>Transliteration: you can enter phrase in Latin alphabet
+					<ul>
+						<li>when searching for Greek word &alpha;&gamma;&alpha;&pi;&eta; enter agape</li>
+						<li>you can also use&nbsp;<em><a href="http://biblelexicon.net/documentation#beta-code">Beta&nbsp;code</a>&nbsp;</em>(for Greek)</li>
+					</ul>
+					</li>
+				</ul>
+				
+				<h3>Advanced search</h3>
+				
+				<ul>
+					<li><em>passage</em>: initializes search range (search will be done within these bounds)</li>
+					<li><em>search exact phrase</em>:&nbsp;when this option is turned off you are able to search parts of word. For example you need to find all words of agape family. You will then enter only agap and listed results will be agapao, agape, agapetos</li>
+					<li><em>show verse text in results</em>: this will display verse text in listed results</li>
+				</ul>
+				
+				<h2>Exegetical study</h2>
+				
+				<p>This study tool is designed to do verse-by-verse study. Helper tabs can be toggled bringing you another specific insight into studied verse.</p>
+				
+				<h3>Selected Bible</h3>
+				
+				<p>There must be selected main Bible which is used by helper tabs and by search bar. It can be selected in two ways:</p>
+				
+				<ul>
+					<li><em>advanced search</em>: click on advanced search icon, there is Bible selector, you can use this one</li>
+					<li><em>books</em>: click on this icon and simply select Bible, it will be selected as main. Selected Bible is highlighted and has check mark icon (this icon is also visible in listed verses)</li>
+				</ul>
+				
+				<h3>Helper tabs</h3>
+				
+				<p>Helper tabs refresh when current verse is changed or books list is changed. Some tabs however change only by manual.&nbsp;</p>
+				
+				<ul>
+					<li><strong>Verse translation</strong>
+				
+					<ul>
+						<li>This tab translates every word of currently studied verse of selected Bible</li>
+						<li>You need to select lexicon to be used for translation</li>
+						<li>Rows and tags can be clicked for another searches</li>
+					</ul>
+					</li>
+					<li><strong>Context</strong>
+					<ul>
+						<li>​This tab brings you whole context of currently studied verse</li>
+						<li>You can select another Bible then selected one</li>
+					</ul>
+					</li>
+					<li><strong>Context analysis</strong>
+					<ul>
+						<li>This tab let you make concordant lookups for every word of currently studied verse</li>
+						<li>To launch lookup you need to submit passage range (context)</li>
+						<li>Clicking on row let you do another searches</li>
+						<li>If you want to see listed passages for a word, click on that word row and select any of concordance search</li>
+					</ul>
+					</li>
+					<li><strong>​​Words occurrences</strong>
+					<ul>
+						<li>​This tab is stand alone (not depended on currently studied verse). It makes survey of words occurrences for specified passage range</li>
+						<li>You need to select passage range to look for and search will then automatically launch</li>
+						<li>Clicking on row let you do another searches</li>
+					</ul>
+					</li>
+					<li><strong>Words in lexicons</strong>
+					<ul>
+						<li>This tab will do lookup in all available lexicons in your library and show translation for every word of currently studied verse</li>
+					</ul>
+					</li>
+					<li><strong>Notes</strong></li>
+					<li><strong>Wikipedia</strong>
+					<ul>
+						<li><strong>​</strong>This tab will add connector to wikipedia website</li>
+						<li>Internet connection is required</li>
+					</ul>
+					</li>
+				</ul>
+				
+				<h3>Search bar</h3>
+				
+				<p>This bar is mainly used for concordant searches in selected Bible. When you click on the row the verse will be displayed in exegetical study.</p>
+				
+				<h3>Advanced search</h3>
+				
+				<ul>
+					<li><em>passage</em>: initializes search range (search will be done within these bounds)</li>
+					<li><em>bible</em>: selector to set selected Bible (main Bible), this Bible is then used when phrases are searched</li>
+					<li><em>search exact phrase</em>:&nbsp;when this option is turned off you are able to search parts of word. For example you need to find all words of agape family. You will then enter only agap and listed results will be agapao, agape, agapetos</li>
+				</ul>
+				
+				<h3>Settings</h3>
+				
+				<p>Be sure to check settings for exegetical study tool.</p>
+				
+				<h2>Passage translation</h2>
+				
+				<h2>Lexicons search</h2>
+				
+				<h2>Tutorials</h2>
+				
+				<p>All video tutorials can be listed on this&nbsp;<a href="http://www.youtube.com/channel/UC4dCn0HGz2nAgikdR7BTAbw">youtube channel</a>.</p>
+				
+
+		    </body>
+	    </html>	       
+	]]>    
+	</string>    
+    	
+</resources>

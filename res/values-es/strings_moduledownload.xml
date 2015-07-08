@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="moduledownloadTitle">Descargar módulo</string>
+    <!-- You should also update moduleDownloadLanguages property at Config.java -->
+    <string name="moduledownloadOptionsNotDownloaded">No descargado</string>
+    <string name="moduledownloadDlgStartDownload">Descargar este módulo?</string>
+    <string name="moduledownloadDlgNoModules">Disculpe, no hay módulos disponibles para descargar. Por favor, intente luego.</string>
+    <string name="moduledownloadPreparedForDownload">Preparar para descarga</string>
+    <string name="moduledownloadDownloadAlreadyDownloaded">`{module}` ya está descargado.</string>
+    <string name="moduledownloadDownloadInProgress">En progreso...</string>
+    <string name="moduledownloadDownloadCanceled">Cancelado...</string>
+    <string name="moduledownloadDeleteOldModulesTitle">Remover el mas antiguo</string>
+    <string name="moduledownloadDeleteOldModulesText">"Desea remover los módulos de `{module}` más antiguos? "</string>
+    <string name="moduledownloadStatusRefresh">Actualizar</string>
+    <string name="moduledownloadStatusLoading">Descargando lista de módulos</string>
+    <string name="moduledownloadStatusError">No es posible la conexión con el servidor para obtener la lista de módulos, por favor intente más tarde.</string>
+</resources>

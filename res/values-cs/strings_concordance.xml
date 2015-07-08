@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="concordanceHitSearch">Stiskněte tlačítko vyhledat pro vyhledávání nebo vyberte pasáž</string>
+    <string name="concordanceMenuSelectConcordances">Vybrat konkordance</string>
+    <string name="concordanceMenuExport">Exportovat výsledky</string>
+    <string name="concordanceMenuExportExtended">Exportovat výsledky s vybranými konkordancemi</string>
+    <string name="concordanceDetailSearchInLexicon">Hledat `{item}` v lexikonu</string>
+    <string name="concordanceDetailSearchInConcordance">Hledat `{item}` v konkordanci</string>
+    <string name="concordanceDetailDisplayInBible">Zobrazit `{item}` v `{bible}` Bibli</string>
+    <string name="concordanceDetailDisplayInBibleReader">Zobrazit `{item}` v Bible readeru</string>
+    <string name="concordanceDetailDisplayPassageTranslator">Přeložit verš `{item}`</string>
+    <string name="concordanceDetailSelectLexicon">Vybrat lexikon</string>
+    <string name="concordanceDetailSelectConcordance">Vybrat konkordanci</string>
+    <string name="concordanceExportSubtitle">Vyhledávání `{phrase}` v `{passage}`</string>
+    <string name="concordanceExportSubtitlePassage">celá Bible</string>
+    <string name="concordanceBrowserAdvancedExactPhrase">Hledat přesnou frázi</string>
+    <string name="concordanceBrowserAdvancedVerseText">Zobrazovat text verše ve výsledcíh</string>
+</resources>

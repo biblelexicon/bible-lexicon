@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passageselectorFrom">Dari</string>
+    <string name="passageselectorTo">Ke</string>
+    <string name="passageselectorBook">Kitab</string>
+    <string name="passageselectorChapter">Pasal</string>
+    <string name="passageselectorVerse">Ayat</string>
+    <string name="passageselectorInvalidPassageFormat">Format bacaan tidak valid</string>
+</resources>

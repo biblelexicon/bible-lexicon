@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="biblereaderSelectBook">Select Bible</string>
+    <string name="biblereaderSelectPassage">Select passage…</string>
+    <string name="biblereaderAddBook">Add book…</string>						   
+    
+    <string name="biblereaderNotes">Notes</string>
+    <string name="biblereaderApparatus">Apparatus</string>
+    
+    <string name="biblereaderSelectAnotherPassage">Passage not found, select another one…</string>
+    <string name="biblereaderPassageNotFound">Passage not found</string>  	
+    
+
+	<string name="biblereaderBookHtml">
+	<![CDATA[ 
+		<html>
+			<head>
+				<meta http-equiv="content-type" content="text/xhtml; charset=utf-8" />
+				<meta charset="UTF-8" />	
+
+				<style>
+					@font-face
+					{
+						font-family: Bookfont;
+						src: url("fonts/{font}") format("{fonttype}");					   
+					} 
+									
+					body
+					{
+						font-size: {fontSize}px;
+						color: {fontcolor};						
+						text-align: {textalign};
+						-webkit-font-smoothing: antialiased;
+						font-smoothing: antialiased;						
+					}	
+					
+					p::selection
+					{
+					    background-color: #98d9f1;
+					}					
+		
+					h1,h2,h3
+					{
+						margin: 0;
+						padding: 0;					
+						color: #079dd0;
+						text-align: left;
+					}
+					h1{font-size: 18px; text-align: center;}
+		
+		
+					.verse
+					{			
+						font-family: sans-serif;	
+						color: #079dd0;					
+						font-size: {fontSizeVerses}px;
+						vertical-align: super;	
+						direction: ltr;					
+					}
+					.hebrew .verse{line-height: 3px;}			
+					.hebrew .spaceverse{padding-left: 1em;}
+					.hebrew .spacepetucha{padding-left: 3em;}
+					.hebrew .spacesetuma{padding-left: 1em;}	
+					
+					.word, .marker
+					{
+						font-family: Bookfont;
+					}								
+					
+					
+					p
+					{
+						display: inline;											
+						margin: 1px 0;
+						padding: 0;
+						line-height: 130%%;
+					}
+					.newlines
+					{
+						display: block;
+					}				
+					.hebrew, .arabic
+					{
+						direction: rtl;
+						line-height: 160%%;
+					}		
+					p.focused
+					{
+						padding: 2px 0;											
+						background: rgba(7,157,208,0.15);
+						border-radius: 4px; 
+					}
+					
+					.note
+					{
+						padding-left: 5px;
+						color: {notesfontcolor};
+						font-size: {fontSizeNotes}px;
+						font-style: italic;
+					}					
+					.notemark, .notemarknotes
+					{
+						color: #079dd0;	
+						font-size: {fontSizeNotes}px;					
+						vertical-align: super;	
+					}						
+					.notes
+					{
+						margin-top: 15px;
+						color: {notesfontcolor};
+						font-size: {fontSizeNotes}px;
+						font-style: italic;
+					}
+					.notes > .h2
+					{
+						margin: 0;
+						padding: 0;
+						font-size: {fontSize}px;
+						color: #079dd0;
+					}	
+					
+					.strongs, .morphology
+					{
+						vertical-align: super;
+						color: {notesfontcolor};
+						font-size: {fontSizeNotes}px;
+						font-style: italic;
+					}
+					
+					.highlighted.yellow {background-color: #ecea42;}
+					.highlighted.green {background-color: #76d73c;}
+					.highlighted.blue {background-color: #407fde;}
+					.highlighted.red {background-color: #e34949;}
+					
+				</style>
+			
+			</head>
+			<body>
+				{content}
+				
+		
+			    <script>		    				 		  			    
+			    	content.onLoaded();
+		
+					setTimeout(function()
+					{
+				    	var anchor = window.document.getElementById(\"idSelectedVerse\");
+						var rect = anchor.getBoundingClientRect();
+					    window.scrollTo(0, Math.round(rect.top)-30);
+					}, 400);
+		
+		
+					function changefontsize(fontsize, fontsizeverses, fontsizenotes)
+					{
+						var fontsize = parseInt(fontsize);
+						var fontsizeverses = parseInt(fontsizeverses);
+						var fontsizenotes = parseInt(fontsizenotes);
+						
+		
+						document.body.style.fontSize = fontsize+\"px\";
+						
+						var items = document.getElementsByClassName(\"verse\");
+						for(var i=0; i<items.length; i++) 
+						  items[i].style.fontSize = fontsizeverses+\"px\";
+						  
+						items = document.getElementsByClassName(\"note\");
+						for(var i=0; i<items.length; i++) 
+						  items[i].style.fontSize = fontsizenotes+\"px\";
+						  
+						items = document.getElementsByClassName(\"notes\");
+						for(var i=0; i<items.length; i++) 
+						  items[i].style.fontSize = fontsizenotes+\"px\";
+						  
+						items = document.getElementsByClassName(\"notemark\");
+						for(var i=0; i<items.length; i++) 
+						  items[i].style.fontSize = fontsizenotes+\"px\";						  
+						items = document.getElementsByClassName(\"notemarknotes\");
+						for(var i=0; i<items.length; i++) 
+						  items[i].style.fontSize = fontsizenotes+\"px\";						  						  					  
+						  
+						items = document.getElementsByClassName(\"strongs\");
+						for(var i=0; i<items.length; i++) 
+						  items[i].style.fontSize = fontsizenotes+\"px\";
+						items = document.getElementsByClassName(\"morphology\");
+						for(var i=0; i<items.length; i++) 
+						  items[i].style.fontSize = fontsizenotes+\"px\";						  						  						  
+					}
+			    </script>				
+		    </body>
+		</html>	 
+	]]>    
+	</string> 	  
+</resources>

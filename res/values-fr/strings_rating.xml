@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ratingTitle">Notation</string>
+    <string name="ratingText">Google play va s\'ouvrir maintenant</string>
+    <string name="ratingGooglePlayMissing">L\'application n\'a pas été trouvée dans Google play</string>
+</resources>

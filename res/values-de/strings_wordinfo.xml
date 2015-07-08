@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoShareCopyVerse">Vers zum Klipboard hinzufügen</string>
+    <string name="wordinfoShareCopyWord">Wort zum Klipboard hinzufügen</string>
+    <string name="wordinfoWord">Wort</string>
+    <string name="wordinfoTransliteration">Transliteration</string>
+    <string name="wordinfoStrong">Strong</string>
+    <string name="wordinfoOccurrences">Häufigkeiten</string>
+    <string name="wordinfoMorphology">Morphologie</string>
+</resources>

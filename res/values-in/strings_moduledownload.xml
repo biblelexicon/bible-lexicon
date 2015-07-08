@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="moduledownloadTitle">Pengunduh modul</string>
+
+    <string name="moduledownloadOptionsNotDownloaded">Tidah terunduh</string>
+    <string name="moduledownloadDlgStartDownload">Mulai mengunduh modul ?</string>
+    <string name="moduledownloadDlgNoModules">Maaf, tidak ada modul yang terunduh. Silakan ulangi lagi.</string>
+    <string name="moduledownloadPreparedForDownload">Persiapan untuk mengunduh...</string>
+    <string name="moduledownloadDownloadAlreadyDownloaded">`{module}` sudah terunduh.</string>
+    <string name="moduledownloadDownloadInProgress">Sedang berlangsung...</string>
+    <string name="moduledownloadDownloadCanceled">Dibatalkan...</string>
+    <string name="moduledownloadDeleteOldModulesTitle">Hapus berkas lama</string>
+    <string name="moduledownloadDeleteOldModulesText">Apakah Anda mau menghapus modul lama `{module}` ?</string>
+    <string name="moduledownloadStatusRefresh">Menampilkan ulang</string>
+    <string name="moduledownloadStatusLoading">Mengunduh daftar modul...</string>
+    <string name="moduledownloadStatusEmpty">Tidak ada modul untuk di unduh</string>
+    <string name="moduledownloadStatusError">Tidak bisa terhubung ke server untuk mendapatkan daftar modul, silakan ulangi lagi.</string>
+</resources>

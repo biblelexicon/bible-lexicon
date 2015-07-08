@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lexiconTranslate">Translate</string>
+    
+    <string name="lexiconOccurrences">Occurrences</string>
+    <string name="lexiconStrong">Strong</string>    
+    <string name="lexiconTransliteration">Transliteration</string>
+    <string name="lexiconOrigin">Origin</string>
+    <string name="lexiconUsage">Usage</string>   
+    <string name="lexiconPronunciation">Pronunciation</string>
+    <string name="lexiconNotes">Notes</string>
+    
+    <string name="lexiconSelectConcordance">Select concordance…</string>
+    <string name="lexiconSelectLexicon">Select lexicon…</string>    
+    
+	<string name="lexiconTextHtml">
+	<![CDATA[
+		<html>
+			<head>
+				<style>
+					body
+					{
+						font-size: {fontSize}px;
+						color: {fontcolor};
+						text-align: left;
+					}
+					
+					p.word
+					{
+						font-weight: bold;
+						font-style: italic;
+					}
+					
+					.highlight, b, a{color: #079dd0;}
+				</style>
+			</head>
+			<body>
+				{content}    
+		    </body>
+	    </html>	       
+	]]>    
+	</string>    
+</resources>

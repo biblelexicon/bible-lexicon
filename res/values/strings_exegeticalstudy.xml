@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exegeticalstudyBrowserSearchTextHint">Search in `{book}`…</string>
+
+    <string name="exegeticalstudyTextTab">Studied text</string>
+    <string name="exegeticalstudyTextContextTab">Context</string>
+    <string name="exegeticalstudyContextAnalysisTab">Context analysis</string>
+    <string name="exegeticalstudyTranslationTab">Translation</string>
+    <string name="exegeticalstudyWordsTab">Words</string>
+    <string name="exegeticalstudyNotesTab">Notes</string>
+    <string name="exegeticalstudyWikiTab">Wikipedia</string>
+    <string name="exegeticalstudyLexiconsTab">Lexicons</string>    
+   
+    <string name="exegeticalstudyMoreFullscreen">Fullscreen</string>
+	<string name="exegeticalstudyMoreContextTab">Show context</string>	    
+    <string name="exegeticalstudyMoreContextAnalysisTab">Show context analysis</string>
+    <string name="exegeticalstudyMoreTranslationTab">Show verse translation</string> 
+    <string name="exegeticalstudyMoreWordsTab">Show words occurrences</string>
+    <string name="exegeticalstudyMoreLexiconsTab">Show words in lexicons</string>
+    
+    
+	<string name="exegeticalstudyMoreContextTabDesc">Makes you see whole chapter text of currently studied verse</string>	    
+    <string name="exegeticalstudyMoreContextAnalysisTabDesc">Searches words of currently studied verse in specified text context (passage)</string>
+    <string name="exegeticalstudyMoreTranslationTabDesc">Makes word by word translation of currently studied verse</string>     
+    <string name="exegeticalstudyMoreWordsTabDesc">Lists list of words count for specified passage and specified Bible</string>
+    <string name="exegeticalstudyMoreLexiconsTabDesc">Lists list of words for specified passage in all lexicons available</string>        
+    
+    
+    <string name="exegeticalstudyTextTabSelectBooks">Books…</string>
+    <string name="exegeticalstudyTextTabSelectPassage">Select verse…</string>
+    
+    
+    <string name="exegeticalstudyWordsTabSelectPassage">Select passage…</string>	
+
+    
+    <string name="exegeticalstudyContextAnalysisTabSelectPassage">Select passage…</string>	
+  
+    
+    <string name="exegeticalstudyNotesSearchHint">Filter passage…</string>
+    
+    <string name="exegeticalstudyNotesNewPassage">Enter passage…</string>
+    <string name="exegeticalstudyNotesNewPassagePS">Select…</string>
+    <string name="exegeticalstudyNotesNewTitle">Enter title…</string>    
+    <string name="exegeticalstudyNotesNewNotes">Enter your notes…</string>
+    
+    
+    <string name="exegeticalstudyTranslationTabSelectLexicons">Lexicons…</string>
+    
+    <string name="exegeticalstudyWordOptionsAddToSearch">Add to search</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vocabularyCreatorNoLexiconsTitle">Kosakata tidak ditemukan</string>
+    <string name="vocabularyCreatorNoLexiconsText">Untuk memakai Pembuat Kosakata, Anda harus mengunduh modul kosakata\n\nApakah Anda akan mengunduh sekarang?</string>
+    <string name="vocabularyCreatorNoBiblesTitle">Diperlukan kitab-kitab</string>
+    <string name="vocabularyCreatorNoBiblesText">Silakan mengunduh Kitab TR (untuk PB) dan WLC (untuk PL) untuk menggunakan Pembuat Kosakata.\n\nApakah anda akan mengunduh sekarang?</string>
+    <string name="vocabularyCreatorOptionLexicon">Kosakata</string>
+    <string name="vocabularyCreatorOptionMaxOccurrence">Kemunculan kata maksimum</string>
+    <string name="vocabularyCreatorOptionMinOccurrence">Kemunculan kata minimum</string>
+    <string name="vocabularyCreatorOptionShowOccurrences">Tampilkan kemunculan</string>
+    <string name="vocabularyCreatorOptionShowStrong">Tampilkan nomor Strong</string>
+    <string name="vocabularyCreatorOptionShowLearned">Tampilkan apa yang dipelajari</string>
+    <string name="vocabularyCreatorOptionOrderByOccurrence">Urutkan berdasarkan kemunculan</string>
+    <string name="vocabularyCreatorOptionOrderByWord">Urutkan berdasarkan kata</string>
+    <string name="vocabularyCreatorOptionWithAccents">Dengan aksen</string>
+    <string name="vocabularyCreatorOptionFontsize">Ukuran huruf</string>
+    <string name="vocabularyCreatorGeneratedVocabulary">Kosakata</string>
+    <string name="vocabularyCreatorDetailItemActionLearned">Tandai telah dipelajari</string>
+    <string name="vocabularyCreatorDetailItemActionDelete">Hapus kata dari daftar kosakata</string>
+    <string name="vocabularyCreatorLearnedListItemActionDelete">Hapus dari daftar</string>
+    <string name="vocabularyCreatorMoreExportEmail">Ekspor</string>
+    <string name="vocabularyCreatorMoreShowLearnedList">Kata-kata yang Saya pelajari</string>
+    <string name="vocabularyCreatorExportPreview">Tampilan cepat ekspor</string>
+</resources>

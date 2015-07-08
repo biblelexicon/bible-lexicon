@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloaderNotificationItemTitle">hal</string>
+    <string name="downloaderNotificationTitle">Mengunduh `{item}`</string>
+    <string name="downloaderNotificationPercent">Pengunduhan sedang berlangsung… {percent}%</string>
+    <string name="downloaderNotificationCompleted">Pengunduhan selesai</string>
+    <string name="downloaderItemFinished">Berkas `{item}` terunduh</string>
+    <string name="downloaderItemFailed">Pengunduhan berkas `{item}` gagal</string>
+    <string name="downloaderItemCancelled">Pengunduhan berkas `{item}` dibatalkan</string>
+    <string name="downloaderErrorTitle">Kesalahan pengunduhan</string>
+    <string name="downloaderErrorFilewrite">Tidak bisa menyimpan berkas baru `{file}`. Periksa ruang penyimpanan tersisa.</string>
+    <string name="downloaderErrorTimedout">Waktu koneksi habis. Silakan ulangi lagi.</string>
+    <string name="downloaderErrorUnknownHost">Tidat bisa menghubungi server `{host}`. Silakan ulangi lagi.</string>
+    <string name="downloaderErrorFilesize">Berkas `{file}` tidak seluruhnya terunduh. Silakan ulangi lagi.</string>
+    <string name="downloaderErrorStreamsize">Isi dari `{url}` tidak seluruhnya terunduh. Silakan ulangi lagi.</string>
+    <string name="downloaderErrorIOError">Kesapahan Input/Output . Silakan ulangi lagi.</string>
+    <string name="downloaderErrorResultCodeError">Kesalahan koneksi `{code}`. Silakan ulangi lagi.</string>
+    <string name="downloaderErrorReset">Koneksi di-reset oleh server. Silakan ulangi lagi.</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modulesDlgLoadingText">Nahrávání modulů z sdkarty…</string>
+    <string name="modulesDlgLoadingRemeberedTabsText">Otevírání posledních tabů…</string>
+    <string name="modulesNameLexicon">Lexicon</string>
+    <string name="modulesNameLexiconDesc">Studujte původní význam slova v hebrejštině nebo řečtine</string>
+    <string name="modulesNameDictionary">Slovník</string>
+    <string name="modulesNameDictionaryDesc">Užitečné slovníky k překladu.</string>
+    <string name="modulesNameBible">Bible</string>
+    <string name="modulesNameBibleReader">Bible reader</string>
+    <string name="modulesNameConcordance">Konkordance</string>
+    <string name="modulesNameExegeticalStudy">Exegetical study</string>
+    <string name="modulesNamePassageTranslation">Passage translation</string>
+    <string name="modulesNameLexiconsSearch">Vyhledávání v lexiconech</string>
+    <string name="modulesNameLexiconsSearchDesc">Prohledávat všechny lexicony</string>
+    <string name="modulesNameVocabularyCreator">Vocabulary creator</string>
+    <string name="modulesNameVocabularyCreatorDesc">Vytvořte si vlastní slovníček, vytiskněte jej a naučte se jej.</string>
+    <string name="modulesNameNotes">Poznámky</string>
+    <string name="modulesNameNotesDesc">Vaše studijní poznámky. Poznámky mohou být provázány se specifickou pasáží.</string>
+    <string name="modulesNameBookmarks">Záložky</string>
+    <string name="modulesNameBookmarksDesc">Vaše záložky</string>
+    <!-- List filter -->
+    <string name="modulelistFilterTextHint">Hledat podle názvu, popisu, jazyka…</string>
+    <!-- List -->
+    <string name="modulelistModulesTutorial">Tutorial</string>
+    <string name="modulelistModulesNoYoutubeApp">Sorry, žádná youtube applikace</string>
+    <string name="modulelistModulesUpdates">Aktualizace</string>
+    <string name="modulelistModulesModuleOutdated">Tento modul je zastaralý</string>
+    <string name="modulelistModulesDownloadUpdate">Aktualizovat</string>
+    <string name="modulelistModulesDownloadIndex">Indexovat</string>
+    <string name="modulelistModulesNoDirFound">Adresář `{dir}` modulů nebyl nalezen</string>
+    <string name="modulelistModulesNoFound">Nebyl nalezen žádný modul</string>
+    <string name="modulelistUpdatesChecking4">Kontroluji aktualizace…</string>
+    <string name="modulelistUpdatesDownloadFound">Byly nalezeny aktualizace. Přejít ke stažení?</string>
+    <string name="modulelistUpdatesNoFound">Žádné aktualizace</string>
+    <string name="modulelistItemOptionsInfo">Zobrazit informace o modulu</string>
+    <string name="modulelistItemOptionsCheck4Updates">Zkontrolovat aktualizace modulu</string>
+    <string name="modulelistItemOptionsCreateIndexes">Vytvořit vyhledávací indexy</string>
+    <string name="modulelistItemOptionsDelete">Odstranit modul z sdkarty</string>
+    <string name="modulelistModuleInformations">Informace o modulu</string>
+    <string name="modulelistDeleteModule">Opravdu chcete odstranit tento modul?</string>
+    <string name="modulelistModuleInfo"><![CDATA[
+		<style>
+			.thumb
+			{
+				float: left;
+				width: 80px;
+				padding-right: 5px;
+			}
+		</style><h2>Popis modulu</h2><div class="description"><div class="thumb">
+				{image}			
+			</div>		
+			{content}
+		</div><div class="clear"></div><p><br /></p><h2>Informace o modulu</h2><table><tr><th>Název</th><td>{title}</td></tr><tr><th>Krátký název</th><td>{titleshort}</td></tr><tr><th>Identifikátor</th><td>{identifier}</td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><th>Verze</th><td>{version}</td></tr><tr><th>Typ</th><td>{type}</td></tr><tr><th>Jazyk</th><td>{language}</td></tr><tr><th>Počet záznamů</th><td>{entries}</td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><th>Má SZ</th><td>{hasot}</td></tr><tr><th>Má NZ</th><td>{hasnt}</td></tr><tr><th>Má strongova čísla</th><td>{hasstrongs}</td></tr><tr><th>Má morfologii</th><td>{hasmorphology}</td></tr><tr><th>Má poznámky</th><td>{hasnotes}</td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><th>Copyright</th><td>{copyright}</td></tr></table><h2>Log změn</h2><p>
+	    	{changelog}
+	    </p>  
+	]]></string>
+    <!-- Downloads -->
+    <string name="moduledownloadDownloadingList">Stahování seznamu modulů…</string>
+    <string-array name="modulesNames">
+        <item>Lexikony</item>
+        <item>Slovníky</item>
+        <item>Bible</item>
+        <item>Konkordance</item>
+        <item>Překladač</item>
+        <item>Bible reader</item>
+        <item>Vytváření slovníku</item>
+        <item>Exegetické studium</item>
+        <item>Poznámky</item>
+    </string-array>
+    <string name="modulesNamesBibles">Bible</string>
+    <string-array name="modulesDescs">
+        <item>Studium původního významu slova v hebrejštině nebo řečtině.</item>
+        <item>Užitečné slovníky k překladu.</item>
+        <item>Čtěte Bibli. Klikněte na slovo pro další informace a možnosti.</item>
+        <item>Studujte výskyt slova nebo fráze.</item>
+        <item>Přeložte vybranou pasáž Bible, slovo od slova, z řečtiny nebo hebrejštiny. Klikněte na značky pro další možnosti.</item>
+        <item>Čtěte text Bible. Text může být paralelně s dalšími texty různých Biblí. Kliknutím na slovo získáte další studijní možnosti.</item>
+        <item>Vytvořte si vlastní slovníček, vystikněte si jej a naučte.</item>
+        <item>Pokročilý nástroj pro exetické studium. Studium je soustředěno na rozbor verš po verši. Mohou být otevřeny i další taby s překladem, kontextem, výskytem slov a další.</item>
+        <item>Vaše poznámky. Poznámky mohou být přiřazeny k vybraným pasážím.</item>
+    </string-array>
+</resources>

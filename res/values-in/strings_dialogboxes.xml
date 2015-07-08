@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialogBoxesSubmit">Kirim</string>
+    <string name="dialogBoxesOk">Ya</string>
+    <string name="dialogBoxesCancel">Batal</string>
+    <string name="dialogBoxesClose">Tutup</string>
+    <string name="dialogBoxesYes">Ya</string>
+    <string name="dialogBoxesNo">Tidak</string>
+    <string name="dialogBoxesSave">Simpan</string>
+    <string name="dialogDownloadQuestionText">Anda harus mengunduh modul. Anda ingin mengunduh sekarang?</string>
+    <string name="dialogAlertNoConnectionTitle">Tidak ada koneksi</string>
+    <string name="dialogAlertNoConnectionText">Tidak dapat tersambung ke internet</string>
+</resources>

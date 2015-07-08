@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloaderTypesLexicons">Lexika</string>
+    <string name="downloaderTypesDictionaries">Wörterbücher</string>
+    <string name="downloaderTypesBibles">Bibeln</string>
+    <string name="downloaderNotificationItemTitle">Element</string>
+    <string name="downloaderNotificationTitle">Lade \'{item}\' herunter</string>
+    <string name="downloaderNotificationPercent">Herunterladen im Gang... {percent}%</string>
+    <string name="downloaderNotificationCompleted">Herunterladen abgeschlossen</string>
+    <string name="downloaderItemFinished">Datei \'{item}\' heruntergeladen</string>
+    <string name="downloaderItemFailed">Fehler beim Herunterladen der Datei \'{item}\'</string>
+    <string name="downloaderItemCancelled">Herunterladen der Datei \'{item}\' abgebrochen</string>
+    <string name="downloaderErrorTitle">Fehler beim Herunterladen</string>
+    <string name="downloaderErrorFilewrite">Konnte neue Datei \'{file}\' nicht schreiben. Kontrollieren Sie den freien Speicherplatz.</string>
+    <string name="downloaderErrorTimedout">Verbindung zeitlich abgelaufen (Time out), Bitte versuchen Sie es später.</string>
+    <string name="downloaderErrorUnknownHost">Konnte die Hostadresse \'{host}\' nicht auflösen, Bitte versuchen Sie es später.</string>
+    <string name="downloaderErrorFilesize">Datei \'{file}\' wurde nicht komplett heruntergeladen, Bitte versuchen Sie es später.</string>
+    <string name="downloaderErrorStreamsize">Inhalte von \'{url}\' wurden nicht komplett heruntergeladen, Bitte versuchen Sie es erneut.</string>
+    <string name="downloaderErrorIOError">Eingabe/Ausgabe-Fehler (Input/Output error). Bitte versuchen Sie es erneut.</string>
+    <string name="downloaderErrorResultCodeError">Verbindungsfehler \'{code}\'. Bitte versuchen Sie es später noch einmal.</string>
+    <string name="downloaderErrorReset">Verbindung zurückgesetzt vom Server. Bitte versuchen Sie es später noch einmal.</string>
+</resources>

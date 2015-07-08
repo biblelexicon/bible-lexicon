@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"      
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/dimTabViewTabslayoutHeight"      
+>
+    <RelativeLayout
+		android:id="@+id/idTabViewTabsDrawer"        
+	    android:layout_width="wrap_content"
+	    android:layout_height="fill_parent" 
+	    android:background="@drawable/image_button_selector"
+	    android:clickable="true"      
+	>		
+		<ImageView 
+		    android:id="@+id/idTabViewTabsDrawerIcon"
+	        android:layout_width="14dp"
+	        android:layout_height="fill_parent"
+		    android:gravity="center"
+		   	android:layout_gravity="center_vertical"
+			android:src="@drawable/ic_drawer"					
+		/>		
+		<ImageView 
+	        android:id="@+id/idTabViewTabsAppIcon"
+	        android:layout_width="@dimen/dimTabViewTabsIconAddWidth"
+	        android:layout_height="fill_parent"
+	        android:layout_marginLeft="8dp"
+		    android:gravity="center"
+		   	android:layout_gravity="center_vertical"
+			android:src="@drawable/ic_launcher"								
+	        android:scaleType="centerInside"
+	        android:adjustViewBounds="true"	
+			
+		/>
+	</RelativeLayout>
+       
+    <HorizontalScrollView
+        android:id="@+id/idTabViewTabsScroll"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+		android:layout_toRightOf="@+id/idTabViewTabsDrawer"
+	    android:layout_toLeftOf="@+id/idTabViewTabsActions"
+	>
+		<LinearLayout 
+			android:id="@+id/idTabViewTabs"	    
+		    android:layout_width="wrap_content"
+		    android:layout_height="fill_parent"
+		    android:orientation="horizontal"
+		>					
+		</LinearLayout>
+	</HorizontalScrollView>
+	
+    <LinearLayout
+		android:id="@+id/idTabViewTabsActions"	    
+	    android:layout_width="wrap_content"
+	    android:layout_height="fill_parent"	 
+	    android:layout_alignParentRight="true"       
+    >
+    			
+		<ImageView
+	        android:id="@+id/idTabViewTabsAdd"
+	        android:layout_width="@dimen/dimTabViewTabsIconAddWidth"
+	        android:layout_height="fill_parent"
+		    android:gravity="center"
+		    android:layout_gravity="center_vertical"
+			android:src="@drawable/ic_action_library"			
+			android:background="@drawable/image_button_selector"
+	        android:scaleType="centerInside"
+	        android:adjustViewBounds="true"	
+			android:clickable="true"
+		/>
+
+	</LinearLayout>   
+</RelativeLayout>

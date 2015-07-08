@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lexiconOccurrences">Ocurrencias</string>
+    <string name="lexiconStrong">Sólido</string>
+    <string name="lexiconTransliteration">Transliteración</string>
+    <string name="lexiconOrigin">Origen</string>
+    <string name="lexiconUsage">Uso</string>
+    <string name="lexiconPronunciation">Pronunciación</string>
+    <string name="lexiconNotes">Notas</string>
+    <string name="lexiconSelectConcordance">Seleccionar concordancia...</string>
+    <string name="lexiconSelectLexicon">Seleccionar léxico...</string>
+</resources>

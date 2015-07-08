@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vocabularyCreatorNoLexiconsTitle">Žádný lexikon</string>
+    <string name="vocabularyCreatorNoLexiconsText">Abyte mohli použávat `Vocabulary creator` musíte stáhnout nějaké lexikony (pro hebrejštinu a řečtinu).
+        \n\n
+        Chcete je stáhnout nyní?</string>
+    <string name="vocabularyCreatorNoBiblesTitle">Nenalezeny žádné Bible</string>
+    <string name="vocabularyCreatorNoBiblesText">Prosím, stáhněte si řečkou Bibli (jako např. TR pro NZ) a hebrejskou Bibli (jako např. WLC pro SZ), abyste mohli používat `Vocabulary creator`.
+	    \n\n
+	    Would you like to download them now?</string>
+    <string name="vocabularyCreatorOptionLexicon">Lexikon</string>
+    <string name="vocabularyCreatorOptionMaxOccurrence">Max. výskyt slovíčka</string>
+    <string name="vocabularyCreatorOptionMinOccurrence">Min. výskyt slovíčka</string>
+    <string name="vocabularyCreatorOptionShowOccurrences">Zobrazovat výskyty</string>
+    <string name="vocabularyCreatorOptionShowStrong">Zobrazovat strong čísla</string>
+    <string name="vocabularyCreatorOptionShowLearned">Zobrazit naučená</string>
+    <string name="vocabularyCreatorOptionOrderByOccurrence">Řadit podle výskytu</string>
+    <string name="vocabularyCreatorOptionOrderByWord">Řadit podle slovíčka</string>
+    <string name="vocabularyCreatorOptionWithAccents">S akcenty</string>
+    <string name="vocabularyCreatorOptionFontsize">Velikost fontu</string>
+    <string name="vocabularyCreatorGeneratedVocabulary">Slovník</string>
+    <string name="vocabularyCreatorDetailItemActionLearned">Označit jako naučené</string>
+    <string name="vocabularyCreatorDetailItemActionDelete">Odstranit slovo ze slovníku</string>
+    <string name="vocabularyCreatorLearnedListItemActionDelete">Odstranit ze seznamu</string>
+    <string name="vocabularyCreatorMoreExportEmail">Export</string>
+    <string name="vocabularyCreatorMoreShowLearnedList">Moje naučená slovíčka</string>
+    <string name="vocabularyCreatorExportPreview">Náhled exportu</string>
+</resources>

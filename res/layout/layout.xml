@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"   
+> 
+	<RelativeLayout
+		android:id="@+id/idLayoutScreen"	    
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent" 	    
+	>
+		<RelativeLayout
+			android:id="@+id/idLayoutActionBar"        
+		    android:layout_width="fill_parent"
+		    android:layout_height="@dimen/dimTabViewTabslayoutHeight" 
+		    android:background="@color/search_layout_bg"      
+		>
+			<include layout="@layout/layout_actionbar" />
+		</RelativeLayout>
+	    
+		<FrameLayout
+			android:id="@+id/idLayoutContent"	 
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_below="@+id/idLayoutActionBar"
+			android:background="@color/content_layout_bg"
+		>	    
+		</FrameLayout>
+		
+	    <TextView 
+			android:id="@+id/idLayoutActionBarShadow"	
+	        android:layout_width="fill_parent"
+	        android:layout_height="8dp"
+			android:layout_below="@+id/idLayoutActionBar"        
+	        android:background="@drawable/dropshadow"        
+	     />		
+	
+		<RelativeLayout
+			android:id="@+id/idLayoutDrawer"
+			android:layout_width="240dp"
+			android:layout_height="match_parent"
+			android:layout_gravity="start"
+			android:orientation="vertical"
+			android:background="@color/content_layout_bg_night"	
+			android:visibility="gone"    
+		>		
+			<include layout="@layout/layout_drawer" />
+		</RelativeLayout>
+
+	</RelativeLayout>
+</android.support.v4.widget.DrawerLayout>

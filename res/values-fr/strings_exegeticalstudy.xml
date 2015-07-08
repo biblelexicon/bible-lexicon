@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exegeticalstudyBrowserSearchTextHint">Chercher dans `{book}`…</string>
+    <string name="exegeticalstudyTextTab">Texte étudié</string>
+    <string name="exegeticalstudyTextContextTab">Contexte</string>
+    <string name="exegeticalstudyContextAnalysisTab">Analyse du contexte</string>
+    <string name="exegeticalstudyTranslationTab">Traduction</string>
+    <string name="exegeticalstudyWordsTab">Mots</string>
+    <string name="exegeticalstudyNotesTab">Notes</string>
+    <string name="exegeticalstudyWikiTab">Wikipedia</string>
+    <string name="exegeticalstudyLexiconsTab">Lexiques</string>
+    <string name="exegeticalstudyMoreFullscreen">Plein écran</string>
+    <string name="exegeticalstudyMoreContextTab">Montrer le contexte</string>
+    <string name="exegeticalstudyMoreContextAnalysisTab">Afficher l\'analyse du contexte</string>
+    <string name="exegeticalstudyMoreTranslationTab">Afficher la traduction du verset</string>
+    <string name="exegeticalstudyMoreWordsTab">Afficher les occurrences des mots</string>
+    <string name="exegeticalstudyMoreLexiconsTab">Montrer le mot dans les lexiques</string>
+    <string name="exegeticalstudyMoreContextTabDesc">Permet d\'afficher le chapitre entier du verset étudié</string>
+    <string name="exegeticalstudyMoreContextAnalysisTabDesc">Recherche les mots du verset étudié dans le contexte d\'un passage particulier</string>
+    <string name="exegeticalstudyMoreTranslationTabDesc">Traduit mot-à-mot du verset étudié</string>
+    <string name="exegeticalstudyMoreWordsTabDesc">Établit la liste des occurrences des mots dans le passage ou la traduction spécifiée</string>
+    <string name="exegeticalstudyMoreLexiconsTabDesc">Établit une liste de la liste des mots dans le passage particulier, dans tous les lexiques disponibles</string>
+    <string name="exegeticalstudyTextTabSelectBooks">Livres...</string>
+    <string name="exegeticalstudyTextTabSelectPassage">Sélectionnez un verset...</string>
+    <string name="exegeticalstudyWordsTabSelectPassage">Sélectionnez un passage...</string>
+    <string name="exegeticalstudyContextAnalysisTabSelectPassage">Sélectionnez un passage...</string>
+    <string name="exegeticalstudyNotesSearchHint">Filtrez un passage...</string>
+    <string name="exegeticalstudyNotesNewPassage">Entrez un passage...</string>
+    <string name="exegeticalstudyNotesNewPassagePS">Sélection</string>
+    <string name="exegeticalstudyNotesNewTitle">Entrez un titre...</string>
+    <string name="exegeticalstudyNotesNewNotes">Entrez vos notes...</string>
+    <string name="exegeticalstudyTranslationTabSelectLexicons">Lexiques...</string>
+    <string name="exegeticalstudyWordOptionsAddToSearch">Ajoutez à la recherche</string>
+</resources>

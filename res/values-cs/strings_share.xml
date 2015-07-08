@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shareEmail">Email</string>
+    <string name="shareGooglePlus">Google+</string>
+    <string name="shareFacebook">Facebook</string>
+    <string name="shareTwitter">Twitter</string>
+    <string name="shareAnother">Jiný…</string>
+    <string name="shareScreenOn">Sdílet obrazovku na…</string>
+    <string name="shareTextOn">Sdílet text na…</string>
+    <string name="shareAppNotFound">{name} aplikace nenalezena</string>
+    <string name="shareTitle">Bible lexicon sdílení</string>
+    <string name="shareTitleHint">Vložte titulek…</string>
+    <string name="shareDesc">Obrázek byl sdílen z aplikace Bible lexicon - nástroje pro studium Písma.</string>
+    <string name="shareDescHint">Vložte popis…</string>
+    <string name="shareButton">Sdílet</string>
+    <string name="shareEmailSendEmail">Odeslat email…</string>
+</resources>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name="menuSearch">Search</string>
+    <string name="menulibrary">Library</string>
+    <string name="menuModuleDownloader">Module downloader</string>
+    
+    <string name="menuGroupStudyTools">Study tools</string>
+    
+    <string name="menuGroupTools">Tools</string>
+    
+    <string name="menuGroupApplication">Application</string>
+    <string name="menuSettings">Settings</string>
+    <string name="menuFullscreen">Fullscreen</string>
+    <string name="menuHelp">Help</string>
+    <string name="menuRequestFeature">Request feature</string>
+    <string name="menuAbout">About</string>
+    <string name="menuRate">Rate</string>
+    <string name="menuDonation">Donation</string>
+    <string name="menuExit">Exit</string>
+	
+  
+    <string name="drawerMenu">
+	<![CDATA[
+		[		
+			{
+				\"id\": 999999,
+				\"icon\": \"ic_action_search\",
+				\"title\": \"menuSearch\",
+				\"items\": null
+			},		
+			{
+				\"id\": 1,
+				\"icon\": \"ic_action_library\",
+				\"title\": \"menulibrary\",
+				\"items\": null
+			},
+			{
+				\"id\": 2,
+				\"icon\": \"ic_action_downloader\",
+				\"title\": \"menuModuleDownloader\",
+				\"items\": null
+			},			
+			{
+				\"id\": 3,
+				\"icon\": null,
+				\"title\": \"menuGroupStudyTools\",
+				\"items\":
+				[
+					{
+						\"id\": 31,
+						\"icon\": \"ic_action_biblereader\",
+						\"title\": \"modulesNameBibleReader\",
+						\"items\": null					
+					},
+					{
+						\"id\": 32,
+						\"icon\": \"ic_action_concordance\",
+						\"title\": \"modulesNameConcordance\",
+						\"items\": null					
+					},
+					{
+						\"id\": 33,
+						\"icon\": \"ic_action_exegeticalstudy\",
+						\"title\": \"modulesNameExegeticalStudy\",
+						\"items\": null					
+					},
+					{
+						\"id\": 34,
+						\"icon\": \"ic_action_passagetranslation\",
+						\"title\": \"modulesNamePassageTranslation\",
+						\"items\": null					
+					},
+					{
+						\"id\": 58,
+						\"icon\": \"ic_action_lexicons\",
+						\"title\": \"modulesNameLexiconsSearch\",
+						\"items\": null					
+					}										
+				]
+			},
+			{
+				\"id\": 4,
+				\"icon\": null,
+				\"title\": \"menuGroupTools\",
+				\"items\":
+				[
+					{
+						\"id\": 41,
+						\"icon\": \"ic_action_vocabularycreator\",
+						\"title\": \"modulesNameVocabularyCreator\",
+						\"items\": null					
+					},
+					{
+						\"id\": 43,
+						\"icon\": \"ic_action_bookmarks\",
+						\"title\": \"modulesNameBookmarks\",
+						\"items\": null					
+					},									
+					{
+						\"id\": 42,
+						\"icon\": \"ic_action_notes\",
+						\"title\": \"modulesNameNotes\",
+						\"items\": null				
+					}
+				]
+			},
+			{
+				\"id\": 5,
+				\"icon\": null,
+				\"title\": \"menuGroupApplication\",
+				\"items\":
+				[							
+					{
+						\"id\": 51,
+						\"icon\": \"ic_action_settings\",
+						\"title\": \"menuSettings\",
+						\"items\": null
+					},
+					{
+						\"id\": 52,
+						\"icon\": \"ic_action_fullscreen\",
+						\"title\": \"menuFullscreen\",
+						\"items\": null
+					},						
+					{
+						\"id\": 53,
+						\"icon\": \"ic_action_help\",
+						\"title\": \"menuHelp\",
+						\"items\": null
+					},
+					{
+						\"id\": 54,
+						\"icon\": \"ic_action_requestfeature\",
+						\"title\": \"menuRequestFeature\",
+						\"items\": null
+					},			
+					{
+						\"id\": 55,
+						\"icon\": \"ic_action_about\",
+						\"title\": \"menuAbout\",
+						\"items\": null
+					},
+					{
+						\"id\": 59,
+						\"icon\": \"ic_action_rating\",
+						\"title\": \"menuRate\",
+						\"items\": null
+					},					
+					{
+						\"id\": 57,
+						\"icon\": \"ic_action_donation\",
+						\"title\": \"menuDonation\",
+						\"items\": null
+					},											
+					{
+						\"id\": 56,
+						\"icon\": \"ic_action_exit\",
+						\"title\": \"menuExit\",
+						\"items\": null
+					}	
+				]
+			}							
+		]
+	]]> 
+    </string>
+  
+</resources>

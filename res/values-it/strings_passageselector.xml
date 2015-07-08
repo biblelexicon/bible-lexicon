@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passageselectorTitle">Seleziona un brano...</string>
+    <string name="passageselectorFrom">Da...</string>
+    <string name="passageselectorTo">A...</string>
+    <string name="passageselectorBook">Libro</string>
+    <string name="passageselectorChapter">Capitolo</string>
+    <string name="passageselectorVerse">Versetto</string>
+    <string name="passageselectorInvalidPassageFormat">Formato non valido</string>
+    <string name="passageselectorOnlyForBookModules">PS non può essere utilizzato da altre versioni della Bibbia</string>
+</resources>

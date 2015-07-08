@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modulesDlgLoadingText">Lade Module von SD-Karte...</string>
+    <string name="modulesDlgLoadingRemeberedTabsText">Öffne die zuletzt geöffneten Tabs...</string>
+    <string name="modulesNameLexicon">Lexikon</string>
+    <string name="modulesNameLexiconDesc">Untersuche die ursprüngliche Bedeutung des Wortes im Hebräischen oder Griechischen.</string>
+    <string name="modulesNameDictionary">Wörterbuch</string>
+    <string name="modulesNameDictionaryDesc">Hilfreiche Wörterbücher zum Übersetzen</string>
+    <string name="modulesNameBible">Bibel</string>
+    <string name="modulesNameBibleDesc">Lesen Sie den Bibeltext. Tippen Sie auf ein Wort um weitere Wortinformationen und Optionen zu erhalten.</string>
+    <string name="modulesNameBibleReader">Bibelreader</string>
+    <string name="modulesNameBibleReaderDesc">Lesen Sie den Bibeltext. Der Text kann anderen Texten gegenübergestellt werden. Ein Klick auf Wörter zeigt Ihnen weitere Optionen für das Studium.</string>
+    <string name="modulesNameConcordance">Konkordanz</string>
+    <string name="modulesNameConcordanceDesc">Untersuche Häufigkeiten eines Wortes oder Ausdrucks.</string>
+    <string name="modulesNameExegeticalStudy">Exegetische Untersuchung</string>
+    <string name="modulesNameExegeticalStudyDesc">Werkzeug für Fortgeschrittene zur exegetischen Untersuchung. Diese konzentriert sich auf eine Vers-für-Vers-Analyse mit dem entsprechenden Kontext. Andere Analyse-Tabs können dazugeschaltet werden.</string>
+    <string name="modulesNamePassageTranslation">Übersetzung einer Passage</string>
+    <string name="modulesNamePassageTranslationDesc">Übersetze die ausgewählte Textpassage Wort für Wort aus dem Griechischen oder Hebräischen. Klicken Sie für Schlagworte oder weitere Suche.</string>
+    <string name="modulesNameLexiconsSearch">Lexikasuche</string>
+    <string name="modulesNameLexiconsSearchDesc">Suche in allen Lexika</string>
+    <string name="modulesNameVocabularyCreator">Vokabelersteller</string>
+    <string name="modulesNameVocabularyCreatorDesc">Erstellen Sie Ihr eigenes Vokabular, drucken und lernen Sie es.</string>
+    <string name="modulesNameNotes">Notizen</string>
+    <string name="modulesNameNotesDesc">Ihre Studiennotizen. Notizen können an spezifische Passagen geknüpft werden.</string>
+    <string name="modulesNameBookmarks">Buchzeichen</string>
+    <string name="modulesNameBookmarksDesc">Ihre Buchzeichen.</string>
+    <!-- List filter -->
+    <string name="modulelistFilterTextHint">Suchen Sie mit Hilfe von Titel, Beschreibung, Sprache...</string>
+    <!-- List -->
+    <string name="modulelistModulesTutorial">Lehrvideo</string>
+    <string name="modulelistModulesNoYoutubeApp">You-tube-App leider nicht verfügbar</string>
+    <string name="modulelistModulesUpdates">Updates</string>
+    <string name="modulelistModulesModuleOutdated">Dieses Modul ist veraltet</string>
+    <string name="modulelistModulesDownloadUpdate">Update</string>
+    <string name="modulelistModulesDownloadIndex">Index</string>
+    <string name="modulelistModulesNoDirFound">Modul dir \'{dir}\' konnten nicht gefunden werden</string>
+    <string name="modulelistModulesNoFound">Keine gefundenen Module</string>
+    <string name="modulelistUpdatesChecking4">Updates nachschlagen...</string>
+    <string name="modulelistUpdatesDownloadFound">Einigen Updates wurden gefunden. Weiter zum Herunterladen?</string>
+    <string name="modulelistUpdatesNoFound">Keine Updates gefunden</string>
+    <string name="modulelistItemOptionsInfo">Modulinformationen anzeigen</string>
+    <string name="modulelistItemOptionsCheck4Updates">Updates für Module nachschlagen</string>
+    <string name="modulelistItemOptionsCreateIndexes">Lege Suchindices an</string>
+    <string name="modulelistItemOptionsDelete">Modul von SD-Karte löschen</string>
+    <string name="modulelistModuleInformations">Modulinformationen</string>
+    <string name="modulelistDeleteModule">Möchten Sie dieses Modul wirklich löschen?</string>
+    <!-- Downloads -->
+    <string name="moduledownloadDownloadingList">Lade die Liste der Downloads</string>
+    <string-array name="modulesNames">
+        <item>Lexika</item>
+        <item>Wörterbücher</item>
+        <item>Bibeln</item>
+        <item>Konkordanzen</item>
+        <item>Textpassagenübersetzung</item>
+        <item>Bibelleseprogramm</item>
+        <item>Vokabelbuch</item>
+        <item>Studie zur Exegese</item>
+        <item>Notizen</item>
+    </string-array>
+    <string name="modulesNamesBibles">Bibeln</string>
+    <string-array name="modulesDescs">
+        <item>Ursprungsbedeutung in Hebräisch oder Griechisch nachschlagen</item>
+        <item>hilfreiche Wörterbücher zur Übersetzung</item>
+        <item>Lesen Sie den Bibeltext. Tippen Sie auf ein Wort für weitere Wortinformationen und Optionen</item>
+        <item>Häufigkeiten eines Wortes oder Ausdrucks untersuchen</item>
+        <item>Übersetze die ausgewählten biblischen Textpassagen Wort für Wort aus dem Griechischen oder Hebräischen. Klicken Sie auf die Assoziationen (tags) für weitergehende Suche</item>
+        <item>Lesen Sie den Bibeltext. DIeser kann parallel zu anderen Texten angezeigt werden. Klicken Sie auf Wörter um andere Optionen angezeigt zu bekommen.</item>
+        <item>Schaffen Sie sich ihre eigenen Vokabeln, drucken Sie sie aus und lernen Sie sie.</item>
+        <item>Werkzeug für fortgeschrittene exegetische Untersuchungen. Diese basiert auf Vers-zu-Vers-Analyse mit beigefügtem Kontext. Tabs anderer Analysen können zu- und abgeschaltet werden.</item>
+        <item>Ihre Studiennotizen. Diese können an spezifische Textpassagen geknüpft werden.</item>
+    </string-array>
+</resources>

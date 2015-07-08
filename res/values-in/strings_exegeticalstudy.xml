@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exegeticalstudyBrowserSearchTextHint">Cari di `{book}`…</string>
+    <string name="exegeticalstudyTextTab">Teks yang dipelajari</string>
+    <string name="exegeticalstudyTextContextTab">Konteks</string>
+    <string name="exegeticalstudyContextAnalysisTab">Analisa konteks</string>
+    <string name="exegeticalstudyTranslationTab">Terjemahan</string>
+    <string name="exegeticalstudyWordsTab">Kata-kata</string>
+    <string name="exegeticalstudyNotesTab">Catatan</string>
+    <string name="exegeticalstudyWikiTab">Wikipedia</string>
+    <string name="exegeticalstudyMoreFullscreen">Layar Penuh</string>
+    <string name="exegeticalstudyMoreContextTab">Tampilkan konteks</string>
+    <string name="exegeticalstudyMoreContextAnalysisTab">Tampilkan analisa konteks</string>
+    <string name="exegeticalstudyMoreTranslationTab">Tampilkan terjemahan ayat</string>
+    <string name="exegeticalstudyMoreWordsTab">Tampilkan kata-kata</string>
+    <string name="exegeticalstudyMoreContextTabDesc">Untuk melihat ayat yang dipelajari dalam seluruh pasal</string>
+    <string name="exegeticalstudyMoreContextAnalysisTabDesc">Mencari kata-kata pada ayat yang dipelajari pada konteks (bacaan)</string>
+    <string name="exegeticalstudyMoreTranslationTabDesc">Menterjemahkan ayat yang dipelajari kata per kata</string>
+    <string name="exegeticalstudyMoreWordsTabDesc">Menampilkan daftar hitungan kata untuk bacaan dan kitab tertentu</string>
+    <string name="exegeticalstudyTextTabSelectBooks">Kitab</string>
+    <string name="exegeticalstudyTextTabSelectPassage">Pilih ayat</string>
+    <string name="exegeticalstudyWordsTabSelectPassage">Pilih bacaan</string>
+    <string name="exegeticalstudyContextAnalysisTabSelectPassage">Pilih bacaan</string>
+    <string name="exegeticalstudyNotesSearchHint">Batasi bacaan</string>
+    <string name="exegeticalstudyNotesNewPassage">Masukkan bacaan</string>
+    <string name="exegeticalstudyNotesNewPassagePS">Pilih</string>
+    <string name="exegeticalstudyNotesNewTitle">Masukkan judul</string>
+    <string name="exegeticalstudyNotesNewNotes">Masukkan catatan Anda</string>
+    <string name="exegeticalstudyTranslationTabSelectLexicons">Kosa kata</string>
+    <string name="exegeticalstudyWordOptionsAddToSearch">Tambahkan dalam pencarian</string>
+</resources>

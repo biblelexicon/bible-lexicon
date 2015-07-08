@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dimSettingsGroupHeight">30dp</dimen>
+    <dimen name="dimSettingsItemHeight">35dp</dimen>    
+    
+    <dimen name="dimSettingsGroupFontSizeTitle">16sp</dimen>
+    <dimen name="dimSettingsGroupFontSizeDescription">12sp</dimen>
+    
+    <dimen name="dimSettingsItemFontSizeTitle">14sp</dimen>
+    <dimen name="dimSettingsItemFontSizeDescription">12sp</dimen>
+</resources>

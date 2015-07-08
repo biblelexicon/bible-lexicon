@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="concordanceHitSearch">Cliquez le bouton rechercher pour chercher un passage spécifique</string>
+    <string name="concordanceMenuSelectConcordances">Sélectionnez les concordances</string>
+    <string name="concordanceMenuExport">Exporter les résultats</string>
+    <string name="concordanceMenuExportExtended">Exporter les résultats des concordances sélectionnées</string>
+    <string name="concordanceDetailSearchInLexicon">Rechercher \'{item}\' dans le lexique</string>
+    <string name="concordanceDetailSearchInConcordance">Rechercher `{item}` dans la concordance</string>
+    <string name="concordanceDetailDisplayInBible">Afficher `{item}` dans la `{bible}` Bible</string>
+    <string name="concordanceDetailDisplayInBibleReader">Afficher `{item}` dans le lecteur</string>
+    <string name="concordanceDetailDisplayPassageTranslator">Traduire le verset `{item}`</string>
+    <string name="concordanceDetailSelectLexicon">Sélectionner le lexique</string>
+    <string name="concordanceDetailSelectConcordance">Sélectionner la concordance</string>
+    <string name="concordanceExportSubtitle">Rechercher la phrase `{phrase}` dans `{passage}`</string>
+    <string name="concordanceExportSubtitlePassage">Toute les Écritures</string>
+    <string name="concordanceBrowserAdvancedExactPhrase">Chercher la phrase exacte</string>
+    <string name="concordanceBrowserAdvancedVerseText">Montrer les versets dans les résultats</string>
+</resources>

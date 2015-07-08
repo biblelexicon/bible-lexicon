@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menuSearch">Cerca</string>
+    <string name="menulibrary">Biblioteca</string>
+    <string name="menuModuleDownloader">Downloader della pubblicazioni</string>
+    <string name="menuGroupStudyTools">Strumenti di studio</string>
+    <string name="menuGroupTools">Strumenti</string>
+    <string name="menuGroupApplication">Applicazione</string>
+    <string name="menuSettings">Impostazioni</string>
+    <string name="menuFullscreen">Schermo pieno</string>
+    <string name="menuHelp">Aiuto</string>
+    <string name="menuRequestFeature">Caratteristica richiesta</string>
+    <string name="menuAbout">Info</string>
+    <string name="menuRate">Feedback</string>
+    <string name="menuDonation">Donazione</string>
+    <string name="menuExit">Uscita</string>
+</resources>

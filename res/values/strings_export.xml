@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    
+    <string name="exportpreviewExport">Export</string>
+    
+    <string name="exportpreviewMenuEmailu">Send to email</string>
+    
+    <string name="exportHtml">
+	<![CDATA[
+		<html>
+			<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			
+				<style>
+					@font-face
+					{
+					   font-family: Languagefont;
+					   src: url("file:///android_asset/fonts/{font}"); 
+					} 
+									
+					body
+					{
+						font-size: {fontSize}px;
+						color: {fontcolor};		
+						text-align: left;
+					}
+					
+					td
+					{
+						padding: 6px 0;
+						vertical-align: super;
+					}						
+
+					td.word
+					{
+						font-family: Languagefont;
+						font-size: {fontSizeWord}px;
+						font-weight: bold;
+					}
+					
+					td.translation
+					{
+						padding-right: 8px;
+					}
+
+					td.strong
+					{
+						padding-right: 8px;
+					}	
+
+					td.occurrences
+					{
+					}
+					
+
+					td.hebrew
+					{
+						direction: rtl;
+					}
+
+					
+				</style>
+			</head>
+			<body>
+				<table>
+					{content}
+				</table>
+		    </body>
+	    </html>    
+	]]>    
+	</string> 
+    	
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="debugSendExceptionInfo">Ocurrió un error, por favor, reportelo al desarrollador para corregirlo.</string>
+    <string name="debugExceptionInfoChooserTitle">Seleccione remitente</string>
+</resources>

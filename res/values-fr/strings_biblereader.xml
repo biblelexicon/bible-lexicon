@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biblereaderSelectBook">Sélectionnez une bible</string>
+    <string name="biblereaderSelectPassage">Sélectionnez un passage..</string>
+    <string name="biblereaderAddBook">Ajoutez un livre</string>
+    <string name="biblereaderNotes">Notes</string>
+    <string name="biblereaderApparatus">Apparat critique</string>
+    <string name="biblereaderSelectAnotherPassage">Le passage n\'a pas été trouvé. Sélectionnez-en un autre...</string>
+    <string name="biblereaderPassageNotFound">Passage introuvable</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lexiconTranslate">Traduci</string>
+    <string name="lexiconOccurrences">Ricorrenze</string>
+    <string name="lexiconStrong">Strong</string>
+    <string name="lexiconTransliteration">Traslitterazione</string>
+    <string name="lexiconOrigin">Origine</string>
+    <string name="lexiconUsage">Uso</string>
+    <string name="lexiconPronunciation">Pronuncia</string>
+    <string name="lexiconNotes">Note</string>
+    <string name="lexiconSelectConcordance">Seleziona una concordanza biblica...</string>
+    <string name="lexiconSelectLexicon">Seleziona un lessico biblico..</string>
+</resources>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="modulesDlgLoadingText">Loading modules from sdcard…</string>
+    <string name="modulesDlgLoadingRemeberedTabsText">Opening last tabs…</string>
+    
+    
+    <string name="modulesNameLexicon">Lexicon</string>
+    <string name="modulesNameLexiconDesc">Study original meaning of word in Hebrew or Greek.</string>
+    <string name="modulesNameDictionary">Dictionary</string>
+    <string name="modulesNameDictionaryDesc">Helpful dictionaries for translation.</string>
+    <string name="modulesNameBible">Bible</string>
+    <string name="modulesNameBibleDesc">Read Bible text. Tap on word for further word info and options.</string>  
+    <string name="modulesNameBibleReader">Bible reader</string>
+    <string name="modulesNameBibleReaderDesc">Read biblical text. Text can be paralleled with another texts. Word click brings you another study options.</string>
+    <string name="modulesNameConcordance">Concordance</string>
+    <string name="modulesNameConcordanceDesc">Study occurrences of word or phrase.</string>
+    <string name="modulesNameExegeticalStudy">Exegetical study</string>
+    <string name="modulesNameExegeticalStudyDesc">Advanced tool for exegetical study. Study is centered on verse by verse analysis with its context in hand. Another analysis tabs can be toggled.</string>
+    <string name="modulesNamePassageTranslation">Passage translation</string> 
+    <string name="modulesNamePassageTranslationDesc">Translate selected biblical passage word by word from Greek or Hebrew. Click to tags for further search.</string>   
+	<string name="modulesNameLexiconsSearch">Lexicons search</string>    
+	<string name="modulesNameLexiconsSearchDesc">Search all lexicons.</string>
+
+    <string name="modulesNameVocabularyCreator">Vocabulary creator</string>    
+    <string name="modulesNameVocabularyCreatorDesc">Create your own word vocabulary, print it and learn it.</string>
+    <string name="modulesNameNotes">Notes</string>
+    <string name="modulesNameNotesDesc">Your study notes. Notes can be bind to specific passage.</string>
+    <string name="modulesNameBookmarks">Bookmarks</string>     	
+    <string name="modulesNameBookmarksDesc">Your bookmarks.</string>
+	
+
+	
+	<!-- List filter -->
+	<string name="modulelistFilterTextHint">Search by title, description, language…</string>
+	
+	<!-- List -->
+	<string name="modulelistModulesTutorial">Tutorial</string>
+	<string name="modulelistModulesNoYoutubeApp">Sorry, no youtube app</string>
+	
+	<string name="modulelistModulesUpdates">Updates</string>
+	<string name="modulelistModulesModuleOutdated">This module is outdated</string>
+	<string name="modulelistModulesDownloadUpdate">Update</string>
+	<string name="modulelistModulesDownloadIndex">Index</string>
+
+	
+	<string name="modulelistModulesNoDirFound">Module dir `{dir}` was not found</string>
+	<string name="modulelistModulesNoFound">No modules found</string>
+	
+    <string name="modulelistUpdatesChecking4">Checking for updates…</string>
+    <string name="modulelistUpdatesDownloadFound">Some updates were found. Proceed to download them?</string>	
+    <string name="modulelistUpdatesNoFound">No updates found</string>
+    
+    <string name="modulelistItemOptionsInfo">Display module informations</string>
+    <string name="modulelistItemOptionsCheck4Updates">Check for module updates</string>
+    <string name="modulelistItemOptionsCreateIndexes">Create search indexes</string>
+    <string name="modulelistItemOptionsDelete">Delete module from SDcard</string>
+    
+    <string name="modulelistModuleInformations">Module informations</string>
+    
+    <string name="modulelistDeleteModule">Do you really want to delete this module?</string>
+    
+    <string name="modulelistModuleInfo">
+	<![CDATA[
+		<style>
+			.thumb
+			{
+				float: left;
+				width: 80px;
+				padding-right: 5px;
+			}
+		</style>
+	
+		<h2>Module description</h2>
+		<div class="description">
+			<div class="thumb">
+				{image}			
+			</div>		
+			{content}
+		</div>		
+
+		<div class="clear"></div>
+		<p><br /></p>
+		<h2>Module informations</h2>
+	    <table>
+	    	<tr>
+	    		<th>Title</th><td>{title}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Title short</th><td>{titleshort}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Identifier</th><td>{identifier}</td>
+	    	</tr>
+			<tr>
+	    		<td colspan="2">&nbsp;</td>
+	    	</tr>	    		    		    
+	    	<tr>
+	    		<th>Version</th><td>{version}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Type</th><td>{type}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Language</th><td>{language}</td>
+	    	</tr>	
+	    	<tr>
+	    		<th>Entries</th><td>{entries}</td>
+	    	</tr>
+			<tr>
+	    		<td colspan="2">&nbsp;</td>
+	    	</tr>	
+	    	<tr>
+	    		<th>Has OT</th><td>{hasot}</td>
+	    	</tr>		    		    	
+	    	<tr>
+	    		<th>Has NT</th><td>{hasnt}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Has strongs</th><td>{hasstrongs}</td>
+	    	</tr>	
+	    	<tr>
+	    		<th>Has morphology</th><td>{hasmorphology}</td>
+	    	</tr>
+	    	<tr>
+	    		<th>Has notes</th><td>{hasnotes}</td>
+	    	</tr>
+			<tr>
+	    		<td colspan="2">&nbsp;</td>
+	    	</tr>	    		    		    
+	    	<tr>
+	    		<th>Copyright</th><td>{copyright}</td>
+	    	</tr>	    	    		    	    		    		    		    		    	
+	    </table> 
+	    
+	    <h2>Change log</h2>
+	    <p>
+	    	{changelog}
+	    </p>  
+	]]>    
+	</string>    
+   
+    
+	<!-- Downloads -->
+    <string name="moduledownloadDownloadingList">Downloading download list…</string>    
+       
+   	
+</resources>

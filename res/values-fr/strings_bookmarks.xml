@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bookmarksFilterHint">Chercher par mot-clé, passage...</string>
+    <string name="bookmarksAddTitle">Ajouter un signet...</string>
+</resources>

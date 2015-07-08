@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcomeTabTitle">Bienvenu!</string>
+    <string name="welcomeTabText"><![CDATA[
+		<p>
+		Bienvenu dans le lexique biblique de l\'application pour l\'étude des Écritures.
+		</p><p>
+		N\'hésitez pas à me contacter à <a href=\"#\" onclick=\"openEmail.onClick(); return false;\">{email}</a> si vous avez des questions ou besoin d\'aide.
+		</p><p></p><h2>Première utilisation</h2><p>Merci de suivre ces étapes pour commencer à utiliser cette application</p><ol><li>
+	    		Télécharger quelques modules (<a href=\"#\" onclick=\"openTutorial.onClick(); return false;\">youtube tutorial</a>)
+	    		<ul><li>Ouvrir le menu de l\'application (cliquez sur le bord en haut à gauche de l\'icone)</li><li>Selectionnez un module pour le téléchargement</li><li>À présent, sélectionnez le groupe de modules que vous souhaitez télécharger</li></ul></li><li>Vous êtes maintenant prêt à utiliser l\'application. Continuez avec:
+				<ul><li><em>Librairie des modules</em>: librairie de tous les modules téléchargés (vous pouvez ici ouvrir lexiques et Bibles)</li><li><em>Outils d\'étude</em>: Ce groupe est utile si vous souhaitez étudier plus profondément</li><li><em>Outils</em>: Outils pour enrichir votre utilisation de l\'application</li></ul></li></ol><p>Pour un guide plus élaboré, voyez <a href=\"#\" onclick=\"openHelp.onClick(); return false;\">help</a>, qui traite de choses plus spécifiques</p>
+	]]></string>
+    <string name="welcomeTabEmailSubject">Envoyé du lexique biblique v{version}</string>
+    <string name="welcomeTabTranslationEmailSubject">Aidez-nous pour la traduction de cette UI</string>
+    <string name="welcomeTabAnotation"><![CDATA[
+	    N\'hésitez pas à me contacter à <a href=\"#\" onclick=\"openEmail.onClick(); return false;\">{email}</a> si vous avez des questions ou besoin d\'aide.
+	]]></string>
+    <string name="welcomeTabHelpTitle">Comment l\'utiliser</string>
+    <string name="welcomeTabHelpText">Pour la manière d\'utiliser cette application, voyez l\'aide en cliquant ici.</string>
+    <string name="welcomeTabModulesTitle">Ouvrir la librairie des modules</string>
+    <string name="welcomeTabModulesText">Pour ouvrir Bibles, modules, concordance et autres modules, cliquez ici.</string>
+</resources>

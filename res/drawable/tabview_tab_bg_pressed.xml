@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+   <item> 
+      <shape android:shape="rectangle">
+            <solid android:color="@color/actived_button" />
+        </shape>
+   </item>    
+    
+   <item android:top="-4dp" android:left="-4dp" android:right="-4dp"> 
+      <shape android:shape="rectangle">
+            <stroke android:width="4dp" android:color="@color/hightlighted_text" />
+            <solid android:color="@android:color/transparent" />
+        </shape>
+   </item>
+
+</layer-list>

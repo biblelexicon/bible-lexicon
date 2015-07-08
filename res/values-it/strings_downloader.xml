@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloaderTypesLexicons">Lessici biblici</string>
+    <string name="downloaderTypesDictionaries">Dizionari biblici</string>
+    <string name="downloaderTypesBibles">Bibbie</string>
+    <string name="downloaderNotificationItemTitle">Dato</string>
+    <string name="downloaderNotificationTitle">Il download è in corso `{item}`</string>
+    <string name="downloaderNotificationPercent">Stato del download … {percent}%</string>
+    <string name="downloaderNotificationCompleted">Il download è stato completato</string>
+    <string name="downloaderItemFinished">Il download del file `{item}` è stato completato</string>
+    <string name="downloaderItemFailed">Il download del file `{item}` è fallito</string>
+    <string name="downloaderItemCancelled">Il download del file `{item}` è stato cancellato</string>
+    <string name="downloaderErrorTitle">Errore nel download del file</string>
+    <string name="downloaderErrorFilewrite">Impossibile scrivere il file `{file}`. Controlla che sia disponibile lo spazio necessario sul disco.</string>
+    <string name="downloaderErrorTimedout">Connessione scaduta. Per favore, riprova più tardi.</string>
+    <string name="downloaderErrorUnknownHost">Non posso risolvere l\'host `{host}`. Per favore, riprova più tardi.</string>
+    <string name="downloaderErrorFilesize">Il download del file `{file}` è incompleto. Per favore, riprova.</string>
+    <string name="downloaderErrorStreamsize">Contenuto dat  `{url}` non scaricato per intero. Per favore, riprova.</string>
+    <string name="downloaderErrorIOError">Errore di Input/Output. Per favore, riprova.</string>
+    <string name="downloaderErrorResultCodeError">Errore di connessione `{code}`. Per favore, riprova.</string>
+    <string name="downloaderErrorReset">Connessione interrotta dal server. Per favore, riprova.</string>
+</resources>

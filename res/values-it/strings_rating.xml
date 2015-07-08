@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ratingTitle">Vota</string>
+    <string name="ratingText">Apertura di Google Play...</string>
+    <string name="ratingGooglePlayMissing">Non riesco a trovare Google Play.</string>
+</resources>

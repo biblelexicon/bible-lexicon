@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="moduledownloadTitle">Module downloader</string>
+    
+    <!-- You should also update moduleDownloadLanguages property at Config.java -->
+	<string-array name="moduledownloadOptionsLanguages">
+	    <item>- Select language -</item>
+	    <item>Greek</item>	    
+	    <item>Hebrew</item>   	    
+	    <item>Arabic</item>
+	    <item>Czech</item>
+	    <item>Dutch</item>
+	    <item>English</item>
+	    <item>French</item>
+	    <item>German</item>
+	    <item>Chinese</item>
+	    <item>Indonesian</item>	    
+	    <item>Italian</item>
+	    <item>Japanese</item>
+	    <item>Korean</item>
+	    <item>Latin</item>
+	    <item>Polish</item>
+	    <item>Portuguese</item>
+	    <item>Romanian</item>
+	    <item>Russian</item>
+	    <item>Slovak</item>
+	    <item>Spanish</item>
+	    <item>Swahili</item>
+	    <item>Swedish</item>
+	    <item>Syriac</item>
+	    <item>Tamil</item>	    
+	    <item>Turkish</item>
+	    <item>Vietnamese</item>	    	    	    
+	</string-array>	 	  
+	<string-array name="moduledownloadOptionsType">
+	    <item>- Select type -</item>
+	    <item>Lexicon</item>
+	    <item>Bible</item>	    	    
+	</string-array>	
+    <string name="moduledownloadOptionsNotDownloaded">Not downloaded</string>
+    
+    <string name="moduledownloadDlgStartDownload">Start to download this module?</string>
+    <string name="moduledownloadDlgNoModules">Sorry, There are no modules to download. Please, try later.</string>     
+
+    <string name="moduledownloadPreparedForDownload">Prepared for download…</string> 
+    
+    
+    <string name="moduledownloadDownloadAlreadyDownloaded">`{module}` is already downloaded.</string>
+    <string name="moduledownloadDownloadInProgress">In progress…</string>
+    <string name="moduledownloadDownloadCanceled">Canceled…</string>    
+    
+    <string name="moduledownloadDeleteOldModulesTitle">Remove older</string>
+    <string name="moduledownloadDeleteOldModulesText">Do you want older modules of `{module}` to be removed?</string>
+    
+	<!-- List filter -->
+	<string name="moduledownloadFilterTextHint">Search by title, language…</string>    
+
+    <string name="moduledownloadStatusRefresh">Refresh…</string>
+    <string name="moduledownloadStatusLoading">Downloading modules list…</string>
+    <string name="moduledownloadStatusEmpty">No modules to download.</string>
+    <string name="moduledownloadStatusError">Can not connect to server to obtain module list, please, try again later.</string>
+</resources>

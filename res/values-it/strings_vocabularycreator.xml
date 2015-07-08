@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vocabularyCreatorNoLexiconsTitle">Nessun lessico trovato</string>
+    <string name="vocabularyCreatorNoLexiconsText">Per utilizzare \'Vocabolario personalizzato\' devi scaricare almeno un lessico.
+        \n\n
+Vuoi scaricarli adesso?</string>
+    <string name="vocabularyCreatorNoBiblesTitle">Nessuna Bibbia trovata</string>
+    <string name="vocabularyCreatorNoBiblesText">Per utilizzare \'Vocabolario personalizzato\' devi scaricare pubblicazioni sul greco biblico (come TR per NT) e sull\'ebraico biblico (come WLC per OT)
+	    \n\n
+ Vuoi scaricarli adesso?</string>
+    <string name="vocabularyCreatorOptionLexicon">Lessico</string>
+    <string name="vocabularyCreatorOptionMaxOccurrence">Numero massimo di ricorrenze</string>
+    <string name="vocabularyCreatorOptionMinOccurrence">Numero minimo di ricorrenze</string>
+    <string name="vocabularyCreatorOptionShowOccurrences">Mostra ricorrenze</string>
+    <string name="vocabularyCreatorOptionShowStrong">Mostra numeri di riferimento in Strong</string>
+    <string name="vocabularyCreatorOptionShowLearned">Mostra quanto appreso</string>
+    <string name="vocabularyCreatorOptionOrderByOccurrence">Ordina per ricorrenza</string>
+    <string name="vocabularyCreatorOptionOrderByWord">Ordina per parola</string>
+    <string name="vocabularyCreatorOptionWithAccents">Con accenti</string>
+    <string name="vocabularyCreatorOptionFontsize">Formato carattere</string>
+    <string name="vocabularyCreatorGeneratedVocabulary">Vocabolario</string>
+    <string name="vocabularyCreatorDetailItemActionLearned">Segna quanto imparato</string>
+    <string name="vocabularyCreatorDetailItemActionDelete">Rimuovi la parola dal vocabolario</string>
+    <string name="vocabularyCreatorLearnedListItemActionDelete">Rimuovi dalla lista</string>
+    <string name="vocabularyCreatorMoreExportEmail">Esporta</string>
+    <string name="vocabularyCreatorMoreShowLearnedList">Le mie parole imparate</string>
+    <string name="vocabularyCreatorExportPreview">Esporta anteprima</string>
+</resources>

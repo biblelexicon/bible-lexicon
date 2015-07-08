@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcomeTabTitle">Welcome</string>
+    <string name="welcomeTabText"><![CDATA[
+		<p>
+			Vítejte v aplikaci Bible lexicon pro studium Bible.
+		</p><p>
+			Neváhejte mne kontaktovat na <a href="#" onclick="openEmail.onClick(); return false;">{email}</a> pokud potřebujete pomoc nebo máte nějaké otázky.
+		</p><p></p><h2>Jak začít používat aplikaci</h2><p>Pokračujte podle následujících kroků:</p><ol><li>
+	    		Stáhnutí modulů (<a href="#" onclick="openTutorial.onClick(); return false;">youtube tutorial</a>)
+	    		<ul><li>Otevřete hlavní menu aplikace (klikněte na ikonku aplikace vlevo nahoře)</li><li>Vyberte stahovač modulů</li><li>Nyní rozbalte skupinu modulů, kterou chcete stahnout. Pro zúžení vypsaných modulů můžete použít filtr</li></ul></li><li>Nyní jste připravení používat aplikaci. Pokračujte:
+				<ul><li><em>Knihovna modulů</em>: knihovna všech stažených modulů (zde můžete otevírat lexicony a Bible)</li><li><em>Studijní nástroje</em>: tato skupina nástrojů je užitečná pokud chcete věci studovat více do hloubky</li><li><em>Nástroje</em>: nástroje k obohacení používání aplikace</li></ul></li></ol><p>Pro další nápovědu, prosím, vizte <a href="#" onclick="openHelp.onClick(); return false;">nápovědu</a>, která adresuje věci konkrétněji.
+				</p><p></p>    
+	]]></string>
+    <string name="welcomeTabEmailSubject">Email z Bible lexicon v{version}</string>
+    <string name="welcomeTabTranslationEmailSubject">Pomoc s překladem UI</string>
+    <string name="welcomeTabAnotation"><![CDATA[
+		Neváhejte mne kontaktovat na <a href="#" onclick="openEmail.onClick(); return false;">{email}</a> pokud potřebujete pomoct nebo máte nějakou otázku.
+	]]></string>
+    <string name="welcomeTabHelpTitle">Jak používat</string>
+    <string name="welcomeTabHelpText">Pro to, jak používat tuto aplikaci, vizte nápovědu kliknutím zde.</string>
+    <string name="welcomeTabModulesTitle">Otevřít knihovnu modulů</string>
+    <string name="welcomeTabModulesText">Pro otevření Biblí, lexikonů, konkordancí a dalších modulů klikněte zde.</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bible lexicon supported languages -->
+    <string name="thisTranslationLangName">Bhs Inggris</string>
+    <!-- Menu -->
+
+    <!-- NDL Window -->
+    <string name="ndlBrowserSearchBarSearchtextFrameTextHint">Mencari</string>
+    <string name="ndlBrowserSearchBarSearchtextFrameTextNoInput">Masukkan teks untuk pencarian</string>
+    <string name="ndlBrowserSearchBarDisplayingResults">Menampilkan {count} hasil</string>
+    <string name="ndlBrowserSearchBarNoMatches">Tidak ditemukan hasil</string>
+    <string name="ndlBrowserSearchBarWait">Mohon tunggu...</string>
+    <string name="ndlBrowserSearchBarResize">Ubah ukuran pelihat</string>
+    <string name="ndlBrowserSearchBarCanceled">Dibatalkan</string>
+    <string name="ndlContentNoMoreItems">Tidak ada pilihan</string>
+    <string name="ndlBrowserAdvancedOptionsPassageTitle">Bacaan</string>
+    <string name="ndlBrowserAdvancedOptionsPassageHint">Semua...</string>
+    <string name="ndlBrowserAdvancedOptionsPassageSelect">Pilih</string>
+    <string name="ndlBrowserAdvancedOptionsConcordancesTitle">Alkitab</string>
+    <string name="ndlBrowserAdvancedOptionsLexiconsTitle">Leksikon</string>
+    <!-- Other, non categorized -->
+    <string name="dlgOldBLOneModulesVersionsTitle">Modul BL 1.x</string>
+    <string name="dlgOldBLOneModulesVersionsText">Ditemukan modul versi lama yang sudah tidak cocok dengan Bible lexicon 2.x. Modul ini sudah dihapus, silakan unduh versi barunya.</string>
+    <string name="tabviewTabManagerTitle">Pilih atau hilangkan label</string>
+    <string name="loading">Proses....</string>
+    <string name="export">Ekspor</string>
+    <string name="fullscreen">Layar penuh</string>
+</resources>

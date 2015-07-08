@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSelectLexicon">Select lexicon</string>
+    
+    <string name="wordinfoShare">Share</string>
+    <string name="wordinfoShareVerse">Share verse</string>
+    <string name="wordinfoShareWord">Share word</string>
+    <string name="wordinfoShareCopyVerse">Copy verse to clipboard</string>
+    <string name="wordinfoShareCopyWord">Copy word to clipboard</string>
+    
+    
+    <string name="wordinfoWord">Word</string>
+    <string name="wordinfoTransliteration">Transliteration</string>
+    <string name="wordinfoStrong">Strong</string>
+    <string name="wordinfoOccurrences">Occurrences</string>
+    <string name="wordinfoMorphology">Morphology</string>    
+    
+</resources>

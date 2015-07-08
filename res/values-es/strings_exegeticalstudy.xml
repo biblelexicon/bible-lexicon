@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exegeticalstudyBrowserSearchTextHint">Buscar en `{book}`…</string>
+    <string name="exegeticalstudyTextTab">Texto estudiado</string>
+    <string name="exegeticalstudyTextContextTab">Contexto</string>
+    <string name="exegeticalstudyContextAnalysisTab">Análisis en contexto</string>
+    <string name="exegeticalstudyTranslationTab">Traducción</string>
+    <string name="exegeticalstudyWordsTab">Palabras</string>
+    <string name="exegeticalstudyNotesTab">Notas</string>
+    <string name="exegeticalstudyMoreFullscreen">Pantalla Completa</string>
+    <string name="exegeticalstudyMoreContextTab">Mostrar contexto</string>
+    <string name="exegeticalstudyMoreContextAnalysisTab">Mostrar análisis del contexto</string>
+    <string name="exegeticalstudyMoreTranslationTab">Mostrar verso traducido</string>
+    <string name="exegeticalstudyMoreWordsTab">Mostrar palabras del pasaje</string>
+    <string name="exegeticalstudyMoreContextTabDesc">Ver todo el texto del capitulo del verso actualmente estudiado</string>
+    <string name="exegeticalstudyMoreContextAnalysisTabDesc">Búsquedas de palabras del verso estudiado recientemente en un texto específico del contexto (pasaje)</string>
+    <string name="exegeticalstudyMoreTranslationTabDesc">Traducir palabra por palabra del verso recientemente estudiado</string>
+    <string name="exegeticalstudyMoreWordsTabDesc">Listado de palabras repetidas por un pasaje especifico en una Biblia especifica</string>
+    <string name="exegeticalstudyTextTabSelectBooks">Libros...</string>
+    <string name="exegeticalstudyTextTabSelectPassage">Seleccionar verso...</string>
+    <string name="exegeticalstudyWordsTabSelectPassage">Seleccionar pasaje</string>
+    <string name="exegeticalstudyContextAnalysisTabSelectPassage">Seleccionar pasaje</string>
+    <string name="exegeticalstudyNotesSearchHint">Filtrar pasaje</string>
+    <string name="exegeticalstudyNotesNewPassage">Agregar pasaje...</string>
+    <string name="exegeticalstudyNotesNewPassagePS">Seleccionar...</string>
+    <string name="exegeticalstudyNotesNewTitle">Introducir titulo...</string>
+    <string name="exegeticalstudyNotesNewNotes">Introducir notas...</string>
+    <string name="exegeticalstudyTranslationTabSelectLexicons">Léxicos</string>
+    <string name="exegeticalstudyWordOptionsAddToSearch">Añadir para busqueda</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dimSettingsGroupFontSizeTitle">19sp</dimen>
+    <dimen name="dimSettingsGroupFontSizeDescription">14sp</dimen>
+    
+    <dimen name="dimSettingsItemFontSizeTitle">15sp</dimen>
+    <dimen name="dimSettingsItemFontSizeDescription">14sp</dimen>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSearchInLexiconForm">Cerca `{word}` nel lessico biblico</string>
+    <string name="wordinfoSearchInConcordanceForm">Cerca `{word}` nella concordanza biblica</string>
+    <string name="wordinfoSearchInLexiconStrong">Cerca Strong `{word}` nel lessico biblico</string>
+    <string name="wordinfoSearchInConcordanceStrong">Cerca Strong `{word}` nella concordanza biblica</string>
+    <string name="wordinfoSearchInLexiconWordbase">Cerca la parola base nel lessico biblico `{word}`</string>
+    <string name="wordinfoSearchInConcordanceWordbase">Cerca la parola base nella concordanza biblica `{word}`</string>
+    <string name="wordinfoSearchInLexiconTransliteration">Cerca la traslitterazione nel lessico biblico `{word}`</string>
+    <string name="wordinfoSearchInConcordanceTransliteration">Cerca la traslitterazione nella concordanza biblica `{word}`</string>
+    <string name="wordinfoSearchInLexicon">Cerca `{word}` nel lessico biblico</string>
+    <string name="wordinfoSearchInConcordance">Cerca `{word}` nella concordanza biblica</string>
+    <string name="wordinfoDisplayMorphology">Mostra la morfologia della parola</string>
+    <string name="wordinfoDisplayInfo">Visualizza info sulla parola</string>
+    <string name="wordinfoDisplayPassageTranslator">Traduci il versetto `{word}`</string>
+    <string name="wordinfoDisplayInBibleReader">Visualizza `{word}` nel Lettore Biblico</string>
+    <string name="wordinfoSelectLexiconTitle">Seleziona un lessico biblico</string>
+    <string name="wordinfoSelectConcordanceTitle">Seleziona una concordanza biblica</string>
+    <string name="wordinfoMorphologyTitle">Morfologia di `{word}`</string>
+    <string name="wordinfoInfoTitle">Info su `{word}`</string>
+    <string name="wordinfoInfoWord">Parola</string>
+    <string name="wordinfoInfoWordbase">Parola base</string>
+    <string name="wordinfoInfoStrong">Strong</string>
+    <string name="wordinfoInfoOccurrences">Ricorrenze</string>
+    <string name="wordinfoInfoTransliteration">Traslitterazione</string>
+    <string name="wordinfoInfoMorphology">Morfologia</string>
+</resources>

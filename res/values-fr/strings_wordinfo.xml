@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSelectLexicon">Sélectionner le lexique</string>
+    <string name="wordinfoShare">Partager</string>
+    <string name="wordinfoShareVerse">Partager le verset</string>
+    <string name="wordinfoShareWord">Partager le mot</string>
+    <string name="wordinfoShareCopyVerse">Copier le verset sur l\'écran d\'accueil</string>
+    <string name="wordinfoShareCopyWord">Copier le mot sur l\'écran d\'accueil</string>
+    <string name="wordinfoWord">Mot</string>
+    <string name="wordinfoTransliteration">Translitération</string>
+    <string name="wordinfoStrong">Strong</string>
+    <string name="wordinfoOccurrences">Occurrences</string>
+    <string name="wordinfoMorphology">Morphologie</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialogBoxesSubmit">Potvrdit</string>
+    <string name="dialogBoxesOk">OK</string>
+    <string name="dialogBoxesCancel">Cancel</string>
+    <string name="dialogBoxesClose">Zavřít</string>
+    <string name="dialogBoxesYes">Ano</string>
+    <string name="dialogBoxesNo">Ne</string>
+    <string name="dialogBoxesSave">Uložit</string>
+    <string name="dialogBoxesContinue">Pokračovat</string>
+    <string name="dialogDownloadQuestionText">Je nutné stáhnout nějaké moduly. Chcete je stáhnout nyní?</string>
+    <string name="dialogAlertNoConnectionTitle">Žádné připojení</string>
+    <string name="dialogAlertNoConnectionText">Nelze se připojit k internetu.</string>
+</resources>

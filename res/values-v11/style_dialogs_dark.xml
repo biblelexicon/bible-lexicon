@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="DialogBoxesCustomDark" parent="@android:style/Theme.Holo.Dialog">
+
+    </style>
+    
+    <style name="DialogBoxesCustomTextDark" parent="@style/DialogBoxesCustomDark">
+
+    </style>        
+</resources>

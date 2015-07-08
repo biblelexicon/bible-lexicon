@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="bookmarksFilterHint">Search by keyword, passage…</string>
+    <string name="bookmarksAddTitle">Add bookmark…</string>
+
+   	
+</resources>

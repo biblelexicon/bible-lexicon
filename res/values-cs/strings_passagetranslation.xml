@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passagetranslationBrowserWordsCount">slov</string>
+    <string name="passagetranslationBrowserAdvancedWordsCount">Zobrazovat počet slov</string>
+    <string name="passagetranslationNoConcordancesDlgBoxTitle">Žádná Bible</string>
+    <string name="passagetranslationNoLexiconsDlgBoxTitle">Žádný lexikon</string>
+    <string name="passagetranslationNoConcordancesDlgBoxText">Abyste mohli používat `Passage translation` musíte si stáhnout vyžadované moduly.
+\n\n
+Chcete je stáhnout nyní?</string>
+    <string name="passagetranslationDetailTableWord">Slovo</string>
+    <string name="passagetranslationDetailTableTranslation">Překlad</string>
+    <string name="passagetranslationDetailTableBase">Základní tvar</string>
+    <string name="passagetranslationDetailTableStrongs">Strong</string>
+    <string name="passagetranslationDetailTableTransliteration">Transliterace</string>
+    <string name="passagetranslationDetailTableOccurrences">Výskyt</string>
+    <string name="passagetranslationDetailTableMorphology">Morfologie</string>
+    <string name="passagetranslationNoLexiconsDlgBoxText">Pro použití `Passage translatoru` musíte stáhnout nějaké lexikony.\n\nChcete je stáhnout nyní?</string>
+</resources>

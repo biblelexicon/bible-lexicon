@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exegeticalstudyBrowserSearchTextHint">Hledat v `{book}`…</string>
+    <string name="exegeticalstudyTextTab">Studovaný text</string>
+    <string name="exegeticalstudyTextContextTab">Kontext</string>
+    <string name="exegeticalstudyContextAnalysisTab">Analýza kontextu</string>
+    <string name="exegeticalstudyTranslationTab">Překlad</string>
+    <string name="exegeticalstudyWordsTab">Slova</string>
+    <string name="exegeticalstudyNotesTab">Poznámky</string>
+    <string name="exegeticalstudyWikiTab">Wikipedie</string>
+    <string name="exegeticalstudyLexiconsTab">Lexicony</string>
+    <string name="exegeticalstudyMoreFullscreen">Fullscreen</string>
+    <string name="exegeticalstudyMoreContextTab">Zobrazit kontext</string>
+    <string name="exegeticalstudyMoreContextAnalysisTab">Zobrazit analýzu kontextu</string>
+    <string name="exegeticalstudyMoreTranslationTab">Zobrazit překladač veršů</string>
+    <string name="exegeticalstudyMoreWordsTab">Zobrazit výskyt slov</string>
+    <string name="exegeticalstudyMoreLexiconsTab">Zobrazit slova v lexiconech</string>
+    <string name="exegeticalstudyMoreContextTabDesc">Umožní vám vidět text celé kapitoly právě studovaného verše</string>
+    <string name="exegeticalstudyMoreContextAnalysisTabDesc">Vyhladává slova právě studovaného verše ve vybraném textovém kontextu (pasáže)</string>
+    <string name="exegeticalstudyMoreTranslationTabDesc">Provede překlad slovo od slova právě studovaného verše</string>
+    <string name="exegeticalstudyMoreWordsTabDesc">Vypíše seznam počtu slov pro vybranou pasáž a vybranou Bibli</string>
+    <string name="exegeticalstudyMoreLexiconsTabDesc">Vypisuje seznam slov pro specifikovanou pasáž ve všech dostupných lexiconech</string>
+    <string name="exegeticalstudyTextTabSelectBooks">Knihy…</string>
+    <string name="exegeticalstudyTextTabSelectPassage">Vyberte verš…</string>
+    <string name="exegeticalstudyWordsTabSelectPassage">Vyberte pasáž…</string>
+    <string name="exegeticalstudyContextAnalysisTabSelectPassage">Vyberte pasáž…</string>
+    <string name="exegeticalstudyNotesSearchHint">Filtrovat pasáž…</string>
+    <string name="exegeticalstudyNotesNewPassage">Zadejte pasáž…</string>
+    <string name="exegeticalstudyNotesNewPassagePS">Vybrat…</string>
+    <string name="exegeticalstudyNotesNewTitle">Zadejte titulek…</string>
+    <string name="exegeticalstudyNotesNewNotes">Zadejte vaše poznámky…</string>
+    <string name="exegeticalstudyTranslationTabSelectLexicons">Lexikony…</string>
+    <string name="exegeticalstudyWordOptionsAddToSearch">Přidat do vyhledávání</string>
+</resources>

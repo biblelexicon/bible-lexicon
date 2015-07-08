@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcomeTabTitle">Benvenuto</string>
+    <string name="welcomeTabText"><![CDATA[
+		<p>
+ Benvenuto nel Bible Lexicon Study.
+		</p>	
+		<p>
+			Non esitare a contattarmi presso  <a href="#" onclick="openEmail.onClick(); return false;">{email}</a> se hai bisogno di aiuto o anche per qualsiasi domanda..
+		</p>
+	    <p></p>
+	    <h2>Primo utilizzo</h2>
+	    	    
+	    <p>Segui questi passi quando inizi ad utilizzare questa applicazione:</p>			    
+	    <ol>
+	    	<li>
+	    		Scarica le pubblicazioni (<a href="#" onclick="openTutorial.onClick(); return false;">youtube tutorial</a>)
+	    		<ul>
+	    			<li>Apri il menu dell\'applicazione cliccando sull\'icona posta in alto a sinistra</li>
+	    			<li>Seleziona module downloader</li>
+	    			<li>Seleziona il gruppo di moduli (pubblicazioni) che desideri scaricare.</li>
+	    		</ul>
+	    	</li>
+	    	<li>Ora sei pronto ad usare l\'applicazione. Continua come segue:
+				<ul>
+	    			<li><em>Module library</em>: library of all downloaded modules (da qui puoi aprire lessici e Bibbie )</li>
+	    			<li><em>Study tools</em>: questo insieme di strumenti ti aiuteranno se vorrai eseguire ricerche approfondite</li>
+	    			<li><em>Tools</em>: strumenti concepiti per arricchire la tua esperienza con questa applicazione</li>
+	    		</ul>
+	    	</li>
+	    </ol>	
+   		<p>Se hai ancora bisogno di aiuto puoi far riferimento a <a href="#" onclick="openHelp.onClick(); return false;">help</a>, dove troverai spiegazioni ancor più dettagliate..</p>
+	]]></string>
+    <string name="welcomeTabEmailSubject">Email da Bible Lexicon v{version}</string>
+    <string name="welcomeTabTranslationEmailSubject">Guida con UI</string>
+    <string name="welcomeTabAnotation"><![CDATA[	    Non esitare a contattarmi presso <a href="#" onclick="openEmail.onClick(); return false;">{email}</a> se ti serve aiuto o anche per qualsiasi domanda.]]></string>
+    <string name="welcomeTabHelpTitle">Guida</string>
+    <string name="welcomeTabHelpText">Per la guida clicca qui.</string>
+    <string name="welcomeTabModulesTitle">Apri la libreria delle pubblicazioni</string>
+    <string name="welcomeTabModulesText">Per aprire le Bibbie, i lessici, le concordanze e le altre pubblicazioni clicca qui.</string>
+</resources>

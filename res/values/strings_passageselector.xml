@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passageselectorTitle">Select passage</string>
+    
+	<string name="passageselectorFrom">From…</string>
+	<string name="passageselectorTo">To…</string>    
+	
+	<string name="passageselectorBook">Book</string>
+	<string name="passageselectorChapter">Chapter</string>
+	<string name="passageselectorVerse">Verse</string>
+    
+	<string name="passageselectorInvalidPassageFormat">Invalid passage format</string>	
+	
+	<string name="passageselectorOnlyForBookModules">PS cannot be used for other then Bible modules</string>
+</resources>

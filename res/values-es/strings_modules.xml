@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modulesDlgLoadingText">Cargando módulos de la tarjeta de memória...</string>
+    <string name="modulesDlgLoadingRemeberedTabsText">Abriendo pestañas recientes...</string>
+    <string-array name="modulesNames">
+        <item>Léxicos</item>
+        <item>Diccionarios</item>
+        <item>Biblias</item>
+        <item>Concordancias</item>
+        <item>Traducción del pasaje</item>
+        <item>Lector de Biblia</item>
+        <item>Diccionario Personal</item>
+        <item>Estudio exegético</item>
+        <item>Notas</item>
+    </string-array>
+    <string name="modulesNamesBibles">Biblias</string>
+    <string-array name="modulesDescs">
+        <item>Estudiar el significado original de la palabra en Hebreo o Griego.</item>
+        <item>Diccionarios de ayuda para traducciones</item>
+        <item>Leer texto de la biblia. Marca sobre la palabra para mas información u opciones.</item>
+        <item>Estudiar ocurrencias de palabra o frase.</item>
+        <item>Traducir palabra por palabra seleccionada del pasaje bíblico en el Griego o Hebreo. Click para establecer etiquetas para una búsqueda posterior.</item>
+    </string-array>
+    <!-- List -->
+    <!-- Downloads -->
+</resources>

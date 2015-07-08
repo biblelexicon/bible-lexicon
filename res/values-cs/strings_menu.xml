@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menuSearch">Vyhledávání</string>
+    <string name="menulibrary">Knihovna</string>
+    <string name="menuModuleDownloader">Stahovač modulů</string>
+    <string name="menuGroupStudyTools">Studijní nástroje</string>
+    <string name="menuGroupTools">Nástroje</string>
+    <string name="menuGroupApplication">Aplikace</string>
+    <string name="menuSettings">Nastavení</string>
+    <string name="menuFullscreen">Fullscreen</string>
+    <string name="menuHelp">Nápověda</string>
+    <string name="menuRequestFeature">Žádat funkcionalitu</string>
+    <string name="menuAbout">O aplikaci</string>
+    <string name="menuRate">Hodnotit</string>
+    <string name="menuDonation">Přispět</string>
+    <string name="menuExit">Konec</string>
+</resources>

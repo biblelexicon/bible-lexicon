@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="DBViewerHeader">
+	<![CDATA[
+		<html>
+			<head>
+				<style>
+					body
+					{
+						font-size: 12px;
+						text-align: justify;
+						color: #646464;
+					}	
+
+					table
+					{
+						font-size: 12px;
+					}
+					table th
+					{
+						padding: 4px 6px;
+						text-align: center;
+						background: #e3e3e3;
+					}
+					table td
+					{	
+						padding: 2px 4px;
+						vertical-align: super;	
+					}					
+				</style>
+			</head>
+			<body>	
+    
+	]]>    
+	</string>
+	<string name="DBViewerFooter">
+	<![CDATA[
+		    </body>
+	    </html>	     
+	]]>    
+	</string>	
+		
+</resources>

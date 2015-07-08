@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSelectLexicon">Pilih kosakata</string>
+    <string name="wordinfoShare">Bagikan</string>
+    <string name="wordinfoShareVerse">Bagikan ayat</string>
+    <string name="wordinfoShareWord">Bagikan kata</string>
+</resources>

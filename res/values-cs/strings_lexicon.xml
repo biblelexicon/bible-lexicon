@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lexiconTranslate">Přeložit</string>
+    <string name="lexiconOccurrences">Výskyty</string>
+    <string name="lexiconStrong">Strong číslo</string>
+    <string name="lexiconTransliteration">Transliterace</string>
+    <string name="lexiconOrigin">Původ</string>
+    <string name="lexiconUsage">Použití</string>
+    <string name="lexiconPronunciation">Vyslovování</string>
+    <string name="lexiconNotes">Poznámky</string>
+    <string name="lexiconSelectConcordance">Vyberte konkordanci…</string>
+    <string name="lexiconSelectLexicon">Vyberte lexikon…</string>
+</resources>

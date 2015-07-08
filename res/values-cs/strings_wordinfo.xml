@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wordinfoSelectLexicon">Vybrat lexikon</string>
+    <string name="wordinfoShare">Sdílet</string>
+    <string name="wordinfoShareVerse">Sdílet verš</string>
+    <string name="wordinfoShareWord">Sdílet slovo</string>
+    <string name="wordinfoShareCopyVerse">Kopírovat verš do schránky</string>
+    <string name="wordinfoShareCopyWord">Kopírovat slovo do schránky</string>
+    <string name="wordinfoWord">Slovo</string>
+    <string name="wordinfoTransliteration">Transliterace</string>
+    <string name="wordinfoStrong">Strong</string>
+    <string name="wordinfoOccurrences">Výskyty</string>
+    <string name="wordinfoMorphology">Morfologie</string>
+</resources>

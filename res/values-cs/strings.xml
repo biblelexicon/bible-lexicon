@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_open">Otevřit</string>
+    <string name="drawer_close">Zavřít</string>
+    <!-- NDL Window -->
+    <string name="ndlBrowserSearchBarSearchtextFrameTextHint">Hledat…</string>
+    <string name="ndlBrowserSearchBarSearchtextFrameTextNoInput">Prosím, zadejte text ke hledání</string>
+    <string name="ndlBrowserSearchBarDisplayingResults">Zobrazeno {count} výsledků</string>
+    <string name="ndlBrowserSearchBarNoMatches">Nic nenalezeno</string>
+    <string name="ndlBrowserSearchBarWait">Prosím čekejte…</string>
+    <string name="ndlBrowserSearchBarResize">Změnit šířku browser baru</string>
+    <string name="ndlBrowserSearchBarCanceled">Zrušeno…</string>
+    <string name="ndlContentNoMoreItems">Nejsou k dozpozici žádné možnosti</string>
+    <string name="ndlBrowserAdvancedOptionsPassageTitle">Pasáž</string>
+    <string name="ndlBrowserAdvancedOptionsPassageHint">Vše…</string>
+    <string name="ndlBrowserAdvancedOptionsPassageSelect">Vybrat</string>
+    <string name="ndlBrowserAdvancedOptionsConcordancesTitle">Bible</string>
+    <string name="ndlBrowserAdvancedOptionsLexiconsTitle">Lexikon</string>
+    <!-- Other, non categorized -->
+    <string name="dlgOldBLOneModulesVersionsTitle">Moduly BL verze 1.x</string>
+    <string name="dlgOldBLOneModulesVersionsText">Byly nalezeny staré moduly, které již nejsou podporávaný. Tyto moduly byly odstraněny, prosím stáhněte si nové.</string>
+    <string name="tabviewTabManagerTitle">Vyberte nebo odstraňte tab</string>
+    <string name="loading">Loading…</string>
+    <string name="select">Vybrat…</string>
+    <string name="search">Hledat…</string>
+    <string name="export">Export</string>
+    <string name="fullscreen">Fullscreen</string>
+    <string name="thisTranslationLangName">Čeština</string>
+    <string name="menuMainModules">Knihovna modulů</string>
+    <string name="menuMainModuleDownload">Stahovač modulů</string>
+    <string name="menuMainSettings">Nastavení</string>
+    <string name="menuMainLogSend">Poslat debug log</string>
+    <string name="menuMainHelp">Help</string>
+    <string name="menuMainRequestFeature">Request feature</string>
+    <string name="menuMainAbout">O aplikaci</string>
+    <string name="menuMainExit">Exit</string>
+    <string name="menuModulesCheckupdates">Zkontrolovat aktualizace</string>
+</resources>

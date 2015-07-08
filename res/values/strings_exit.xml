@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="dialogCloseQuestion">Do you really want to close {appname}?</string>     
+    <string name="exitRememberTabs">Remember last opened tabs</string> 
+    	
+</resources>

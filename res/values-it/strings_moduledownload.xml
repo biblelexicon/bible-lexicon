@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="moduledownloadTitle">Download pubblicazioni</string>
+    <string-array name="moduledownloadOptionsType">
+        <item>Tipo</item>
+        <item>Lessico</item>
+        <item>Bibbia</item>
+    </string-array>
+    <string name="moduledownloadOptionsNotDownloaded">"Non scaricato
+"</string>
+    <string name="moduledownloadDlgStartDownload">Inizio a scaricare questa pubblicazione?</string>
+    <string name="moduledownloadDlgNoModules">Spiacente. Non ci sono pubblicazioni da scaricare. Per favore, riprova più tardi.</string>
+    <string name="moduledownloadPreparedForDownload">Pronto per il download...</string>
+    <string name="moduledownloadDownloadAlreadyDownloaded">`{module}` è già stata scaricata.</string>
+    <string name="moduledownloadDownloadInProgress">In corso...</string>
+    <string name="moduledownloadDownloadCanceled">Cancellato...</string>
+    <string name="moduledownloadDeleteOldModulesTitle">Rimuovi i più vecchi</string>
+    <string name="moduledownloadDeleteOldModulesText">Vuoi davvero rimuovere `{module}`?</string>
+    <!-- List filter -->
+    <string name="moduledownloadFilterTextHint">Cerca per titolo, lingua...</string>
+    <string name="moduledownloadStatusRefresh">Azzera...</string>
+    <string name="moduledownloadStatusLoading">Scarica la lista delle pubblicazioni...</string>
+    <string name="moduledownloadStatusEmpty">Non ci sono pubblicazioni da scaricare.</string>
+    <string name="moduledownloadStatusError">Impossibile connettersi al server. Per favore, riprova.</string>
+    <string-array name="moduledownloadOptionsLanguages">
+        <item>- Seleziona la lingua -</item>
+        <item>Arabo</item>
+        <item>Ceco</item>
+        <item>Inglese</item>
+        <item>Francese</item>
+        <item>Tedesco</item>
+        <item>Greco</item>
+        <item>Ebraico</item>
+        <item>Cinese</item>
+        <item>Indonesiano</item>
+        <item>Italiano</item>
+        <item>Giapponese</item>
+        <item>Latino</item>
+        <item>Polacco</item>
+        <item>Portoghese</item>
+        <item>Russo</item>
+        <item>Sloveno</item>
+        <item>Spagnolo</item>
+        <item>Swaili</item>
+        <item>Turco</item>
+        <item>Vietnamita</item>
+    </string-array>
+</resources>

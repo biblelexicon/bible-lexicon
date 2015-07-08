@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloaderNotificationItemTitle">item</string>
+    <string name="downloaderNotificationTitle">Descargando `{item}`</string>
+    <string name="downloaderNotificationPercent">Progreso de descarga... {percent}%</string>
+    <string name="downloaderNotificationCompleted">Descarga completa</string>
+    <string name="downloaderItemFinished">Archivo `{item}` descargado</string>
+    <string name="downloaderItemFailed">Archivo `{item}` fallo la descarga</string>
+    <string name="downloaderItemCancelled">Archivo `{item}` descarga cancelada</string>
+    <string name="downloaderErrorTitle">Error de descarga</string>
+    <string name="downloaderErrorFilewrite">No se pudo escribir un nuevo archivo `{file}`. Consulte el espacio disponible.</string>
+    <string name="downloaderErrorTimedout">Conexión interrumpida. Por favor, intente nuevamente.</string>
+    <string name="downloaderErrorUnknownHost">No es posible contactar al servirdor `{host}`. Por favor, intente mas tarde.</string>
+    <string name="downloaderErrorFilesize">El Archivo `{file}` no pudo ser descargado completamente. Por favor, intente nuevamente.</string>
+    <string name="downloaderErrorStreamsize">El contenido de `{url}` no fue descargado completamente. Por favor, intente nuevamente.</string>
+    <string name="downloaderErrorIOError">Error de emición/recepción. Por favor, intente nuevamente.</string>
+    <string name="downloaderErrorResultCodeError">Error de conexión `{code}`. Por favor, intente mas tarde.</string>
+</resources>
